@@ -33,15 +33,18 @@
   width: 100%;
   height: 100%;
 }
+.btn-grp:hover {
+	background-color: #008ae6;
+
+}
 </style>
 </head>
-<body style="width: 98%; margin: 1%;">
-	<nav class="navbar navbar-default" style="background-color:#00b8e6; color:white; font-family: source-serif-pro; " >
+<body style="width: 80%; margin-right: 10%; margin-left:10%; margin-top: 3%; ">
+	<nav class="navbar navbar-default " style="background-image: url(images/navbarimage.jpg); background-repeat: repeat; color:white; font-family: source-serif-pro; " >
   <div class="container-fluid">
-    <span>	<img src="ne.jpg" width="10%"  style="float: left;"></span>
+    <span>	<img class="img-rounded" src="images/ne.jpg" width="10%"  style="float: left; margin: 2%;  opacity: 0.7;filter: alpha(opacity=100);"></span>
 <div class="container" >  
   <span style="text-align: left; font-size: 600%; text-shadow: 3px 3px 3px #000;">Government Of India</span>
-<span> <marquee style="font-size: 30px; text-shadow: 1px 1px 1px #000;">Thank you for logging in! </marquee></span>
 </div>
 </div>
 </nav>
@@ -50,11 +53,9 @@
 <span style="float: left;"> <div class="input-group">
     <input type="text" class="form-control" placeholder="Search">
     <div class="input-group-btn ">
-      <form action="search.php" method="post">
-      <button class="btn btn-default"  type="submit">
+      <button class="btn btn-default" type="submit">
         <i class="glyphicon glyphicon-search"></i>
       </button>
-      </form>
     </div>
   </div></span>
 </div>
@@ -62,10 +63,59 @@
 <span style="float: right;" >
 	
 	<div class="btn-group">
-  <button type="button" class="btn btn-success btn-lg">Update</button>
+  <button type="button" class="btn btn-success" data-toggle="modal" data-target="#updateModal" style="text-shadow: 1px 1px 1px #000;">Update</button>
+  <!-- Modal 1-->
+  <div class="modal fade" id="updateModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title-1">You need to be an admin to update, Please LogIn :-)</h4>
+        </div>
+        <div class="modal-body">
+      <div id="Admin" class="tab-pane fade in active">
+      <div class="form">
+  <form action="/action_page.php" style="margin: 5%;">
+    <div class="form-group">
+      <label for="text">User-Name:</label>
+      <input type="text" class="form-control" id="" placeholder="Enter name" name="Name" required>
+    </div>
+    
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
+    </div>
+    <div class="form-group">
+      <label for="pwd">Password:</label>
+      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd" required>
+    </div>
+
+    <script>
+         function showAlert() { 
+    var myText = "Account Created Successfully!";
+    alert (myText);
+  }
+  </script>
+    <button type="submit" class="btn btn-default" onclick="showAlert()">Submit</button>
+
+
+  </form>
+  </div>
+    </div>
+   
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
   <span style="float: right;">
  <div class="dropdown">
-  <button class="btn btn-info btn-lg dropdown-toggle" type="button" data-toggle="dropdown">Profile
+  <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown" style="text-shadow: 1px 1px 1px #000;">Profile
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
     <li><a href="#">logout</a></li>
@@ -77,385 +127,39 @@
 </div>
 </span>	
 </div>
-<div class="container" style="width: 100%; margin-top: 5%;">
-  <div class="col-lg-3 sidenav" style="background-color: #0099cc;  " >
-  	<div class="btn-group-vertical" style="margin: 20%; padding-left: 10%;">
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#crimeModal">Crime</button><br>
+<div class="container">
+	<div class="col-lg-12" >
+			<nav style="background-color:  #00bfff; width: 100% ;  border-radius: 7px 7px 7px 7px; margin-top: 2%;">
 
-  <!-- Modal 1-->
-  <div class="modal fade" id="crimeModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title-1">Crime > States</h4>
-        </div>
-        <div class="modal-body">
-       <ul class="list-group">
-  <li class="list-group-item list-group-item-info"><a href="#" onclick='document.getElementById("ifr").src="http://ncrb.gov.in/"';>Andhra Pradesh</a></li>
-  <li class="list-group-item list-group-item-info">Arunachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Assam</li>
-  <li class="list-group-item list-group-item-info">Bihar</li>
-  <li class="list-group-item list-group-item-info">Chattisgarh</li>
-  <li class="list-group-item list-group-item-info">Delhi</li>
-  <li class="list-group-item list-group-item-info">Goa</li>
-  <li class="list-group-item list-group-item-info">Gujrat</li>
-  <li class="list-group-item list-group-item-info">Haryana</li>
-  <li class="list-group-item list-group-item-info"> Himachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Jammu & Kashmir </li>
-  <li class="list-group-item list-group-item-info">Jharkhand </li>
-  <li class="list-group-item list-group-item-info"> Karnataka</li>
-  <li class="list-group-item list-group-item-info"> Kerala</li>
-  <li class="list-group-item list-group-item-info"> Madhya Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Maharashtra</li>
-  <li class="list-group-item list-group-item-info"> Manipur</li>
-  <li class="list-group-item list-group-item-info"> Meghalaya </li>
-  <li class="list-group-item list-group-item-info"> Mizoram </li>
-  <li class="list-group-item list-group-item-info"> Nagaland</li>
-  <li class="list-group-item list-group-item-info"> Odisha</li>
-  <li class="list-group-item list-group-item-info"> Punjab</li>
-  <li class="list-group-item list-group-item-info"> Rajasthan</li>
-  <li class="list-group-item list-group-item-info"> Sikkim</li>
-  <li class="list-group-item list-group-item-info"> Tamil Nadu</li>
-  <li class="list-group-item list-group-item-info"> Telangana </li>
-  <li class="list-group-item list-group-item-info"> Tripura</li>
-  <li class="list-group-item list-group-item-info"> Uttar Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Uttarakhand</li>
-  <li class="list-group-item list-group-item-info"> West Bengal</li>
-  <li class="list-group-item list-group-item-default"> Crime > Union Territories</li>
+		<div class="btn-group btn-group-lg" style="">
+  <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;"><a href="#" style="color: white; text-decoration: none;" onclick='document.getElementById("ifr").src="index.html";' >Crime</a></button>
+  <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;"> Unemployment</button>
+  <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;"> Agriculture</button>
+    <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;"> Women</button>
+  <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;">Default</button>
+  <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;">Default1</button>
+  <button type="button" class="btn btn-info btn-lg" style="background-color: transparent;text-shadow: 1px 1px 1px #000; ">Default2</button>
+   <button type="button" class="btn btn-info btn-lg" style="background-color: transparent; text-shadow: 1px 1px 1px #000;">Default3</button>
+    <button type="button" class="btn btn-info btn-lg" style="background-color: transparent;text-shadow: 1px 1px 1px #000; ">Default4</button>
 
-    <li class="list-group-item list-group-item-info"> Andaman & Nicobar Islands</li>
-  <li class="list-group-item list-group-item-info"> Chandigarh</li>
-  <li class="list-group-item list-group-item-info"> Dadra & Nagar Haveli</li>
-  <li class="list-group-item list-group-item-info"> Daman & Diu</li>
-  <li class="list-group-item list-group-item-info"> Lakswadeep</li>
-  <li class="list-group-item list-group-item-info"> Puducherry</li>
-</ul>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#agriModal">Agriculture</button><br>
-
-  <!-- Modal2 -->
-  <div class="modal fade" id="agriModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title-2">Agriculture > States</h4>
-        </div>
-        <div class="modal-body">
-       <ul class="list-group">
-  <li class="list-group-item list-group-item-info">Andhra Pradesh</li>
-  <li class="list-group-item list-group-item-info">Arunachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Assam</li>
-  <li class="list-group-item list-group-item-info">Bihar</li>
-  <li class="list-group-item list-group-item-info">Chattisgarh</li>
-  <li class="list-group-item list-group-item-info">Delhi</li>
-  <li class="list-group-item list-group-item-info">Goa</li>
-  <li class="list-group-item list-group-item-info">Gujrat</li>
-  <li class="list-group-item list-group-item-info">Haryana</li>
-  <li class="list-group-item list-group-item-info"> Himachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Jammu & Kashmir </li>
-  <li class="list-group-item list-group-item-info">Jharkhand </li>
-  <li class="list-group-item list-group-item-info"> Karnataka</li>
-  <li class="list-group-item list-group-item-info"> Kerala</li>
-  <li class="list-group-item list-group-item-info"> Madhya Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Maharashtra</li>
-  <li class="list-group-item list-group-item-info"> Manipur</li>
-  <li class="list-group-item list-group-item-info"> Meghalaya </li>
-  <li class="list-group-item list-group-item-info"> Mizoram </li>
-  <li class="list-group-item list-group-item-info"> Nagaland</li>
-  <li class="list-group-item list-group-item-info"> Odisha</li>
-  <li class="list-group-item list-group-item-info"> Punjab</li>
-  <li class="list-group-item list-group-item-info"> Rajasthan</li>
-  <li class="list-group-item list-group-item-info"> Sikkim</li>
-  <li class="list-group-item list-group-item-info"> Tamil Nadu</li>
-  <li class="list-group-item list-group-item-info"> Telangana </li>
-  <li class="list-group-item list-group-item-info"> Tripura</li>
-  <li class="list-group-item list-group-item-info"> Uttar Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Uttarakhand</li>
-  <li class="list-group-item list-group-item-info"> West Bengal</li>
-  <li class="list-group-item list-group-item-default"> Agriculture > Union Territories</li>
-
-    <li class="list-group-item list-group-item-info"> Andaman & Nicobar Islands</li>
-  <li class="list-group-item list-group-item-info"> Chandigarh</li>
-  <li class="list-group-item list-group-item-info"> Dadra & Nagar Haveli</li>
-  <li class="list-group-item list-group-item-info"> Daman & Diu</li>
-  <li class="list-group-item list-group-item-info"> Lakswadeep</li>
-  <li class="list-group-item list-group-item-info"> Puducherry</li>
-</ul>        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#unempModal">Unemployment</button><br>
-
-  <!-- Modal 3-->
-  <div class="modal fade" id="unempModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title-3">Unemployment > States</h4>
-        </div>
-        <div class="modal-body">
-       <ul class="list-group">
-  <li class="list-group-item list-group-item-info">Andhra Pradesh</li>
-  <li class="list-group-item list-group-item-info">Arunachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Assam</li>
-  <li class="list-group-item list-group-item-info">Bihar</li>
-  <li class="list-group-item list-group-item-info">Chattisgarh</li>
-  <li class="list-group-item list-group-item-info">Delhi</li>
-  <li class="list-group-item list-group-item-info">Goa</li>
-  <li class="list-group-item list-group-item-info">Gujrat</li>
-  <li class="list-group-item list-group-item-info">Haryana</li>
-  <li class="list-group-item list-group-item-info"> Himachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Jammu & Kashmir </li>
-  <li class="list-group-item list-group-item-info">Jharkhand </li>
-  <li class="list-group-item list-group-item-info"> Karnataka</li>
-  <li class="list-group-item list-group-item-info"> Kerala</li>
-  <li class="list-group-item list-group-item-info"> Madhya Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Maharashtra</li>
-  <li class="list-group-item list-group-item-info"> Manipur</li>
-  <li class="list-group-item list-group-item-info"> Meghalaya </li>
-  <li class="list-group-item list-group-item-info"> Mizoram </li>
-  <li class="list-group-item list-group-item-info"> Nagaland</li>
-  <li class="list-group-item list-group-item-info"> Odisha</li>
-  <li class="list-group-item list-group-item-info"> Punjab</li>
-  <li class="list-group-item list-group-item-info"> Rajasthan</li>
-  <li class="list-group-item list-group-item-info"> Sikkim</li>
-  <li class="list-group-item list-group-item-info"> Tamil Nadu</li>
-  <li class="list-group-item list-group-item-info"> Telangana </li>
-  <li class="list-group-item list-group-item-info"> Tripura</li>
-  <li class="list-group-item list-group-item-info"> Uttar Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Uttarakhand</li>
-  <li class="list-group-item list-group-item-info"> West Bengal</li>
-  <li class="list-group-item list-group-item-default"> Unemployment > Union Territories</li>
-
-    <li class="list-group-item list-group-item-info"> Andaman & Nicobar Islands</li>
-  <li class="list-group-item list-group-item-info"> Chandigarh</li>
-  <li class="list-group-item list-group-item-info"> Dadra & Nagar Haveli</li>
-  <li class="list-group-item list-group-item-info"> Daman & Diu</li>
-  <li class="list-group-item list-group-item-info"> Lakswadeep</li>
-  <li class="list-group-item list-group-item-info"> Puducherry</li>
-</ul>        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#devModal">Development</button><br>
-
-  <!-- Modal4 -->
-  <div class="modal fade" id="devModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title-4">Development > States</h4>
-        </div>
-        <div class="modal-body">
-       <ul class="list-group">
-  <li class="list-group-item list-group-item-info">Andhra Pradesh</li>
-  <li class="list-group-item list-group-item-info">Arunachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Assam</li>
-  <li class="list-group-item list-group-item-info">Bihar</li>
-  <li class="list-group-item list-group-item-info">Chattisgarh</li>
-  <li class="list-group-item list-group-item-info">Delhi</li>
-  <li class="list-group-item list-group-item-info">Goa</li>
-  <li class="list-group-item list-group-item-info">Gujrat</li>
-  <li class="list-group-item list-group-item-info">Haryana</li>
-  <li class="list-group-item list-group-item-info"> Himachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Jammu & Kashmir </li>
-  <li class="list-group-item list-group-item-info">Jharkhand </li>
-  <li class="list-group-item list-group-item-info"> Karnataka</li>
-  <li class="list-group-item list-group-item-info"> Kerala</li>
-  <li class="list-group-item list-group-item-info"> Madhya Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Maharashtra</li>
-  <li class="list-group-item list-group-item-info"> Manipur</li>
-  <li class="list-group-item list-group-item-info"> Meghalaya </li>
-  <li class="list-group-item list-group-item-info"> Mizoram </li>
-  <li class="list-group-item list-group-item-info"> Nagaland</li>
-  <li class="list-group-item list-group-item-info"> Odisha</li>
-  <li class="list-group-item list-group-item-info"> Punjab</li>
-  <li class="list-group-item list-group-item-info"> Rajasthan</li>
-  <li class="list-group-item list-group-item-info"> Sikkim</li>
-  <li class="list-group-item list-group-item-info"> Tamil Nadu</li>
-  <li class="list-group-item list-group-item-info"> Telangana </li>
-  <li class="list-group-item list-group-item-info"> Tripura</li>
-  <li class="list-group-item list-group-item-info"> Uttar Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Uttarakhand</li>
-  <li class="list-group-item list-group-item-info"> West Bengal</li>
-  <li class="list-group-item list-group-item-default"> Development> Union Territories</li>
-
-    <li class="list-group-item list-group-item-info"> Andaman & Nicobar Islands</li>
-  <li class="list-group-item list-group-item-info"> Chandigarh</li>
-  <li class="list-group-item list-group-item-info"> Dadra & Nagar Haveli</li>
-  <li class="list-group-item list-group-item-info"> Daman & Diu</li>
-  <li class="list-group-item list-group-item-info"> Lakswadeep</li>
-  <li class="list-group-item list-group-item-info"> Puducherry</li>
-</ul>        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#womenModal">Women</button><br>
-
-  <!-- Modal5 -->
-  <div class="modal fade" id="womenModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title-5">Women > States</h4>
-        </div>
-        <div class="modal-body">
-       <ul class="list-group">
-  <li class="list-group-item list-group-item-info">Andhra Pradesh</li>
-  <li class="list-group-item list-group-item-info">Arunachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Assam</li>
-  <li class="list-group-item list-group-item-info">Bihar</li>
-  <li class="list-group-item list-group-item-info">Chattisgarh</li>
-  <li class="list-group-item list-group-item-info">Delhi</li>
-  <li class="list-group-item list-group-item-info">Goa</li>
-  <li class="list-group-item list-group-item-info">Gujrat</li>
-  <li class="list-group-item list-group-item-info">Haryana</li>
-  <li class="list-group-item list-group-item-info"> Himachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Jammu & Kashmir </li>
-  <li class="list-group-item list-group-item-info">Jharkhand </li>
-  <li class="list-group-item list-group-item-info"> Karnataka</li>
-  <li class="list-group-item list-group-item-info"> Kerala</li>
-  <li class="list-group-item list-group-item-info"> Madhya Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Maharashtra</li>
-  <li class="list-group-item list-group-item-info"> Manipur</li>
-  <li class="list-group-item list-group-item-info"> Meghalaya </li>
-  <li class="list-group-item list-group-item-info"> Mizoram </li>
-  <li class="list-group-item list-group-item-info"> Nagaland</li>
-  <li class="list-group-item list-group-item-info"> Odisha</li>
-  <li class="list-group-item list-group-item-info"> Punjab</li>
-  <li class="list-group-item list-group-item-info"> Rajasthan</li>
-  <li class="list-group-item list-group-item-info"> Sikkim</li>
-  <li class="list-group-item list-group-item-info"> Tamil Nadu</li>
-  <li class="list-group-item list-group-item-info"> Telangana </li>
-  <li class="list-group-item list-group-item-info"> Tripura</li>
-  <li class="list-group-item list-group-item-info"> Uttar Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Uttarakhand</li>
-  <li class="list-group-item list-group-item-info"> West Bengal</li>
-  <li class="list-group-item list-group-item-default">Women > Union Territories</li>
-
-    <li class="list-group-item list-group-item-info"> Andaman & Nicobar Islands</li>
-  <li class="list-group-item list-group-item-info"> Chandigarh</li>
-  <li class="list-group-item list-group-item-info"> Dadra & Nagar Haveli</li>
-  <li class="list-group-item list-group-item-info"> Daman & Diu</li>
-  <li class="list-group-item list-group-item-info"> Lakswadeep</li>
-  <li class="list-group-item list-group-item-info"> Puducherry</li>
-</ul>        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#defModal">Default</button><br>
-
-  <!-- Modal 6-->
-  <div class="modal fade" id="defModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title-6">Default > States</h4>
-        </div>
-        <div class="modal-body">
-       <ul class="list-group">
-  <li class="list-group-item list-group-item-info">Andhra Pradesh</li>
-  <li class="list-group-item list-group-item-info">Arunachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Assam</li>
-  <li class="list-group-item list-group-item-info">Bihar</li>
-  <li class="list-group-item list-group-item-info">Chattisgarh</li>
-  <li class="list-group-item list-group-item-info">Delhi</li>
-  <li class="list-group-item list-group-item-info">Goa</li>
-  <li class="list-group-item list-group-item-info">Gujrat</li>
-  <li class="list-group-item list-group-item-info">Haryana</li>
-  <li class="list-group-item list-group-item-info"> Himachal Pradesh</li>
-  <li class="list-group-item list-group-item-info">Jammu & Kashmir </li>
-  <li class="list-group-item list-group-item-info">Jharkhand </li>
-  <li class="list-group-item list-group-item-info"> Karnataka</li>
-  <li class="list-group-item list-group-item-info"> Kerala</li>
-  <li class="list-group-item list-group-item-info"> Madhya Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Maharashtra</li>
-  <li class="list-group-item list-group-item-info"> Manipur</li>
-  <li class="list-group-item list-group-item-info"> Meghalaya </li>
-  <li class="list-group-item list-group-item-info"> Mizoram </li>
-  <li class="list-group-item list-group-item-info"> Nagaland</li>
-  <li class="list-group-item list-group-item-info"> Odisha</li>
-  <li class="list-group-item list-group-item-info"> Punjab</li>
-  <li class="list-group-item list-group-item-info"> Rajasthan</li>
-  <li class="list-group-item list-group-item-info"> Sikkim</li>
-  <li class="list-group-item list-group-item-info"> Tamil Nadu</li>
-  <li class="list-group-item list-group-item-info"> Telangana </li>
-  <li class="list-group-item list-group-item-info"> Tripura</li>
-  <li class="list-group-item list-group-item-info"> Uttar Pradesh</li>
-  <li class="list-group-item list-group-item-info"> Uttarakhand</li>
-  <li class="list-group-item list-group-item-info"> West Bengal</li>
-  <li class="list-group-item list-group-item-default"> Default > Union Territories</li>
-
-    <li class="list-group-item list-group-item-info"> Andaman & Nicobar Islands</li>
-  <li class="list-group-item list-group-item-info"> Chandigarh</li>
-  <li class="list-group-item list-group-item-info"> Dadra & Nagar Haveli</li>
-  <li class="list-group-item list-group-item-info"> Daman & Diu</li>
-  <li class="list-group-item list-group-item-info"> Lakswadeep</li>
-  <li class="list-group-item list-group-item-info"> Puducherry</li>
-</ul>        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  
 </div>
- </div>
- <div class="col-lg-9" >
+  </nav>
+
+	</div>
+
+</div>
+
+<div class="container">
+ <div class="col-lg-12"  style="margin-top: 1%;">
  	<div class="intrinsic-container intrinsic-container-16x9">
  	<iframe id="ifr"  allowfullscreen></iframe>
  </div>
  </div>
   </div>
+
+
 </div>
+
 
 
 </body>
