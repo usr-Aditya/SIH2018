@@ -3,14 +3,15 @@
     //echo "hello";
     $host = "localhost";
     $user = "root";
-    $password = "iamblaze";
-    $database_name = "schemes";
+    $password = "cloudera";
+    $database_name = "hackathon";
     $pdo = new PDO("mysql:host=$host;dbname=$database_name", $user, $password, array(
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
     ));
 // Search from MySQL database table
    // echo "hello again";
 $search=$_POST['search'];
+echo $search."</br>";
 $search = trim($search);
 $search_explode = explode(" ", $search);
 $cons = "select * from scheme where ";
@@ -26,7 +27,7 @@ foreach ($search_explode as $exploded_search ) {
 
 }
 $cons .= " LIMIT 0, 10";    
-//echo $cons."</br>";
+echo $cons."</br>";
 $query = $pdo->prepare($cons);
 //select * from scheme where name LIKE '%$search%' OR kewwords LIKE '%$search%'  LIMIT 0 , 10
 $query->bindValue(1, "%$search%-", PDO::PARAM_STR);
