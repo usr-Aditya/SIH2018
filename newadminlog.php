@@ -1,3 +1,10 @@
+  
+<?php   
+session_start();  
+if(!isset($_SESSION["sess_user"])){  
+    header("location:newLogIn.php");  
+} else {  
+?>  
           <!DOCTYPE html>
           <html>
 
@@ -80,7 +87,7 @@
     #external-links-wrapper {
 
       text-align: center;
-
+margin-top: 2%;
       background-color: #eceff1;
     }
 
@@ -223,7 +230,7 @@ margin: 2%;
     </div>
   </nav>      
               <!-- Navbar starts -->
-              <div class="container navbar-container" data-spy="scroll" data-target=".navbar" style="width: 100%; ">
+              <div class="container navbar-container" style="width: 100%; ">
   <nav class="navbar navbar-inverse home-navbar"  >
     <div class="container-fluid">
       <div class="navbar-header">
@@ -243,7 +250,7 @@ margin: 2%;
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color: white;">Crime
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#" style="color: black;" onclick='getElementById("ifr").src="index.html";'>d3 for crime</a></li>
+            <li><a href="#" style="color: black;">related stuff</a></li>
             <li><a href="#" style="color: black;">related stuff</a></li>
             <li><a href="#" style="color: black;">related stuff</a></li>
           </ul>
@@ -277,14 +284,23 @@ margin: 2%;
         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-        <li><a href="newLogIn.php" style="color: white;">Update</a></li>
+                  <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color: white;">Update
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#" style="color: black;">Crime</a></li>
+            <li><a href="#" style="color: black;">Empowerment</a></li>
+            <li><a href="#" style="color: black;">Production</a></li>
+          </ul>
+        </li>
+
          <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color: white;">Profile
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#" style="color: black;">Login Info</a></li>
-            <li><a href="#" style="color: black;">Log Out</a></li>
-            <li><a href="#" style="color: black;">Another Login</a></li>
+            <li><a href="#" style="color: black;"><?=$_SESSION['sess_user'];?>!</a></li>
+            <li><a href="logout.php" style="color: black;">Log Out</a></li>
+          <!--  <li><a href="#" style="color: black;"></a></li> -->
           </ul>
         </li>
       </ul>
@@ -355,7 +371,7 @@ margin: 2%;
   <!-- Carousal Ends -->
                <!-- Iframe -->
                <div class="intrinsic-container intrinsic-container-16x9">
-        <iframe id="ifr" allowfullscreen></iframe>
+        <iframe src="index.html" allowfullscreen></iframe>
       </div>
 
               <!-- End ifrme -->
@@ -411,62 +427,7 @@ margin: 2%;
               </div>
             </div>
 
-            <!-- Extra contents for site completion -->
-
-            <div class="row" style="background-color: #488cf6;background-color:#057d4a;background-color: #264796;margin-top: 2%;margin-right:0%; font-family: 'Coiny', cursive;">
- <div class="col-sm-4"> 
-  <div class="container" style=" margin-left: 40%; margin-top: 6%">
-  <span>
-     <a href="" style="text-align: center;color: white; font-size: 2em;"><i class="far fa-comments" style="font-size: 1.5em; padding-right: 1%;"></i>Contact Us</a>
-  </span><br><br>
-  <span  style="text-align: center;color: white; font-size: 2em"><i class="fa fa-share " style="font-size: 1em; padding-right: 1.5%;"></i>Share Us on
-<ul style="margin-top: 1%;">
- <a href="" style=";color: white; font-size: 20px;float: left;"><i class="fab fa-facebook-f" style="font-size: 1em;">&nbsp;&nbsp;&nbsp;facebook</i></a><br>
-<a href="" style="color: white; font-size: 20px;float: left;"><i class="fab fa-twitter" style="font-size: 1em;">&nbsp;&nbsp;&nbsp; twitter</i></a><br>
-<a href="" style="color: white; font-size: 20px;float: left;"><i class="fab fa-google-plus-g" style="font-size: 1em;">&nbsp;&nbsp; Google</i></a>
-</ul>
-
-  </span>
-
-</div>
-</div>
-
-<!-- first half finish -->
-<div class="col-sm-2">
-    <span>
-   <ul style="text-align: center;">
-<a href="" style="color: white; font-size: 5em;"><i class="far fa-smile"></i></a><br>
-<a href="" style="color: white; font-size: 5em;"><i class="far fa-meh" ></i></a><br>
-<a href="" style="color: white; font-size: 5em;"><i class="far fa-frown"></i></a>
-</ul>
-
-  </span>
-</div>
-  <div class="col-sm-6" style="margin-bottom: 1%;padding-left: 20px; margin-right: 0%;word-wrap: break-word; ">
-    <a href="#" data-toggle="tooltip" data-placement="bottom" title=" Only the feedback related to content, design or technology with respect to this site can be sent through this interface." style="text-decoration: none;"><h3 style="color: white;">Please submit your feedback!</h3></a>
- <script>
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
-});
-</script>
-<div class="row">
-
-<div class="col-sm-4 form-group" >
-          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
-        </div>
-        <div class="col-sm-4 form-group" >
-          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
-        </div>
-        <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5" style="width: 63%;margin-left: 2%;padding-left: 20px;"></textarea>
-      <br>
-        <div class="col-sm-8 form-group">
-          <button class="btn btn-info pull-right" type="submit">Send</button>
-        </div>  
-        </div>  
-  </div>
-</div>
-<!-- completed -->
-    <!-- External nsda copy -->
+          
     <!-- ===============================
             External Links
        ============================= -->
@@ -541,3 +502,7 @@ $(document).ready(function(){
           </body>
 
           </html>
+
+<?php  
+}  
+?>  
