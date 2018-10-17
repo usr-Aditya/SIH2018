@@ -1,0 +1,2028 @@
+Thane,1,1,0,0
+Thane,1,1,1,3
+Thane,1,0,0,10
+North 24 Parganas,1,1,1,0
+North 24 Parganas,1,0,1,1
+North 24 Parganas,1,1,1,0
+Bangalore Urban,0,1,0,2
+Bangalore Urban,1,1,1,1
+Bangalore Urban,0,0,1,9
+Pune,1,0,0,6
+Pune,0,1,0,1
+Pune,0,1,0,1
+Mumbai suburban,1,0,0,1
+Mumbai suburban,1,1,1,8
+Mumbai suburban,1,0,1,8
+South 24 Parganas,0,1,0,4
+South 24 Parganas,0,0,0,9
+South 24 Parganas,1,0,0,9
+Bardhaman,0,0,1,10
+Bardhaman,1,1,1,4
+Bardhaman,0,1,1,9
+Ahmedabad,0,0,0,3
+Ahmedabad,1,0,0,0
+Ahmedabad,0,1,1,6
+Murshidabad,0,0,0,4
+Murshidabad,0,1,1,9
+Murshidabad,1,0,0,8
+Jaipur,1,0,0,4
+Jaipur,0,0,1,8
+Jaipur,1,0,0,8
+Nashik,0,0,1,0
+Nashik,0,1,1,6
+Nashik,0,1,0,6
+Allahabad,1,1,1,9
+Allahabad,1,0,0,6
+Allahabad,0,1,1,6
+Patna,0,0,0,10
+Patna,0,1,1,3
+Patna,1,1,1,8
+Hooghly,0,1,1,1
+Hooghly,1,0,0,6
+Hooghly,0,1,0,8
+Ranga Reddy,1,0,0,9
+Ranga Reddy,1,0,0,1
+Ranga Reddy,0,1,0,8
+Nadia,1,0,0,3
+Nadia,1,1,1,4
+Nadia,0,0,1,1
+East Godavari,0,1,0,9
+East Godavari,1,1,1,0
+East Godavari,1,0,1,10
+Paschim Medinipur,1,0,1,4
+Paschim Medinipur,1,0,1,10
+Paschim Medinipur,1,0,1,8
+East Champaran,0,0,1,5
+East Champaran,0,1,0,6
+East Champaran,0,1,1,1
+Surat,1,0,1,4
+Surat,1,0,1,1
+Surat,0,1,0,7
+Guntur,0,0,0,9
+Guntur,0,0,0,1
+Guntur,0,1,1,5
+Howrah,1,1,1,10
+Howrah,1,0,0,7
+Howrah,0,0,1,3
+Muzaffarpur,1,1,1,2
+Muzaffarpur,0,0,0,0
+Muzaffarpur,1,0,0,6
+Belgaum,1,0,0,7
+Belgaum,1,1,0,7
+Belgaum,1,1,1,2
+Moradabad,1,0,0,4
+Moradabad,0,0,1,0
+Moradabad,0,1,0,6
+Chennai,0,0,0,5
+Chennai,1,0,0,1
+Chennai,0,0,0,2
+Ghaziabad,0,1,0,5
+Ghaziabad,1,0,0,8
+Ghaziabad,0,0,1,7
+Nagpur,1,1,0,10
+Nagpur,1,1,1,1
+Nagpur,1,1,1,6
+Azamgarh,1,1,0,5
+Azamgarh,0,0,1,4
+Azamgarh,0,0,1,5
+Lucknow,1,0,0,8
+Lucknow,1,0,1,5
+Lucknow,1,0,1,2
+Kanpur Nagar,0,1,0,5
+Kanpur Nagar,0,1,0,5
+Kanpur Nagar,0,1,0,4
+Ahmednagar,0,1,0,8
+Ahmednagar,0,1,0,1
+Ahmednagar,1,1,1,1
+Krishna,1,1,0,2
+Krishna,0,1,1,8
+Krishna,0,1,0,3
+Kolkata,1,0,1,8
+Kolkata,1,1,0,0
+Kolkata,1,1,0,2
+Jaunpur district,0,0,1,5
+Jaunpur district,1,1,1,4
+Jaunpur district,0,1,0,9
+Madhubani,1,1,1,7
+Madhubani,1,0,0,3
+Madhubani,0,1,1,10
+Sitapur,1,1,1,8
+Sitapur,1,0,0,8
+Sitapur,1,1,1,5
+Bareilly,1,0,0,1
+Bareilly,0,1,1,4
+Bareilly,1,1,0,10
+Gorakhpur,0,1,1,5
+Gorakhpur,1,1,0,2
+Gorakhpur,0,0,1,1
+Purba Medinipur,0,1,0,5
+Purba Medinipur,0,1,1,0
+Purba Medinipur,0,0,1,10
+Agra,0,0,1,1
+Agra,0,0,1,8
+Agra,0,1,1,9
+Gaya,0,1,0,4
+Gaya,1,0,0,8
+Gaya,1,1,0,10
+Solapur,1,1,1,8
+Solapur,1,1,1,0
+Solapur,1,0,0,6
+Visakhapatnam,0,1,1,5
+Visakhapatnam,0,0,1,7
+Visakhapatnam,0,1,0,7
+Samastipur,0,1,0,0
+Samastipur,1,0,0,0
+Samastipur,1,1,1,9
+Jalgaon,0,0,0,0
+Jalgaon,0,1,0,1
+Jalgaon,0,0,0,1
+Chittoor,1,0,0,9
+Chittoor,0,0,1,2
+Chittoor,0,0,0,4
+Muzaffarnagar,0,1,0,8
+Muzaffarnagar,0,0,1,8
+Muzaffarnagar,1,0,1,2
+Malappuram,1,1,0,9
+Malappuram,0,0,0,9
+Malappuram,1,1,0,5
+Hardoi,1,1,1,5
+Hardoi,1,0,0,8
+Hardoi,0,0,0,9
+Anantapur,0,1,1,5
+Anantapur,1,0,1,5
+Anantapur,1,1,0,4
+Raipur,1,1,1,3
+Raipur,0,0,1,6
+Raipur,1,0,0,1
+Kurnool,0,1,1,0
+Kurnool,0,1,0,8
+Kurnool,1,0,1,7
+Mahbubnagar,0,1,0,1
+Mahbubnagar,0,1,0,6
+Mahbubnagar,1,0,0,4
+Lakhimpur Kheri,1,0,1,7
+Lakhimpur Kheri,0,0,0,3
+Lakhimpur Kheri,0,0,0,8
+Hyderabad,0,1,1,9
+Hyderabad,1,0,1,9
+Hyderabad,0,1,1,5
+Maldah,0,0,1,1
+Maldah,1,0,1,7
+Maldah,1,0,1,7
+Madurai,0,0,1,6
+Madurai,1,1,0,9
+Madurai,1,0,0,6
+Kanchipuram,1,0,0,1
+Kanchipuram,1,0,0,3
+Kanchipuram,1,0,0,7
+Saran,1,1,1,4
+Saran,1,0,0,10
+Saran,0,0,0,4
+West Champaran,1,1,0,6
+West Champaran,1,0,0,1
+West Champaran,1,0,1,7
+West Godavari,1,1,1,10
+West Godavari,0,0,0,5
+West Godavari,0,0,1,8
+Vellore,1,1,0,2
+Vellore,1,1,1,0
+Vellore,0,1,0,2
+Darbhanga,0,0,0,3
+Darbhanga,0,0,1,6
+Darbhanga,0,0,0,7
+Kolhapur,0,0,0,4
+Kolhapur,0,1,1,8
+Kolhapur,1,1,0,2
+Jalpaiguri,0,0,1,10
+Jalpaiguri,0,0,1,9
+Jalpaiguri,1,0,1,10
+Karimnagar,0,0,0,8
+Karimnagar,0,1,1,0
+Karimnagar,1,0,0,7
+Sultanpur,1,1,0,4
+Sultanpur,0,1,1,0
+Sultanpur,1,0,0,6
+Tiruvallur,0,0,1,0
+Tiruvallur,1,0,1,1
+Tiruvallur,1,1,1,8
+Budaun,1,1,1,4
+Budaun,1,1,1,1
+Budaun,1,0,1,8
+Aurangabad,1,0,0,4
+Aurangabad,0,0,1,10
+Aurangabad,0,0,1,9
+Jodhpur,0,0,0,0
+Jodhpur,1,0,1,4
+Jodhpur,0,1,1,9
+Bijnor,1,1,0,7
+Bijnor,1,0,1,2
+Bijnor,1,0,1,9
+Varanasi,0,1,1,4
+Varanasi,0,0,0,5
+Varanasi,1,1,1,2
+Aligarh,1,1,1,3
+Aligarh,1,1,0,10
+Aligarh,0,0,0,3
+Alwar,0,1,1,0
+Alwar,1,0,1,7
+Alwar,0,0,1,1
+North West Delhi,0,0,0,8
+North West Delhi,0,1,1,0
+North West Delhi,0,0,1,1
+Vadodara,1,1,0,6
+Vadodara,1,0,1,1
+Vadodara,0,1,0,8
+Ghazipur,0,1,0,4
+Ghazipur,1,0,0,2
+Ghazipur,0,0,1,5
+Bankura,1,0,1,10
+Bankura,0,1,1,8
+Bankura,1,0,0,6
+Kushinagar,1,1,0,4
+Kushinagar,1,0,1,1
+Kushinagar,1,1,1,0
+Warangal,1,1,1,2
+Warangal,0,0,0,2
+Warangal,0,0,0,1
+Ganjam,0,1,1,7
+Ganjam,1,1,1,4
+Ganjam,1,1,0,7
+Birbhum,0,1,1,5
+Birbhum,0,1,0,1
+Birbhum,0,0,0,10
+Bulandshahr,1,0,0,0
+Bulandshahr,1,1,0,3
+Bulandshahr,1,0,0,1
+Vaishali,1,1,0,7
+Vaishali,1,0,1,5
+Vaishali,0,1,1,9
+Ludhiana,1,1,1,1
+Ludhiana,0,1,0,2
+Ludhiana,0,1,1,5
+Nalgonda,0,1,1,0
+Nalgonda,1,1,0,3
+Nalgonda,0,1,1,4
+Salem,0,0,1,0
+Salem,0,0,0,6
+Salem,0,1,1,4
+Coimbatore,0,0,1,3
+Coimbatore,0,1,1,10
+Coimbatore,1,1,1,7
+Saharanpur,0,1,0,0
+Saharanpur,0,1,0,0
+Saharanpur,1,0,1,9
+Viluppuram,0,0,0,2
+Viluppuram,0,0,0,5
+Viluppuram,0,0,1,9
+Meerut,1,1,0,6
+Meerut,1,1,0,0
+Meerut,0,1,1,10
+Gonda,0,1,0,10
+Gonda,0,1,1,2
+Gonda,0,0,1,0
+Sitamarhi,0,0,1,5
+Sitamarhi,0,1,1,7
+Sitamarhi,0,1,1,4
+Raebareli,1,0,1,4
+Raebareli,1,1,1,4
+Raebareli,0,0,1,8
+Prakasam,0,0,0,2
+Prakasam,0,0,0,8
+Prakasam,1,0,1,0
+Nanded,0,1,1,2
+Nanded,1,0,1,10
+Nanded,0,0,0,7
+Durg,1,1,1,2
+Durg,1,1,1,9
+Durg,1,0,1,2
+Siwan,0,0,1,3
+Siwan,1,1,0,3
+Siwan,0,0,1,4
+Nagaur,1,0,0,7
+Nagaur,1,1,1,0
+Nagaur,0,1,0,0
+Thiruvananthapuram,0,1,0,6
+Thiruvananthapuram,1,0,0,1
+Thiruvananthapuram,1,1,0,10
+Ernakulam,1,1,0,6
+Ernakulam,1,0,0,5
+Ernakulam,0,1,1,7
+Purnia,1,0,0,3
+Purnia,0,0,0,8
+Purnia,1,0,0,8
+Indore,0,1,0,10
+Indore,1,1,0,3
+Indore,0,0,1,9
+Barabanki,0,0,1,10
+Barabanki,0,0,0,7
+Barabanki,1,0,0,3
+Ballia,0,0,1,2
+Ballia,0,1,0,6
+Ballia,0,1,1,5
+Pratapgarh,1,1,1,3
+Pratapgarh,0,0,1,1
+Pratapgarh,1,0,1,5
+Rajkot,0,1,0,5
+Rajkot,1,0,0,7
+Rajkot,1,0,1,3
+Mumbai City,0,0,0,2
+Mumbai City,0,0,1,7
+Mumbai City,0,0,1,8
+Banaskantha,0,1,0,10
+Banaskantha,0,0,0,5
+Banaskantha,0,0,1,3
+Unnao,0,0,0,4
+Unnao,0,0,0,10
+Unnao,0,0,0,2
+Thrissur,1,0,0,9
+Thrissur,0,1,0,10
+Thrissur,1,0,0,1
+Deoria,0,1,0,4
+Deoria,1,0,0,3
+Deoria,0,1,0,6
+Kozhikode,0,1,1,6
+Kozhikode,1,0,0,9
+Kozhikode,1,1,0,4
+Tirunelveli,1,0,0,9
+Tirunelveli,0,0,1,4
+Tirunelveli,0,0,1,7
+Katihar,1,0,0,8
+Katihar,0,0,0,1
+Katihar,0,1,0,1
+Udaipur,0,0,0,6
+Udaipur,0,1,1,0
+Udaipur,0,0,0,5
+Bhagalpur,1,1,1,8
+Bhagalpur,1,0,1,4
+Bhagalpur,0,1,0,9
+Medak,0,1,0,9
+Medak,1,0,0,4
+Medak,0,1,1,8
+Satara,0,0,1,10
+Satara,0,0,1,4
+Satara,1,1,1,4
+Shahjahanpur,1,1,1,1
+Shahjahanpur,0,0,1,9
+Shahjahanpur,1,0,0,10
+Uttar Dinajpur,0,0,1,2
+Uttar Dinajpur,0,1,0,6
+Uttar Dinajpur,0,0,1,7
+Mysore,1,1,1,7
+Mysore,0,1,1,5
+Mysore,1,1,1,2
+Sri Potti Sriramulu Nellore,1,1,0,10
+Sri Potti Sriramulu Nellore,0,1,1,6
+Sri Potti Sriramulu Nellore,1,0,0,2
+Rohtas,0,0,1,4
+Rohtas,0,0,1,10
+Rohtas,1,1,1,9
+Begusarai,0,0,0,0
+Begusarai,1,1,1,1
+Begusarai,1,1,1,1
+Purulia,0,0,1,4
+Purulia,1,0,0,3
+Purulia,0,1,1,5
+Ranchi,1,0,1,1
+Ranchi,0,0,1,8
+Ranchi,1,0,0,6
+Patiala,0,0,1,10
+Patiala,0,1,0,2
+Patiala,0,0,1,6
+Amravati,0,1,0,3
+Amravati,1,0,0,2
+Amravati,1,1,1,4
+Kadapa,1,1,0,6
+Kadapa,0,0,0,5
+Kadapa,0,1,0,4
+Bhavnagar,0,0,1,10
+Bhavnagar,0,0,1,10
+Bhavnagar,1,1,0,7
+Nalanda,1,0,1,4
+Nalanda,0,1,0,1
+Nalanda,0,0,1,4
+Kanyakumari,1,0,0,7
+Kanyakumari,0,1,0,8
+Kanyakumari,1,0,1,0
+Nagaon,0,0,0,2
+Nagaon,0,0,0,0
+Nagaon,1,0,1,8
+Cooch Behar,0,1,0,10
+Cooch Behar,1,1,1,5
+Cooch Behar,1,1,1,3
+Sangli,1,0,1,8
+Sangli,0,0,0,10
+Sangli,0,1,0,10
+Palakkad,0,1,0,1
+Palakkad,0,1,1,7
+Palakkad,0,1,0,6
+Araria,0,1,1,0
+Araria,0,1,1,5
+Araria,1,1,1,2
+Khammam,0,1,1,4
+Khammam,1,0,0,9
+Khammam,1,0,1,8
+Yavatmal,1,0,0,10
+Yavatmal,0,0,1,10
+Yavatmal,1,1,1,10
+Junagadh,1,1,0,10
+Junagadh,1,1,1,4
+Junagadh,1,0,0,9
+Adilabad,1,1,1,6
+Adilabad,1,1,0,6
+Adilabad,1,0,1,5
+South Delhi,0,0,0,9
+South Delhi,0,1,1,0
+South Delhi,0,1,0,0
+Bhojpur,0,1,0,5
+Bhojpur,1,0,0,0
+Bhojpur,1,1,1,9
+Tiruchirappalli,1,0,1,3
+Tiruchirappalli,1,1,1,4
+Tiruchirappalli,0,0,1,5
+Srikakulam,1,0,0,1
+Srikakulam,0,1,1,9
+Srikakulam,0,0,1,5
+Dhanbad,1,1,0,8
+Dhanbad,0,0,1,1
+Dhanbad,0,0,1,3
+Tumkur,0,0,1,1
+Tumkur,0,1,1,9
+Tumkur,1,0,1,1
+Sikar,1,0,0,3
+Sikar,0,1,0,9
+Sikar,1,1,1,1
+Maharajganj,1,1,1,9
+Maharajganj,0,0,0,9
+Maharajganj,0,1,0,3
+Bilaspur,1,1,1,8
+Bilaspur,1,1,1,4
+Bilaspur,0,1,0,4
+Raigad,0,0,1,2
+Raigad,0,0,1,1
+Raigad,0,1,0,9
+Fatehpur,0,1,1,1
+Fatehpur,0,1,1,4
+Fatehpur,0,0,1,6
+Kollam,1,1,1,9
+Kollam,0,0,0,9
+Kollam,0,1,0,10
+Cuttack,1,0,1,4
+Cuttack,1,0,1,2
+Cuttack,1,1,0,0
+Barmer,0,0,0,1
+Barmer,1,0,1,4
+Barmer,1,1,1,0
+Cuddalore,1,1,0,0
+Cuddalore,1,1,1,6
+Cuddalore,1,1,1,3
+Buldhana,0,1,1,7
+Buldhana,0,1,1,10
+Buldhana,1,1,1,5
+Beed,1,0,1,3
+Beed,0,1,0,7
+Beed,0,0,0,3
+Ajmer,1,1,1,8
+Ajmer,0,0,1,1
+Ajmer,1,0,1,9
+Gulbarga,0,0,0,5
+Gulbarga,0,0,1,5
+Gulbarga,1,1,1,5
+Gopalganj,0,1,0,3
+Gopalganj,0,1,0,0
+Gopalganj,1,1,1,2
+Siddharthnagar,0,1,1,9
+Siddharthnagar,0,0,0,8
+Siddharthnagar,1,1,0,6
+Nizamabad,0,0,1,10
+Nizamabad,1,1,0,3
+Nizamabad,1,0,1,6
+Bharatpur,1,1,1,4
+Bharatpur,1,1,0,4
+Bharatpur,1,1,1,1
+Mathura,1,0,1,8
+Mathura,0,1,0,4
+Mathura,1,0,1,5
+Bellary,0,0,0,6
+Bellary,0,0,1,7
+Bellary,0,0,0,9
+West Delhi,1,1,1,9
+West Delhi,1,1,0,7
+West Delhi,0,0,0,7
+Kannur,1,1,0,0
+Kannur,0,1,0,3
+Kannur,0,0,1,7
+Mayurbhanj,1,1,0,5
+Mayurbhanj,0,1,0,6
+Mayurbhanj,1,1,1,6
+Aurangabad,1,0,0,4
+Aurangabad,1,1,0,0
+Aurangabad,1,0,1,1
+Firozabad,0,0,0,6
+Firozabad,1,1,1,3
+Firozabad,0,1,0,8
+Mirzapur,1,0,0,8
+Mirzapur,0,1,0,5
+Mirzapur,0,0,0,5
+Amritsar,0,1,0,6
+Amritsar,1,0,0,6
+Amritsar,1,0,1,8
+Tirupur,1,1,0,1
+Tirupur,1,1,1,9
+Tirupur,1,0,0,2
+Tiruvannamalai,0,1,0,1
+Tiruvannamalai,1,1,0,3
+Tiruvannamalai,1,0,0,2
+Faizabad,1,0,1,3
+Faizabad,0,1,0,2
+Faizabad,1,0,0,0
+Basti,1,1,0,6
+Basti,1,1,0,9
+Basti,0,1,1,2
+Jabalpur,0,1,0,7
+Jabalpur,0,1,1,3
+Jabalpur,1,0,0,0
+Latur,1,1,0,10
+Latur,0,1,0,4
+Latur,1,0,0,8
+Giridih,1,0,0,10
+Giridih,1,0,1,4
+Giridih,0,1,1,9
+Sabarkantha,1,0,0,1
+Sabarkantha,1,1,0,9
+Sabarkantha,1,1,0,9
+Bhilwara,0,1,1,8
+Bhilwara,1,1,0,9
+Bhilwara,1,1,0,1
+Thanjavur,0,0,0,7
+Thanjavur,0,1,0,0
+Thanjavur,1,0,1,4
+Ambedkar Nagar,0,0,1,1
+Ambedkar Nagar,1,0,1,0
+Ambedkar Nagar,1,0,0,10
+Panchmahal,0,1,0,9
+Panchmahal,1,1,1,3
+Panchmahal,1,0,0,10
+Bahraich,1,1,1,7
+Bahraich,0,1,1,6
+Bahraich,0,0,0,7
+Sagar,1,0,0,2
+Sagar,0,1,0,1
+Sagar,0,1,0,0
+Bhopal,0,0,0,2
+Bhopal,0,0,1,1
+Bhopal,0,1,1,10
+Bikaner,0,1,1,0
+Bikaner,0,0,0,0
+Bikaner,1,0,1,3
+Rewa,1,1,1,7
+Rewa,1,0,1,3
+Rewa,1,0,0,6
+Vizianagaram,0,0,0,4
+Vizianagaram,0,1,0,3
+Vizianagaram,0,0,0,3
+Rampur,1,1,0,7
+Rampur,0,0,1,0
+Rampur,0,0,0,1
+Balasore,0,1,0,3
+Balasore,0,1,1,8
+Balasore,1,0,0,0
+Gurdaspur,1,1,1,6
+Gurdaspur,0,0,1,8
+Gurdaspur,1,0,1,7
+Kheda,1,1,0,9
+Kheda,0,1,0,6
+Kheda,1,1,0,9
+South West Delhi,0,0,1,8
+South West Delhi,1,1,1,2
+South West Delhi,1,1,0,2
+East Singhbhum,0,0,0,5
+East Singhbhum,0,0,0,9
+East Singhbhum,1,0,1,2
+Erode,1,1,1,8
+Erode,0,0,0,4
+Erode,1,0,1,5
+Khordha,1,0,1,8
+Khordha,0,1,1,5
+Khordha,1,1,0,9
+North East Delhi,0,1,0,8
+North East Delhi,1,0,1,7
+North East Delhi,1,1,1,4
+Satna,1,0,0,3
+Satna,0,0,1,1
+Satna,0,0,1,6
+Supaul,1,0,0,7
+Supaul,1,1,1,9
+Supaul,0,1,1,6
+Sambhal(Bheem Nagar),0,0,0,4
+Sambhal(Bheem Nagar),0,0,1,8
+Sambhal(Bheem Nagar),0,1,0,0
+Nawada,1,1,1,4
+Nawada,0,1,0,0
+Nawada,1,0,0,1
+Mau,0,0,0,10
+Mau,0,1,1,1
+Mau,1,1,1,5
+Chandrapur,1,1,0,8
+Chandrapur,1,0,1,3
+Chandrapur,1,0,1,3
+Dhar,0,1,0,1
+Dhar,0,0,1,4
+Dhar,1,0,0,4
+Jalandhar,0,0,1,9
+Jalandhar,1,0,1,6
+Jalandhar,1,1,0,4
+Vijayapura,1,1,1,7
+Vijayapura,0,0,1,4
+Vijayapura,1,1,0,7
+Dindigul,1,1,0,6
+Dindigul,1,1,1,6
+Dindigul,0,0,0,2
+Jamnagar,1,0,0,2
+Jamnagar,0,0,1,4
+Jamnagar,1,1,1,5
+Balrampur,0,0,1,3
+Balrampur,0,0,1,0
+Balrampur,0,1,0,8
+Jhunjhunu,1,1,0,6
+Jhunjhunu,0,1,1,5
+Jhunjhunu,0,1,1,10
+Dahod,0,0,1,3
+Dahod,1,1,0,1
+Dahod,0,1,0,3
+Alappuzha,1,1,1,3
+Alappuzha,1,0,1,1
+Alappuzha,1,0,0,1
+Kutch,1,1,0,8
+Kutch,1,0,1,8
+Kutch,0,0,0,6
+Chhindwara,1,0,1,6
+Chhindwara,0,0,0,5
+Chhindwara,1,1,1,9
+Anand,0,0,0,4
+Anand,1,0,1,2
+Anand,1,1,1,7
+Dakshina Kannada,1,1,1,8
+Dakshina Kannada,0,1,0,3
+Dakshina Kannada,0,1,1,7
+Sundargarh,0,1,0,3
+Sundargarh,1,1,0,5
+Sundargarh,1,0,1,1
+Bokaro,1,0,1,5
+Bokaro,0,0,0,9
+Bokaro,0,1,0,4
+Dhule,1,0,1,4
+Dhule,0,0,1,7
+Dhule,0,0,1,5
+Churu,0,0,1,7
+Churu,0,1,1,4
+Churu,1,0,1,9
+Pali,1,1,0,6
+Pali,1,0,0,1
+Pali,0,0,0,5
+Pilibhit,1,1,0,4
+Pilibhit,0,0,0,3
+Pilibhit,1,0,1,0
+Gwalior,1,1,1,1
+Gwalior,1,1,0,1
+Gwalior,0,0,1,3
+Banka,0,0,1,9
+Banka,0,0,1,9
+Banka,0,1,0,0
+Mehsana,1,1,1,0
+Mehsana,1,0,0,4
+Mehsana,1,0,1,5
+Firozpur,1,1,1,6
+Firozpur,0,0,1,2
+Firozpur,0,1,1,4
+Jhansi,1,0,1,10
+Jhansi,0,0,0,6
+Jhansi,0,1,1,10
+Pathankot,1,1,1,6
+Pathankot,1,1,0,3
+Pathankot,0,0,1,6
+Madhepura,1,0,1,8
+Madhepura,0,1,1,10
+Madhepura,0,1,0,0
+Ujjain,1,0,0,5
+Ujjain,1,0,0,6
+Ujjain,1,0,0,5
+Kottayam,1,1,1,4
+Kottayam,0,1,1,6
+Kottayam,1,1,1,9
+Ganganagar,0,0,0,5
+Ganganagar,1,1,0,8
+Ganganagar,1,0,1,4
+Morena,0,0,0,1
+Morena,0,1,0,6
+Morena,0,1,0,8
+Jalna,1,1,0,1
+Jalna,1,0,0,6
+Jalna,0,1,1,5
+Chandauli,1,1,1,2
+Chandauli,1,1,0,3
+Chandauli,0,1,0,6
+Kota,0,0,1,5
+Kota,1,1,0,4
+Kota,0,1,0,2
+Dhubri,1,1,0,1
+Dhubri,1,0,1,3
+Dhubri,0,0,0,1
+Davanagere,1,0,1,5
+Davanagere,1,1,1,1
+Davanagere,0,0,1,8
+Virudhunagar,1,1,0,3
+Virudhunagar,1,1,1,9
+Virudhunagar,1,0,1,7
+Palamu,1,0,1,7
+Palamu,1,0,0,3
+Palamu,1,1,1,2
+Haridwar,1,0,1,4
+Haridwar,0,1,1,1
+Haridwar,0,0,1,2
+Sonitpur,0,0,1,7
+Sonitpur,1,0,1,4
+Sonitpur,1,0,1,0
+Raichur,1,0,0,3
+Raichur,1,0,0,5
+Raichur,0,1,0,6
+Pudukkottai,1,1,0,3
+Pudukkottai,0,1,1,2
+Pudukkottai,0,1,0,10
+Saharsa,0,1,0,10
+Saharsa,0,0,0,10
+Saharsa,1,1,0,2
+Bagalkot,0,1,0,0
+Bagalkot,1,0,1,10
+Bagalkot,0,0,1,9
+Farrukhabad,1,0,1,1
+Farrukhabad,1,1,1,6
+Farrukhabad,0,0,1,6
+Krishnagiri,0,1,1,0
+Krishnagiri,1,1,1,7
+Krishnagiri,1,1,0,6
+Khargone (West Nimar),1,1,1,1
+Khargone (West Nimar),1,0,0,8
+Khargone (West Nimar),0,0,0,7
+Sonbhadra,1,1,1,7
+Sonbhadra,0,1,0,0
+Sonbhadra,0,0,1,3
+Mainpuri,0,1,1,8
+Mainpuri,1,0,1,4
+Mainpuri,1,1,0,6
+Dharwad,0,0,0,3
+Dharwad,1,1,1,0
+Dharwad,0,0,0,0
+Darjeeling,0,0,0,6
+Darjeeling,0,0,1,3
+Darjeeling,1,0,1,9
+Jyotiba Phule Nagar,0,0,1,1
+Jyotiba Phule Nagar,0,0,0,2
+Jyotiba Phule Nagar,0,0,1,3
+Parbhani,0,1,1,2
+Parbhani,1,1,1,2
+Parbhani,0,1,1,7
+Jalore,1,1,0,4
+Jalore,1,0,0,6
+Jalore,1,1,0,10
+Jajpur,0,1,1,9
+Jajpur,1,0,0,8
+Jajpur,1,0,0,3
+Akola,1,1,0,1
+Akola,1,1,1,6
+Akola,1,0,1,7
+Mandya,1,0,1,8
+Mandya,1,0,0,7
+Mandya,1,1,0,1
+Kendujhar (Keonjhar),0,0,1,3
+Kendujhar (Keonjhar),0,1,0,7
+Kendujhar (Keonjhar),0,0,1,4
+Banda,1,0,1,2
+Banda,1,0,0,7
+Banda,1,1,1,8
+Faridabad,1,1,0,5
+Faridabad,1,1,0,1
+Faridabad,0,0,1,9
+Banswara,0,1,1,1
+Banswara,1,1,1,7
+Banswara,1,1,0,2
+Kanpur Dehat (Ramabai Nagar),1,0,1,1
+Kanpur Dehat (Ramabai Nagar),1,1,1,2
+Kanpur Dehat (Ramabai Nagar),0,0,1,5
+Hanumangarh,0,1,0,8
+Hanumangarh,1,0,1,8
+Hanumangarh,0,1,0,1
+Hassan,1,1,0,2
+Hassan,1,1,0,5
+Hassan,0,0,0,8
+Chhatarpur,1,0,1,3
+Chhatarpur,0,0,1,8
+Chhatarpur,0,1,1,3
+Etah,0,0,1,1
+Etah,1,0,0,4
+Etah,0,0,1,6
+Jamui,0,1,1,7
+Jamui,1,0,1,10
+Jamui,1,1,0,1
+Surendranagar,0,1,0,6
+Surendranagar,1,1,0,8
+Surendranagar,1,0,0,0
+Shimoga,0,1,1,2
+Shimoga,0,1,0,5
+Shimoga,1,0,0,3
+Hissar,1,0,1,4
+Hissar,0,0,1,0
+Hissar,0,1,1,1
+Thoothukudi,0,0,1,6
+Thoothukudi,1,1,0,1
+Thoothukudi,1,1,1,3
+Cachar,0,1,0,2
+Cachar,1,0,1,6
+Cachar,0,1,1,3
+Hazaribag,0,0,1,2
+Hazaribag,1,1,1,7
+Hazaribag,0,1,0,6
+Shivpuri,1,0,0,0
+Shivpuri,1,0,1,2
+Shivpuri,1,0,1,5
+Namakkal,1,1,1,10
+Namakkal,1,0,0,0
+Namakkal,0,1,1,1
+Sant Kabir Nagar,0,1,0,1
+Sant Kabir Nagar,0,0,0,1
+Sant Kabir Nagar,1,1,1,3
+East Delhi,1,0,0,5
+East Delhi,1,1,0,4
+East Delhi,1,0,1,6
+Buxar,0,0,0,3
+Buxar,0,0,1,3
+Buxar,1,1,1,5
+Bhind,1,0,0,3
+Bhind,1,1,1,10
+Bhind,0,1,1,5
+Valsad,0,1,0,4
+Valsad,1,1,1,9
+Valsad,0,0,0,9
+Balaghat,1,0,1,8
+Balaghat,1,1,0,6
+Balaghat,0,0,0,1
+Bidar,1,1,0,4
+Bidar,0,0,1,7
+Bidar,0,0,1,8
+Alipurduar,1,0,0,8
+Alipurduar,0,1,0,6
+Alipurduar,1,1,1,6
+Dehradun,1,1,1,1
+Dehradun,0,0,0,8
+Dehradun,0,0,0,7
+Puri,0,0,1,0
+Puri,0,1,0,9
+Puri,1,1,1,5
+Barpeta,1,1,0,0
+Barpeta,0,0,1,10
+Barpeta,1,1,1,10
+Kishanganj,0,1,0,6
+Kishanganj,0,0,0,0
+Kishanganj,0,0,0,3
+Gautam Buddh Nagar,1,1,0,1
+Gautam Buddh Nagar,0,0,1,2
+Gautam Buddh Nagar,0,1,0,2
+Dakshin Dinajpur,0,0,1,9
+Dakshin Dinajpur,1,0,0,2
+Dakshin Dinajpur,0,0,0,9
+Jalaun,1,0,0,7
+Jalaun,1,0,0,1
+Jalaun,0,0,0,5
+Chitradurga,1,1,0,3
+Chitradurga,0,1,1,6
+Chitradurga,1,0,1,6
+Osmanabad,1,1,0,0
+Osmanabad,1,0,1,2
+Osmanabad,0,0,0,9
+Kannauj,1,0,1,0
+Kannauj,1,1,1,1
+Kannauj,0,0,0,7
+Khagaria,0,1,0,7
+Khagaria,1,0,1,0
+Khagaria,1,0,0,6
+Sangrur,0,1,1,4
+Sangrur,1,1,1,8
+Sangrur,1,1,1,0
+Balangir,1,0,0,0
+Balangir,1,0,0,6
+Balangir,1,1,0,0
+Udham Singh Nagar,1,0,1,5
+Udham Singh Nagar,0,0,1,10
+Udham Singh Nagar,0,0,0,1
+Nandurbar,0,1,1,10
+Nandurbar,0,1,0,10
+Nandurbar,1,0,1,2
+Dausa,1,1,1,3
+Dausa,0,1,1,9
+Dausa,1,1,0,7
+Bhiwani,1,0,1,6
+Bhiwani,1,0,0,5
+Bhiwani,1,1,0,2
+Kaimur,0,0,0,9
+Kaimur,0,1,1,2
+Kaimur,1,0,1,9
+Janjgir-Champa,1,0,0,7
+Janjgir-Champa,1,1,1,7
+Janjgir-Champa,1,0,1,6
+Nagapattinam,0,0,0,10
+Nagapattinam,0,0,0,7
+Nagapattinam,0,0,1,4
+Ratnagiri,1,1,0,4
+Ratnagiri,0,0,0,4
+Ratnagiri,0,1,0,0
+Haveri district,0,1,1,2
+Haveri district,1,0,1,4
+Haveri district,1,1,1,2
+Kaushambi,1,1,1,6
+Kaushambi,1,1,0,6
+Kaushambi,0,0,1,5
+Hoshiarpur,1,1,0,0
+Hoshiarpur,0,1,0,4
+Hoshiarpur,0,0,1,10
+Etawah,0,1,1,0
+Etawah,1,0,0,2
+Etawah,0,1,1,6
+Betul,0,1,1,3
+Betul,1,1,1,6
+Betul,1,0,1,10
+Kalahandi,0,0,0,8
+Kalahandi,1,0,1,7
+Kalahandi,0,1,1,3
+Hathras (Mahamaya Nagar),1,1,1,2
+Hathras (Mahamaya Nagar),1,0,1,0
+Hathras (Mahamaya Nagar),0,1,1,9
+Dewas,1,0,1,2
+Dewas,1,0,0,0
+Dewas,1,0,0,9
+Sant Ravidas Nagar,1,1,0,1
+Sant Ravidas Nagar,0,0,0,1
+Sant Ravidas Nagar,1,1,0,6
+Bharuch,1,1,0,2
+Bharuch,1,0,1,3
+Bharuch,0,1,0,8
+Rajgarh,1,1,1,9
+Rajgarh,1,1,0,5
+Rajgarh,0,1,1,8
+Chittorgarh,0,0,0,0
+Chittorgarh,0,0,1,6
+Chittorgarh,0,0,1,10
+Kolar,1,1,1,5
+Kolar,1,1,1,2
+Kolar,0,1,0,3
+Rajnandgaon,0,0,1,1
+Rajnandgaon,0,1,1,9
+Rajnandgaon,1,0,1,5
+Jammu,1,0,1,9
+Jammu,1,0,0,6
+Jammu,1,1,1,5
+Kamrup,0,1,1,10
+Kamrup,0,1,1,1
+Kamrup,1,0,0,5
+Gurgaon,1,0,1,3
+Gurgaon,1,0,0,7
+Gurgaon,0,1,0,9
+Amreli district,1,0,1,3
+Amreli district,0,0,1,3
+Amreli district,0,1,1,6
+Shajapur,0,0,1,9
+Shajapur,1,0,0,4
+Shajapur,0,0,1,4
+Kangra,0,1,1,0
+Kangra,1,0,1,4
+Kangra,0,0,0,8
+Bhadrak,0,0,0,10
+Bhadrak,0,1,0,3
+Bhadrak,1,1,0,8
+Karnal,1,1,0,7
+Karnal,1,0,1,8
+Karnal,0,0,1,6
+Dharmapuri,1,1,1,8
+Dharmapuri,1,0,1,6
+Dharmapuri,1,1,1,10
+West Singhbhum,1,1,0,1
+West Singhbhum,0,0,1,10
+West Singhbhum,0,1,1,9
+Raigarh,0,1,0,1
+Raigarh,1,0,1,1
+Raigarh,1,1,0,5
+Deoghar,0,1,1,2
+Deoghar,1,1,0,7
+Deoghar,1,1,1,8
+Sonipat,1,0,1,6
+Sonipat,0,0,0,1
+Sonipat,0,0,0,1
+Bargarh (Baragarh),1,1,0,4
+Bargarh (Baragarh),0,0,0,0
+Bargarh (Baragarh),1,1,1,7
+Karauli,0,0,1,1
+Karauli,0,0,0,2
+Karauli,1,1,1,6
+Vidisha,1,1,1,1
+Vidisha,1,1,1,1
+Vidisha,0,1,1,5
+Ratlam,0,0,1,4
+Ratlam,1,0,1,8
+Ratlam,1,1,1,1
+Hapur (Panchsheel Nagar),1,1,0,4
+Hapur (Panchsheel Nagar),0,0,0,5
+Hapur (Panchsheel Nagar),0,1,1,3
+Tikamgarh,1,1,1,9
+Tikamgarh,0,1,1,8
+Tikamgarh,0,1,0,4
+Kendrapara,0,0,1,2
+Kendrapara,1,1,1,7
+Kendrapara,1,0,1,6
+Kanshi Ram Nagar,1,1,0,1
+Kanshi Ram Nagar,1,1,0,6
+Kanshi Ram Nagar,0,1,0,8
+Tonk,0,0,1,3
+Tonk,0,1,1,10
+Tonk,0,1,0,6
+Bastar,0,0,1,7
+Bastar,0,0,0,6
+Bastar,0,1,0,7
+Jhalawar,0,0,1,1
+Jhalawar,0,0,0,10
+Jhalawar,0,1,0,1
+Koppal,1,1,1,8
+Koppal,0,0,1,3
+Koppal,0,1,1,8
+Dungapur,1,1,1,4
+Dungapur,1,0,0,4
+Dungapur,1,1,1,6
+Bathinda,1,0,0,3
+Bathinda,1,0,1,1
+Bathinda,0,1,1,3
+Gandhinagar,1,1,1,2
+Gandhinagar,0,1,1,0
+Gandhinagar,0,1,0,3
+Barwani,1,0,1,10
+Barwani,0,0,0,1
+Barwani,0,0,0,10
+Seoni,1,1,0,6
+Seoni,1,1,0,2
+Seoni,1,1,1,2
+Koraput,0,1,0,8
+Koraput,0,0,1,6
+Koraput,0,1,0,6
+Auraiya,1,0,0,8
+Auraiya,1,0,0,6
+Auraiya,1,0,0,5
+Munger,1,1,0,9
+Munger,0,1,0,7
+Munger,1,1,1,2
+Uttara Kannada,0,0,0,10
+Uttara Kannada,1,0,0,2
+Uttara Kannada,0,1,0,6
+Patan,1,0,0,8
+Patan,0,0,0,9
+Patan,1,1,1,1
+Sivaganga,1,0,0,9
+Sivaganga,0,1,1,4
+Sivaganga,0,0,0,8
+Mandsaur,0,1,0,5
+Mandsaur,1,1,0,1
+Mandsaur,1,0,1,3
+Sawai Madhopur,1,1,0,1
+Sawai Madhopur,0,0,1,0
+Sawai Madhopur,0,0,0,9
+Ramanathapuram,0,1,0,9
+Ramanathapuram,1,0,0,6
+Ramanathapuram,0,1,0,8
+Jind,0,1,0,9
+Jind,1,1,0,10
+Jind,1,0,0,8
+Raisen,1,1,1,0
+Raisen,0,0,1,2
+Raisen,0,0,0,9
+Navsari,0,0,0,10
+Navsari,1,1,0,0
+Navsari,1,0,1,4
+Dibrugarh,0,1,1,2
+Dibrugarh,1,0,0,2
+Dibrugarh,0,1,1,0
+Garhwa,1,0,1,6
+Garhwa,1,0,1,5
+Garhwa,1,1,1,7
+Gondia,1,1,0,6
+Gondia,0,0,0,8
+Gondia,1,1,1,4
+Dumka,0,0,0,3
+Dumka,1,0,1,10
+Dumka,0,1,0,3
+Tinsukia,1,0,0,3
+Tinsukia,0,1,0,1
+Tinsukia,0,1,0,6
+Godda,1,0,0,1
+Godda,1,1,0,0
+Godda,1,1,0,1
+Sehore,0,1,0,9
+Sehore,0,1,1,2
+Sehore,1,1,1,6
+Khandwa (East Nimar),0,0,0,3
+Khandwa (East Nimar),1,1,1,5
+Khandwa (East Nimar),0,1,1,5
+Kasaragod,1,1,0,9
+Kasaragod,1,0,1,3
+Kasaragod,1,0,1,1
+Bagpat,1,0,0,3
+Bagpat,0,1,1,6
+Bagpat,0,0,1,8
+Wardha,1,0,0,8
+Wardha,1,1,0,10
+Wardha,0,1,0,3
+Sirsa,0,1,1,5
+Sirsa,1,1,0,4
+Sirsa,1,0,1,10
+Katni,1,1,0,7
+Katni,0,0,1,0
+Katni,0,1,0,9
+Angul,1,0,1,10
+Angul,1,1,0,5
+Angul,1,0,0,6
+Srinagar,0,1,0,1
+Srinagar,1,0,0,9
+Srinagar,1,1,0,8
+Tiruvarur,1,1,0,2
+Tiruvarur,1,1,0,0
+Tiruvarur,1,1,0,10
+Damoh,1,1,0,10
+Damoh,1,0,0,3
+Damoh,0,1,0,6
+Kamrup Metropolitan,0,1,0,5
+Kamrup Metropolitan,1,1,1,10
+Kamrup Metropolitan,1,1,0,6
+Chikkaballapur,1,0,0,10
+Chikkaballapur,1,1,1,9
+Chikkaballapur,0,1,1,7
+Theni,1,1,1,10
+Theni,0,1,0,4
+Theni,1,0,0,10
+Hoshangabad,1,1,0,2
+Hoshangabad,1,0,1,1
+Hoshangabad,1,0,0,1
+Guna,1,1,0,5
+Guna,0,1,0,0
+Guna,1,1,1,7
+Baran,1,1,0,2
+Baran,1,1,1,3
+Baran,0,1,0,2
+Nabarangpur,0,0,1,0
+Nabarangpur,0,0,0,8
+Nabarangpur,0,1,0,2
+Lalitpur,0,1,0,9
+Lalitpur,0,0,0,0
+Lalitpur,1,1,0,1
+Gir Somnath,1,0,0,5
+Gir Somnath,1,0,0,9
+Gir Somnath,0,0,1,4
+Karimganj,1,0,1,8
+Karimganj,1,0,1,1
+Karimganj,0,0,1,10
+Yamuna Nagar,0,1,0,2
+Yamuna Nagar,1,0,1,8
+Yamuna Nagar,0,1,0,3
+Dholpur,1,0,0,9
+Dholpur,1,0,0,6
+Dholpur,0,0,0,5
+Korba,1,0,0,9
+Korba,0,1,0,9
+Korba,1,1,0,1
+Panipat,1,1,0,8
+Panipat,0,1,0,0
+Panipat,1,1,0,7
+Bhandara,0,0,1,2
+Bhandara,1,0,1,1
+Bhandara,0,1,1,4
+Washim,1,1,0,0
+Washim,1,0,1,7
+Washim,1,0,0,3
+Pathanamthitta,1,0,1,3
+Pathanamthitta,1,1,0,9
+Pathanamthitta,1,0,0,8
+Dhenkanal,1,0,1,5
+Dhenkanal,1,1,0,9
+Dhenkanal,1,0,0,5
+Hingoli,0,1,0,8
+Hingoli,0,1,0,9
+Hingoli,0,0,0,9
+Singrauli,1,0,1,0
+Singrauli,1,1,1,10
+Singrauli,0,0,0,8
+Udupi,0,1,1,3
+Udupi,1,0,1,3
+Udupi,1,1,1,1
+Yadgir,1,1,0,3
+Yadgir,0,1,0,10
+Yadgir,0,1,1,4
+Rajsamand,0,1,1,10
+Rajsamand,0,0,0,8
+Rajsamand,0,1,0,10
+Sivasagar,0,1,1,0
+Sivasagar,0,1,0,1
+Sivasagar,1,0,0,4
+Sahibganj,0,0,1,8
+Sahibganj,0,1,1,0
+Sahibganj,1,1,0,1
+Chikkamagaluru,1,1,1,5
+Chikkamagaluru,1,0,0,8
+Chikkamagaluru,1,1,1,5
+Ambala,0,1,1,0
+Ambala,1,0,1,6
+Ambala,1,1,0,4
+Jagatsinghpur,1,0,0,3
+Jagatsinghpur,0,1,0,6
+Jagatsinghpur,0,1,1,0
+Sidhi,1,1,1,10
+Sidhi,0,1,1,8
+Sidhi,1,1,1,8
+Jehanabad,1,0,0,5
+Jehanabad,0,0,1,2
+Jehanabad,1,1,0,3
+Tarn Taran,0,1,0,3
+Tarn Taran,0,0,0,0
+Tarn Taran,1,0,1,6
+Shravasti,1,1,0,6
+Shravasti,1,1,0,9
+Shravasti,1,0,1,0
+Bundi,0,0,0,8
+Bundi,0,0,1,0
+Bundi,1,0,1,4
+Idukki,0,0,0,9
+Idukki,0,1,0,6
+Idukki,0,0,0,0
+Hamirpur,0,0,0,0
+Hamirpur,1,1,0,7
+Hamirpur,0,0,1,0
+Narsinghpur,0,1,1,7
+Narsinghpur,1,1,1,8
+Narsinghpur,1,1,0,7
+Jorhat,0,0,1,10
+Jorhat,0,1,0,4
+Jorhat,1,0,1,0
+Mewat,1,0,0,5
+Mewat,0,0,1,10
+Mewat,1,0,0,5
+Ramanagara,0,1,1,1
+Ramanagara,1,0,1,5
+Ramanagara,1,1,1,3
+Karur,0,1,0,4
+Karur,1,1,0,2
+Karur,1,1,0,10
+Kaithal,1,0,1,2
+Kaithal,0,0,0,4
+Kaithal,0,1,0,1
+Chhota Udaipur,1,0,1,3
+Chhota Udaipur,0,0,0,5
+Chhota Udaipur,0,0,1,6
+Gadchiroli,0,0,1,9
+Gadchiroli,1,1,0,7
+Gadchiroli,0,0,1,3
+Anantnag,0,1,0,6
+Anantnag,1,1,1,0
+Anantnag,0,0,1,0
+Gadag,1,0,0,3
+Gadag,1,1,1,4
+Gadag,1,0,0,8
+Shahdol,0,0,0,9
+Shahdol,1,1,1,4
+Shahdol,1,0,1,3
+Seraikela Kharsawan,1,1,1,3
+Seraikela Kharsawan,1,1,1,7
+Seraikela Kharsawan,0,1,1,0
+Rohtak,0,0,0,8
+Rohtak,1,1,1,0
+Rohtak,0,0,0,7
+Golaghat,1,0,1,10
+Golaghat,0,0,1,10
+Golaghat,0,0,1,3
+Chandigarh,0,0,1,2
+Chandigarh,1,1,1,2
+Chandigarh,1,0,0,4
+Mandla,0,1,0,1
+Mandla,1,1,0,0
+Mandla,1,1,0,0
+Aravalli,1,1,0,7
+Aravalli,1,0,1,0
+Aravalli,1,0,0,5
+Sambalpur,1,1,0,10
+Sambalpur,0,0,1,0
+Sambalpur,0,1,1,5
+Chatra,1,1,0,7
+Chatra,1,0,1,6
+Chatra,1,0,0,1
+Lakhimpur,0,1,0,2
+Lakhimpur,1,1,1,4
+Lakhimpur,0,1,0,1
+Palwal,1,0,1,3
+Palwal,0,1,1,5
+Palwal,0,1,0,1
+Sirohi,1,1,1,1
+Sirohi,0,1,1,6
+Sirohi,0,1,1,8
+Mahasamund,0,1,0,9
+Mahasamund,0,1,0,2
+Mahasamund,1,0,0,4
+Gumla,0,1,0,9
+Gumla,0,0,0,9
+Gumla,0,0,0,0
+Jhabua,1,0,0,3
+Jhabua,1,1,0,8
+Jhabua,0,0,0,2
+Chamarajnagar,0,1,0,6
+Chamarajnagar,1,1,0,8
+Chamarajnagar,1,1,0,1
+Panna,1,1,0,7
+Panna,0,0,1,4
+Panna,1,1,1,8
+Baramulla,0,0,0,0
+Baramulla,1,1,0,10
+Baramulla,0,1,1,7
+Goalpara,1,1,1,4
+Goalpara,1,1,0,4
+Goalpara,1,1,1,0
+Lakhisarai,1,1,0,8
+Lakhisarai,0,1,1,7
+Lakhisarai,0,0,0,1
+Mandi,1,0,1,6
+Mandi,0,1,0,9
+Mandi,0,1,0,6
+Mahisagar,1,0,0,5
+Mahisagar,1,0,0,10
+Mahisagar,0,1,1,1
+Moga,1,1,1,6
+Moga,1,0,1,4
+Moga,1,1,1,5
+Chitrakoot,1,1,0,2
+Chitrakoot,0,0,1,3
+Chitrakoot,0,1,1,5
+Bangalore Rural,0,0,1,10
+Bangalore Rural,0,0,0,2
+Bangalore Rural,1,1,1,6
+Sahibzada Ajit Singh Nagar,1,1,1,9
+Sahibzada Ajit Singh Nagar,0,0,0,1
+Sahibzada Ajit Singh Nagar,0,0,0,6
+Karbi Anglong,1,1,0,8
+Karbi Anglong,0,1,1,4
+Karbi Anglong,1,0,1,4
+Kurukshetra,1,0,0,5
+Kurukshetra,1,0,1,1
+Kurukshetra,1,0,0,5
+Nayagarh,0,1,0,3
+Nayagarh,0,1,1,1
+Nayagarh,1,0,0,1
+Rayagada,0,0,1,9
+Rayagada,1,0,0,8
+Rayagada,0,0,0,2
+Morbi,1,1,0,0
+Morbi,1,0,0,2
+Morbi,0,0,1,0
+Morigaon,0,0,1,2
+Morigaon,0,1,1,4
+Morigaon,1,1,1,3
+Jhajjar,0,1,0,4
+Jhajjar,0,1,0,4
+Jhajjar,0,0,0,8
+Nainital,0,1,1,3
+Nainital,1,0,1,9
+Nainital,0,1,0,5
+Baksa,0,0,0,7
+Baksa,0,1,0,0
+Baksa,1,0,1,4
+Ramgarh,1,0,0,7
+Ramgarh,0,1,0,0
+Ramgarh,1,1,0,2
+Pondicherry,0,0,1,1
+Pondicherry,1,0,1,10
+Pondicherry,1,1,0,3
+Fatehabad,0,0,1,8
+Fatehabad,0,1,1,3
+Fatehabad,1,0,0,10
+Mahendragarh,1,0,0,7
+Mahendragarh,1,0,1,3
+Mahendragarh,1,0,1,4
+West Tripura,1,1,1,10
+West Tripura,1,0,1,2
+West Tripura,1,0,1,0
+Darrang,1,1,0,1
+Darrang,1,0,1,4
+Darrang,0,0,1,0
+Sri Muktsar Sahib,0,0,0,4
+Sri Muktsar Sahib,1,0,0,9
+Sri Muktsar Sahib,1,1,1,1
+Pakur,1,0,0,2
+Pakur,0,1,1,0
+Pakur,0,0,1,6
+Rewari,0,0,0,0
+Rewari,1,0,1,5
+Rewari,1,1,0,10
+Kokrajhar,1,1,0,8
+Kokrajhar,0,1,1,3
+Kokrajhar,0,1,0,9
+North Delhi,1,1,1,8
+North Delhi,1,0,1,9
+North Delhi,1,1,0,9
+Mahoba,1,1,1,5
+Mahoba,0,1,0,8
+Mahoba,1,0,1,7
+Kupwara,0,0,0,6
+Kupwara,0,0,1,7
+Kupwara,0,1,0,5
+Pratapgarh,0,0,1,4
+Pratapgarh,1,0,1,7
+Pratapgarh,0,0,0,4
+Jashpur,0,1,0,4
+Jashpur,1,1,0,8
+Jashpur,0,1,1,5
+Sindhudurg,1,1,0,2
+Sindhudurg,1,1,1,10
+Sindhudurg,0,0,1,7
+Ashok Nagar,0,0,1,2
+Ashok Nagar,0,0,0,0
+Ashok Nagar,1,1,1,7
+Udalguri,1,1,1,0
+Udalguri,1,1,1,5
+Udalguri,0,0,0,2
+Neemuch,1,1,0,7
+Neemuch,0,0,1,1
+Neemuch,1,0,0,5
+East Khasi Hills,0,0,0,9
+East Khasi Hills,1,0,1,9
+East Khasi Hills,0,0,1,2
+North Goa,0,1,0,9
+North Goa,1,0,0,6
+North Goa,0,1,0,4
+Kapurthala,1,1,0,0
+Kapurthala,1,1,1,4
+Kapurthala,1,1,0,1
+Wayanad,0,1,1,0
+Wayanad,0,1,0,10
+Wayanad,0,1,0,0
+Shimla,1,0,0,0
+Shimla,1,0,1,8
+Shimla,1,0,0,8
+Tapi,0,0,0,5
+Tapi,0,1,0,3
+Tapi,0,1,0,7
+Dhamtari,0,1,1,1
+Dhamtari,0,1,0,6
+Dhamtari,1,1,0,1
+Jamtara,0,1,0,9
+Jamtara,0,1,1,8
+Jamtara,1,0,1,0
+Datia,1,0,0,5
+Datia,1,0,0,5
+Datia,0,1,0,0
+Nalbari,1,1,0,3
+Nalbari,1,1,0,6
+Nalbari,0,1,0,7
+Mansa,0,0,0,9
+Mansa,0,0,0,8
+Mansa,1,1,1,6
+Burhanpur,0,0,0,7
+Burhanpur,0,1,1,2
+Burhanpur,0,1,1,3
+Devbhoomi Dwarka,1,0,1,0
+Devbhoomi Dwarka,1,1,0,9
+Devbhoomi Dwarka,1,1,0,10
+Ariyalur,0,1,0,3
+Ariyalur,1,0,0,2
+Ariyalur,0,1,0,5
+Anuppur,1,0,1,6
+Anuppur,1,0,0,5
+Anuppur,1,0,0,10
+Kanker,1,0,0,9
+Kanker,0,1,0,6
+Kanker,1,1,0,2
+Badgam,0,0,1,6
+Badgam,0,0,1,6
+Badgam,1,0,1,9
+Nilgiris,0,0,0,3
+Nilgiris,0,0,0,9
+Nilgiris,0,1,1,10
+Bongaigaon,0,1,0,0
+Bongaigaon,0,0,0,7
+Bongaigaon,1,1,1,8
+Kandhamal,0,1,0,7
+Kandhamal,1,0,1,1
+Kandhamal,1,1,0,1
+Alirajpur,0,1,1,10
+Alirajpur,0,0,1,5
+Alirajpur,0,1,1,0
+Latehar,0,1,0,1
+Latehar,1,0,1,2
+Latehar,1,0,0,10
+Koderma,1,1,1,2
+Koderma,1,0,1,4
+Koderma,1,1,0,0
+Dindori,0,1,1,2
+Dindori,1,0,1,10
+Dindori,1,1,0,1
+Arwal,1,1,0,0
+Arwal,1,0,0,10
+Arwal,0,0,0,2
+Dhemaji,1,0,0,6
+Dhemaji,0,0,1,6
+Dhemaji,1,0,0,9
+Sheopur,1,0,0,4
+Sheopur,1,1,1,2
+Sheopur,1,0,1,8
+Pauri Garhwal,0,1,1,6
+Pauri Garhwal,0,0,1,5
+Pauri Garhwal,0,0,0,10
+Rupnagar,1,0,0,3
+Rupnagar,0,0,1,3
+Rupnagar,1,0,1,6
+Jaisalmer,0,1,1,5
+Jaisalmer,0,1,0,0
+Jaisalmer,1,1,1,7
+Surajpur,1,0,0,10
+Surajpur,1,0,1,0
+Surajpur,0,1,0,8
+Hailakandi,1,1,1,6
+Hailakandi,0,1,0,4
+Hailakandi,0,1,0,7
+Koriya,1,1,0,9
+Koriya,0,1,1,3
+Koriya,1,1,1,8
+Sheohar,0,1,1,0
+Sheohar,0,0,1,3
+Sheohar,0,0,0,0
+Botad,0,0,0,8
+Botad,0,1,1,4
+Botad,0,0,0,6
+Subarnapur (Sonepur),1,0,0,1
+Subarnapur (Sonepur),0,0,0,2
+Subarnapur (Sonepur),0,1,1,7
+Umaria,0,0,1,2
+Umaria,1,1,0,2
+Umaria,1,1,1,3
+West Garo Hills,0,0,0,1
+West Garo Hills,0,0,1,0
+West Garo Hills,0,1,1,3
+South Goa,1,1,1,8
+South Goa,1,1,1,7
+South Goa,1,0,0,7
+Sheikhpura,0,1,0,7
+Sheikhpura,1,1,0,6
+Sheikhpura,0,0,1,10
+Almora,0,1,0,7
+Almora,1,0,0,6
+Almora,0,0,0,9
+Rajouri,0,1,1,9
+Rajouri,0,0,1,5
+Rajouri,1,0,1,9
+Faridkot,1,0,1,10
+Faridkot,1,0,0,10
+Faridkot,1,0,0,9
+Tehri Garhwal,0,0,1,7
+Tehri Garhwal,1,1,1,4
+Tehri Garhwal,1,1,0,8
+Kathua,1,0,1,10
+Kathua,0,0,1,10
+Kathua,0,1,0,5
+Shahid Bhagat Singh Nagar,0,1,0,1
+Shahid Bhagat Singh Nagar,0,0,1,0
+Shahid Bhagat Singh Nagar,1,0,1,6
+Malkangiri,1,0,0,5
+Malkangiri,1,0,0,9
+Malkangiri,1,0,0,9
+Nuapada,0,1,0,3
+Nuapada,0,1,1,3
+Nuapada,0,1,1,5
+Fatehgarh Sahib,1,1,0,7
+Fatehgarh Sahib,0,0,0,3
+Fatehgarh Sahib,0,1,1,1
+Simdega,1,0,0,7
+Simdega,0,0,0,1
+Simdega,0,1,1,7
+Barnala,1,0,0,5
+Barnala,1,0,1,8
+Barnala,0,1,0,9
+Narmada,1,1,0,4
+Narmada,0,0,1,9
+Narmada,0,0,0,8
+Porbandar,0,1,1,5
+Porbandar,0,0,0,1
+Porbandar,1,1,1,0
+Kabirdham (formerly Kawardha),1,0,0,7
+Kabirdham (formerly Kawardha),1,1,0,6
+Kabirdham (formerly Kawardha),0,0,1,10
+Jharsuguda,1,0,0,8
+Jharsuguda,0,1,1,6
+Jharsuguda,1,0,0,3
+Central Delhi,1,0,0,9
+Central Delhi,0,0,0,10
+Central Delhi,1,1,1,5
+Solan,0,1,0,2
+Solan,1,1,1,9
+Solan,0,0,0,6
+Gajapati,1,1,1,7
+Gajapati,1,1,1,6
+Gajapati,1,0,0,1
+Harda,0,0,0,8
+Harda,0,1,0,4
+Harda,0,0,0,9
+Pulwama,0,1,0,6
+Pulwama,0,1,0,5
+Pulwama,0,1,1,1
+Perambalur,0,1,1,5
+Perambalur,1,1,0,3
+Perambalur,1,1,0,10
+Panchkula,1,1,1,10
+Panchkula,1,0,1,9
+Panchkula,1,0,0,5
+Udhampur,1,1,1,4
+Udhampur,1,0,0,3
+Udhampur,1,0,0,2
+Kodagu,1,0,1,5
+Kodagu,1,1,1,6
+Kodagu,1,0,1,6
+Dantewada,1,1,1,9
+Dantewada,1,0,0,9
+Dantewada,1,1,0,2
+Khunti,0,0,1,5
+Khunti,1,0,0,7
+Khunti,1,1,0,5
+Sirmaur,1,1,0,1
+Sirmaur,0,1,0,10
+Sirmaur,0,1,1,4
+Una,0,1,1,2
+Una,0,1,1,5
+Una,0,0,0,6
+Chamba,0,1,1,5
+Chamba,0,0,0,0
+Chamba,1,1,1,7
+Imphal West,1,0,1,5
+Imphal West,0,0,0,10
+Imphal West,0,0,1,7
+Pithoragarh,0,0,1,3
+Pithoragarh,1,0,0,9
+Pithoragarh,0,0,1,0
+Sepahijala,0,1,0,0
+Sepahijala,0,0,1,8
+Sepahijala,0,1,0,6
+Chirang,0,1,0,1
+Chirang,1,0,0,2
+Chirang,0,0,0,10
+Poonch,0,0,1,5
+Poonch,0,0,0,4
+Poonch,0,1,0,2
+Lohardaga,1,0,0,4
+Lohardaga,0,1,1,1
+Lohardaga,1,1,1,8
+Hamirpur,0,1,1,2
+Hamirpur,1,0,0,7
+Hamirpur,1,0,0,9
+Imphal East,0,1,0,2
+Imphal East,0,0,0,10
+Imphal East,0,0,1,0
+Boudh (Bauda),0,0,1,6
+Boudh (Bauda),0,0,1,3
+Boudh (Bauda),0,0,1,0
+Kullu,1,0,0,1
+Kullu,1,0,0,3
+Kullu,1,1,1,10
+Gomati,1,1,1,6
+Gomati,1,1,1,4
+Gomati,0,0,1,9
+South Tripura,0,0,1,7
+South Tripura,1,0,0,8
+South Tripura,0,1,1,5
+Kulgam,0,1,0,6
+Kulgam,1,0,0,1
+Kulgam,1,1,1,4
+Surguja,1,0,1,9
+Surguja,0,1,1,5
+Surguja,1,1,1,2
+Thoubal,0,1,1,9
+Thoubal,0,0,0,2
+Thoubal,0,0,0,7
+North Tripura,1,0,1,4
+North Tripura,0,1,0,6
+North Tripura,1,0,0,10
+Tuensang,1,1,1,8
+Tuensang,0,1,1,8
+Tuensang,0,1,1,3
+Doda,1,1,1,1
+Doda,0,1,0,3
+Doda,1,0,1,3
+Aizawl,1,0,0,1
+Aizawl,0,0,0,0
+Aizawl,0,0,0,3
+Chamoli,0,1,0,8
+Chamoli,1,0,0,4
+Chamoli,0,1,0,3
+West Khasi Hills,0,1,1,6
+West Khasi Hills,1,1,1,7
+West Khasi Hills,0,1,0,6
+Bandipora,1,1,0,1
+Bandipora,0,1,1,3
+Bandipora,0,0,1,8
+Bilaspur,1,0,0,5
+Bilaspur,1,1,0,7
+Bilaspur,0,0,1,7
+Dimapur,0,0,1,9
+Dimapur,0,0,1,4
+Dimapur,1,0,1,0
+Dhalai,0,0,0,9
+Dhalai,1,1,1,2
+Dhalai,1,1,1,5
+Senapati,0,1,1,1
+Senapati,0,0,1,10
+Senapati,1,1,1,8
+Dadra and Nagar Haveli,0,0,0,1
+Dadra and Nagar Haveli,1,1,0,2
+Dadra and Nagar Haveli,0,0,0,2
+Uttarkashi,0,0,1,7
+Uttarkashi,0,1,1,8
+Uttarkashi,0,1,1,2
+Khowai,1,1,1,2
+Khowai,0,0,1,8
+Khowai,1,0,1,0
+Samba,0,0,0,9
+Samba,0,1,1,2
+Samba,0,1,1,5
+East Garo Hills,1,1,0,4
+East Garo Hills,1,1,1,1
+East Garo Hills,1,1,0,9
+Reasi,0,1,0,6
+Reasi,1,0,0,4
+Reasi,0,0,1,8
+Debagarh (Deogarh),1,0,0,8
+Debagarh (Deogarh),1,1,0,5
+Debagarh (Deogarh),0,1,1,4
+Ganderbal,0,1,0,9
+Ganderbal,1,0,0,1
+Ganderbal,1,0,0,1
+Ramban,0,0,1,4
+Ramban,0,1,0,3
+Ramban,1,0,1,1
+East Sikkim,0,0,1,10
+East Sikkim,1,0,1,6
+East Sikkim,1,0,1,6
+Unokoti,1,0,1,4
+Unokoti,0,1,0,1
+Unokoti,0,0,1,6
+Churachandpur,0,0,1,1
+Churachandpur,1,1,1,6
+Churachandpur,1,0,1,10
+West Jaintia Hills,1,0,0,10
+West Jaintia Hills,0,1,1,0
+West Jaintia Hills,1,1,1,9
+Kohima,1,1,0,9
+Kohima,1,1,0,6
+Kohima,0,0,0,5
+Shopian,0,0,0,1
+Shopian,1,0,1,7
+Shopian,0,1,1,0
+Bageshwar,0,0,0,2
+Bageshwar,0,0,1,10
+Bageshwar,1,1,1,4
+Mon,0,1,1,8
+Mon,0,0,1,4
+Mon,0,1,1,9
+Champawat,0,0,1,10
+Champawat,1,0,0,9
+Champawat,1,0,0,10
+Ri Bhoi,0,0,0,4
+Ri Bhoi,0,1,1,1
+Ri Bhoi,1,0,1,2
+Bijapur,0,0,1,3
+Bijapur,0,0,0,9
+Bijapur,1,0,0,9
+Sukma,1,0,1,0
+Sukma,1,0,0,3
+Sukma,1,1,1,7
+Bishnupur,0,0,1,7
+Bishnupur,1,1,1,3
+Bishnupur,0,1,1,8
+South Andaman,0,0,0,4
+South Andaman,0,1,1,1
+South Andaman,1,0,0,4
+Rudraprayag,1,0,1,2
+Rudraprayag,1,1,1,9
+Rudraprayag,0,0,0,7
+Kishtwar,1,1,0,5
+Kishtwar,0,0,1,2
+Kishtwar,1,0,1,8
+Dang,0,1,1,7
+Dang,1,0,0,7
+Dang,1,1,0,6
+Dima Hasao,1,0,0,1
+Dima Hasao,0,0,1,2
+Dima Hasao,1,1,0,7
+Karaikal,1,0,1,5
+Karaikal,0,0,1,7
+Karaikal,1,0,0,8
+Mokokchung,0,0,1,10
+Mokokchung,1,1,1,6
+Mokokchung,1,1,0,5
+Daman,0,0,1,6
+Daman,0,1,1,5
+Daman,1,0,0,2
+Ukhrul,1,1,1,8
+Ukhrul,0,0,1,5
+Ukhrul,0,1,1,7
+Papum Pare,1,0,0,0
+Papum Pare,1,0,0,3
+Papum Pare,1,0,0,5
+Wokha,1,1,0,3
+Wokha,1,1,0,4
+Wokha,1,1,0,2
+Peren,0,0,0,5
+Peren,1,1,0,9
+Peren,1,0,1,1
+Phek,1,1,1,1
+Phek,1,0,0,3
+Phek,1,1,1,8
+Lunglei,1,0,1,6
+Lunglei,0,0,0,10
+Lunglei,0,1,0,9
+Changlang,1,0,0,4
+Changlang,0,0,0,1
+Changlang,1,1,1,3
+Leh,0,1,0,3
+Leh,1,1,0,7
+Leh,0,0,0,7
+South Sikkim,1,1,0,4
+South Sikkim,0,1,0,1
+South Sikkim,1,0,0,7
+Lohit,1,1,0,0
+Lohit,0,1,1,0
+Lohit,1,0,1,9
+Chandel,1,0,1,2
+Chandel,0,0,1,0
+Chandel,0,0,0,10
+Kargil,1,1,1,0
+Kargil,1,1,0,10
+Kargil,0,1,0,4
+South Garo Hills,1,0,0,3
+South Garo Hills,0,0,1,7
+South Garo Hills,0,1,0,9
+Zunheboto,0,1,1,5
+Zunheboto,1,1,1,0
+Zunheboto,1,1,1,2
+Narayanpur,0,1,0,2
+Narayanpur,1,1,0,9
+Narayanpur,0,0,0,2
+Tamenglong,0,1,0,2
+Tamenglong,0,1,0,2
+Tamenglong,0,1,1,7
+West Sikkim,0,1,1,10
+West Sikkim,1,1,0,9
+West Sikkim,1,0,1,8
+New Delhi,1,0,0,10
+New Delhi,1,1,1,3
+New Delhi,1,0,1,5
+Champhai,0,0,0,7
+Champhai,0,0,0,5
+Champhai,1,0,0,10
+East Jaintia Hills,0,1,0,3
+East Jaintia Hills,1,0,1,1
+East Jaintia Hills,1,1,1,4
+North Garo Hills,1,1,0,3
+North Garo Hills,0,0,1,9
+North Garo Hills,1,0,1,10
+Lawngtlai,1,1,1,8
+Lawngtlai,1,0,1,0
+Lawngtlai,0,1,0,4
+West Siang,0,1,0,1
+West Siang,0,1,1,9
+West Siang,0,1,0,9
+Tirap,1,1,1,6
+Tirap,1,0,0,5
+Tirap,0,0,0,4
+South West Khasi Hills,0,1,0,0
+South West Khasi Hills,0,1,0,1
+South West Khasi Hills,0,0,1,10
+North and Middle Andaman,0,0,1,6
+North and Middle Andaman,0,1,0,5
+North and Middle Andaman,1,0,0,2
+East Siang,0,0,0,3
+East Siang,1,1,0,5
+East Siang,0,1,0,2
+Kurung Kumey,1,1,1,7
+Kurung Kumey,1,0,0,0
+Kurung Kumey,1,0,0,4
+West Kameng,1,1,1,3
+West Kameng,0,0,1,3
+West Kameng,0,0,0,9
+Mamit,0,0,0,1
+Mamit,0,1,1,2
+Mamit,0,1,0,3
+Kinnaur,1,1,1,8
+Kinnaur,1,1,1,8
+Kinnaur,0,1,1,8
+Upper Subansiri,1,0,0,10
+Upper Subansiri,1,1,1,0
+Upper Subansiri,0,1,0,8
+Kolasib,0,1,1,7
+Kolasib,1,0,0,2
+Kolasib,0,0,0,5
+Lower Subansiri,0,1,0,5
+Lower Subansiri,0,0,1,8
+Lower Subansiri,0,1,1,9
+East Kameng,1,0,0,10
+East Kameng,0,0,0,6
+East Kameng,1,0,0,6
+Kiphire,0,1,1,4
+Kiphire,1,0,0,6
+Kiphire,0,0,1,1
+Serchhip,1,0,1,7
+Serchhip,0,1,0,2
+Serchhip,1,1,0,0
+Lakshadweep,0,0,0,10
+Lakshadweep,0,1,1,10
+Lakshadweep,1,1,0,8
+Saiha,0,1,0,6
+Saiha,1,0,0,0
+Saiha,1,0,0,6
+Yanam,1,0,1,2
+Yanam,1,0,0,1
+Yanam,1,0,1,1
+Lower Dibang Valley,0,0,1,8
+Lower Dibang Valley,1,1,1,3
+Lower Dibang Valley,1,0,1,5
+Diu,1,0,0,2
+Diu,0,1,0,7
+Diu,0,1,1,0
+Longleng,0,0,1,4
+Longleng,0,1,0,3
+Longleng,0,1,1,1
+Tawang,1,1,1,6
+Tawang,0,0,0,2
+Tawang,1,0,0,2
+North Sikkim,1,0,1,2
+North Sikkim,1,0,0,3
+North Sikkim,0,1,1,4
+Mahe,0,1,0,0
+Mahe,1,1,0,10
+Mahe,1,0,0,1
+Nicobar,1,1,1,0
+Nicobar,0,0,0,6
+Nicobar,0,0,1,9
+Upper Siang,1,1,1,8
+Upper Siang,0,0,1,2
+Upper Siang,0,0,0,10
+Lahaul and Spiti,0,1,1,2
+Lahaul and Spiti,0,0,0,10
+Lahaul and Spiti,1,0,0,7
+Anjaw,0,0,0,4
+Anjaw,1,1,1,1
+Anjaw,1,0,1,8
+Dibang Valley,1,0,0,5
+Dibang Valley,0,0,0,3
+Dibang Valley,1,1,1,2
+Fazilka,1,1,0,3
+Fazilka,1,1,1,4
+Fazilka,0,1,0,7
+Shamli,1,1,0,0
+Shamli,0,0,1,4
+Shamli,0,0,1,5
+Balrampur,1,0,1,9
+Balrampur,0,1,1,8
+Balrampur,1,1,1,9
+Bemetara,1,0,1,0
+Bemetara,0,0,1,0
+Bemetara,0,1,0,1
+Palghar,1,1,1,4
+Palghar,0,1,0,1
+Palghar,0,0,0,8
+Longding,1,0,0,2
+Longding,0,1,1,0
+Longding,0,0,0,3
+Balod,0,1,1,7
+Balod,0,1,1,7
+Balod,1,0,0,4
+Baloda Bazar,0,0,0,4
+Baloda Bazar,1,0,0,10
+Baloda Bazar,0,0,0,3
+Gariaband,1,1,0,9
+Gariaband,0,1,0,1
+Gariaband,0,0,0,4
+Kondagaon,0,0,1,6
+Kondagaon,1,0,0,10
+Kondagaon,1,0,1,5
+Mungeli,0,0,0,0
+Mungeli,0,1,1,4
+Mungeli,1,0,0,4
+Shahdara,0,0,0,7
+Shahdara,0,1,1,9
+Shahdara,0,1,0,10
+South East Delhi,1,1,0,10
+South East Delhi,0,0,0,2
+South East Delhi,0,1,0,4
+Agar,0,1,0,7
+Agar,0,1,0,3
+Agar,1,1,1,4
+South West Garo Hills,0,0,1,7
+South West Garo Hills,1,1,1,0
+South West Garo Hills,1,0,0,6
+Amethi (Chhatrapati Shahuji Maharaj Nagar),0,0,0,0
+Amethi (Chhatrapati Shahuji Maharaj Nagar),1,0,1,0
+Amethi (Chhatrapati Shahuji Maharaj Nagar),0,1,1,4
