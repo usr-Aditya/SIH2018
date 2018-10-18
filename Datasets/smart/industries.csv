@@ -1,0 +1,676 @@
+Thane,71,52
+North 24 Parganas,93,89
+Bangalore Urban,4,89
+Pune,15,40
+Mumbai suburban,31,73
+South 24 Parganas,46,81
+Bardhaman,25,79
+Ahmedabad,96,18
+Murshidabad,34,25
+Jaipur,12,40
+Nashik,79,93
+Allahabad,81,77
+Patna,36,56
+Hooghly,85,24
+Ranga Reddy,40,44
+Nadia,37,81
+East Godavari,62,32
+Paschim Medinipur,38,34
+East Champaran,92,61
+Surat,7,29
+Guntur,45,50
+Howrah,4,18
+Muzaffarpur,32,64
+Belgaum,61,30
+Moradabad,70,86
+Chennai,11,99
+Ghaziabad,45,30
+Nagpur,37,4
+Azamgarh,58,33
+Lucknow,45,56
+Kanpur Nagar,6,30
+Ahmednagar,69,70
+Krishna,99,36
+Kolkata,70,73
+Jaunpur district,63,32
+Madhubani,39,42
+Sitapur,68,31
+Bareilly,0,83
+Gorakhpur,13,63
+Purba Medinipur,51,29
+Agra,1,88
+Gaya,58,86
+Solapur,90,40
+Visakhapatnam,11,81
+Samastipur,82,9
+Jalgaon,20,76
+Chittoor,55,52
+Muzaffarnagar,100,94
+Malappuram,47,68
+Hardoi,38,59
+Anantapur,94,98
+Raipur,97,29
+Kurnool,50,78
+Mahbubnagar,28,70
+Lakhimpur Kheri,10,75
+Hyderabad,9,67
+Maldah,48,95
+Madurai,31,49
+Kanchipuram,79,43
+Saran,46,77
+West Champaran,49,54
+West Godavari,7,57
+Vellore,74,50
+Darbhanga,33,58
+Kolhapur,9,71
+Jalpaiguri,13,32
+Karimnagar,96,93
+Sultanpur,92,25
+Tiruvallur,84,31
+Budaun,49,87
+Aurangabad,39,15
+Jodhpur,14,29
+Bijnor,31,0
+Varanasi,84,21
+Aligarh,99,43
+Alwar,73,17
+North West Delhi,34,96
+Vadodara,77,41
+Ghazipur,90,71
+Bankura,98,49
+Kushinagar,14,38
+Warangal,46,31
+Ganjam,51,13
+Birbhum,86,11
+Bulandshahr,82,10
+Vaishali,95,97
+Ludhiana,75,34
+Nalgonda,59,73
+Salem,9,35
+Coimbatore,62,39
+Saharanpur,32,42
+Viluppuram,81,5
+Meerut,18,68
+Gonda,36,71
+Sitamarhi,46,68
+Raebareli,73,52
+Prakasam,40,61
+Nanded,21,84
+Durg,49,23
+Siwan,61,19
+Nagaur,25,72
+Thiruvananthapuram,91,18
+Ernakulam,74,68
+Purnia,60,13
+Indore,82,40
+Barabanki,30,25
+Ballia,53,69
+Pratapgarh,7,31
+Rajkot,64,30
+Mumbai City,92,43
+Banaskantha,96,14
+Unnao,41,4
+Thrissur,62,6
+Deoria,97,73
+Kozhikode,10,46
+Tirunelveli,14,19
+Katihar,90,57
+Udaipur,94,34
+Bhagalpur,3,10
+Medak,92,71
+Satara,76,45
+Shahjahanpur,96,14
+Uttar Dinajpur,8,83
+Mysore,20,91
+Sri Potti Sriramulu Nellore,39,65
+Rohtas,95,27
+Begusarai,74,63
+Purulia,52,94
+Ranchi,100,60
+Patiala,90,87
+Amravati,67,82
+Kadapa,89,62
+Bhavnagar,99,28
+Nalanda,19,80
+Kanyakumari,33,82
+Nagaon,26,92
+Cooch Behar,61,42
+Sangli,27,10
+Palakkad,66,50
+Araria,59,49
+Khammam,10,26
+Yavatmal,21,69
+Junagadh,54,20
+Adilabad,39,74
+South Delhi,32,9
+Bhojpur,46,8
+Tiruchirappalli,42,38
+Srikakulam,25,7
+Dhanbad,9,41
+Tumkur,9,87
+Sikar,50,55
+Maharajganj,43,17
+Bilaspur,7,49
+Raigad,98,20
+Fatehpur,11,43
+Kollam,58,29
+Cuttack,45,21
+Barmer,28,97
+Cuddalore,96,0
+Buldhana,68,15
+Beed,40,48
+Ajmer,11,9
+Gulbarga,38,75
+Gopalganj,14,8
+Siddharthnagar,51,80
+Nizamabad,20,5
+Bharatpur,93,56
+Mathura,90,82
+Bellary,72,53
+West Delhi,39,15
+Kannur,79,23
+Mayurbhanj,52,55
+Aurangabad,97,2
+Firozabad,62,77
+Mirzapur,32,4
+Amritsar,35,52
+Tirupur,97,14
+Tiruvannamalai,93,11
+Faizabad,45,19
+Basti,94,47
+Jabalpur,39,77
+Latur,59,67
+Giridih,22,55
+Sabarkantha,5,71
+Bhilwara,47,40
+Thanjavur,87,58
+Ambedkar Nagar,68,82
+Panchmahal,96,16
+Bahraich,93,51
+Sagar,10,95
+Bhopal,34,75
+Bikaner,11,99
+Rewa,21,40
+Vizianagaram,99,74
+Rampur,21,42
+Balasore,2,73
+Gurdaspur,88,68
+Kheda,26,88
+South West Delhi,70,94
+East Singhbhum,44,76
+Erode,3,0
+Khordha,28,30
+North East Delhi,13,33
+Satna,56,15
+Supaul,51,99
+Sambhal(Bheem Nagar),46,78
+Nawada,42,42
+Mau,68,49
+Chandrapur,92,42
+Dhar,100,57
+Jalandhar,16,1
+Vijayapura,77,87
+Dindigul,31,32
+Jamnagar,76,83
+Balrampur,80,33
+Jhunjhunu,43,53
+Dahod,51,29
+Alappuzha,33,27
+Kutch,18,94
+Chhindwara,66,100
+Anand,48,13
+Dakshina Kannada,89,67
+Sundargarh,63,44
+Bokaro,39,6
+Dhule,100,96
+Churu,60,82
+Pali,74,76
+Pilibhit,95,85
+Gwalior,55,24
+Banka,88,92
+Mehsana,49,2
+Firozpur,8,54
+Jhansi,30,39
+Pathankot,57,49
+Madhepura,65,24
+Ujjain,19,91
+Kottayam,54,80
+Ganganagar,62,0
+Morena,19,93
+Jalna,93,48
+Chandauli,51,59
+Kota,18,28
+Dhubri,52,98
+Davanagere,61,69
+Virudhunagar,49,89
+Palamu,60,40
+Haridwar,54,37
+Sonitpur,82,27
+Raichur,77,24
+Pudukkottai,19,64
+Saharsa,1,77
+Bagalkot,60,73
+Farrukhabad,8,83
+Krishnagiri,68,0
+Khargone (West Nimar),39,50
+Sonbhadra,41,47
+Mainpuri,94,40
+Dharwad,59,86
+Darjeeling,27,80
+Jyotiba Phule Nagar,23,39
+Parbhani,67,63
+Jalore,40,33
+Jajpur,54,59
+Akola,33,94
+Mandya,19,89
+Kendujhar (Keonjhar),91,6
+Banda,78,36
+Faridabad,11,55
+Banswara,40,4
+Kanpur Dehat (Ramabai Nagar),34,45
+Hanumangarh,70,93
+Hassan,58,58
+Chhatarpur,7,77
+Etah,7,16
+Jamui,22,52
+Surendranagar,39,20
+Shimoga,22,83
+Hissar,64,39
+Thoothukudi,92,49
+Cachar,22,90
+Hazaribag,91,9
+Shivpuri,41,66
+Namakkal,54,16
+Sant Kabir Nagar,87,22
+East Delhi,46,10
+Buxar,55,53
+Bhind,72,45
+Valsad,65,48
+Balaghat,64,74
+Bidar,49,87
+Alipurduar,94,11
+Dehradun,68,98
+Puri,46,53
+Barpeta,39,63
+Kishanganj,81,75
+Gautam Buddh Nagar,48,10
+Dakshin Dinajpur,87,58
+Jalaun,28,11
+Chitradurga,3,14
+Osmanabad,93,28
+Kannauj,63,72
+Khagaria,54,85
+Sangrur,28,32
+Balangir,46,11
+Udham Singh Nagar,35,69
+Nandurbar,34,35
+Dausa,76,8
+Bhiwani,21,33
+Kaimur,29,54
+Janjgir-Champa,58,32
+Nagapattinam,23,46
+Ratnagiri,17,29
+Haveri district,36,34
+Kaushambi,40,50
+Hoshiarpur,65,11
+Etawah,78,64
+Betul,53,41
+Kalahandi,83,74
+Hathras (Mahamaya Nagar),48,11
+Dewas,20,22
+Sant Ravidas Nagar,61,3
+Bharuch,96,89
+Rajgarh,54,36
+Chittorgarh,12,71
+Kolar,89,17
+Rajnandgaon,22,52
+Jammu,8,28
+Kamrup,63,58
+Gurgaon,77,29
+Amreli district,54,70
+Shajapur,3,86
+Kangra,88,55
+Bhadrak,83,100
+Karnal,21,55
+Dharmapuri,53,74
+West Singhbhum,51,30
+Raigarh,7,77
+Deoghar,71,76
+Sonipat,9,84
+Bargarh (Baragarh),25,16
+Karauli,19,99
+Vidisha,23,52
+Ratlam,20,98
+Hapur (Panchsheel Nagar),94,72
+Tikamgarh,30,9
+Kendrapara,9,12
+Kanshi Ram Nagar,96,73
+Tonk,32,43
+Bastar,21,42
+Jhalawar,9,75
+Koppal,29,72
+Dungapur,71,6
+Bathinda,35,85
+Gandhinagar,62,90
+Barwani,79,2
+Seoni,86,83
+Koraput,85,49
+Auraiya,61,84
+Munger,51,71
+Uttara Kannada,83,44
+Patan,82,81
+Sivaganga,32,45
+Mandsaur,4,65
+Sawai Madhopur,47,76
+Ramanathapuram,26,28
+Jind,91,98
+Raisen,98,32
+Navsari,3,10
+Dibrugarh,58,89
+Garhwa,40,30
+Gondia,55,4
+Dumka,38,71
+Tinsukia,32,36
+Godda,43,83
+Sehore,32,93
+Khandwa (East Nimar),88,31
+Kasaragod,50,7
+Bagpat,18,85
+Wardha,10,89
+Sirsa,79,71
+Katni,67,71
+Angul,11,92
+Srinagar,100,74
+Tiruvarur,49,34
+Damoh,75,74
+Kamrup Metropolitan,70,35
+Chikkaballapur,3,70
+Theni,79,48
+Hoshangabad,90,2
+Guna,33,41
+Baran,21,1
+Nabarangpur,48,27
+Lalitpur,81,7
+Gir Somnath,48,41
+Karimganj,62,35
+Yamuna Nagar,71,39
+Dholpur,70,23
+Korba,45,57
+Panipat,49,93
+Bhandara,61,36
+Washim,59,45
+Pathanamthitta,43,28
+Dhenkanal,72,8
+Hingoli,48,87
+Singrauli,21,78
+Udupi,29,97
+Yadgir,20,80
+Rajsamand,46,78
+Sivasagar,90,78
+Sahibganj,21,42
+Chikkamagaluru,67,86
+Ambala,35,74
+Jagatsinghpur,76,79
+Sidhi,45,49
+Jehanabad,99,82
+Tarn Taran,56,35
+Shravasti,30,16
+Bundi,77,92
+Idukki,99,72
+Hamirpur,32,95
+Narsinghpur,46,73
+Jorhat,32,26
+Mewat,55,93
+Ramanagara,82,85
+Karur,59,65
+Kaithal,93,61
+Chhota Udaipur,96,92
+Gadchiroli,58,13
+Anantnag,79,13
+Gadag,96,41
+Shahdol,89,43
+Seraikela Kharsawan,61,9
+Rohtak,65,65
+Golaghat,40,7
+Chandigarh,86,60
+Mandla,3,4
+Aravalli,45,70
+Sambalpur,6,43
+Chatra,73,21
+Lakhimpur,64,87
+Palwal,12,67
+Sirohi,92,71
+Mahasamund,89,100
+Gumla,96,11
+Jhabua,42,3
+Chamarajnagar,28,83
+Panna,61,42
+Baramulla,50,13
+Goalpara,28,22
+Lakhisarai,9,80
+Mandi,45,53
+Mahisagar,57,28
+Moga,95,49
+Chitrakoot,5,97
+Bangalore Rural,82,40
+Sahibzada Ajit Singh Nagar,16,32
+Karbi Anglong,7,24
+Kurukshetra,51,4
+Nayagarh,94,33
+Rayagada,23,83
+Morbi,1,84
+Morigaon,45,30
+Jhajjar,14,92
+Nainital,38,31
+Baksa,42,74
+Ramgarh,55,76
+Pondicherry,63,13
+Fatehabad,52,93
+Mahendragarh,75,72
+West Tripura,44,35
+Darrang,86,97
+Sri Muktsar Sahib,100,78
+Pakur,36,97
+Rewari,11,96
+Kokrajhar,76,19
+North Delhi,60,45
+Mahoba,90,21
+Kupwara,14,72
+Pratapgarh,91,58
+Jashpur,95,16
+Sindhudurg,22,1
+Ashok Nagar,86,61
+Udalguri,63,24
+Neemuch,54,89
+East Khasi Hills,48,91
+North Goa,16,51
+Kapurthala,2,32
+Wayanad,79,1
+Shimla,59,66
+Tapi,90,31
+Dhamtari,40,76
+Jamtara,71,19
+Datia,54,28
+Nalbari,62,16
+Mansa,60,79
+Burhanpur,99,75
+Devbhoomi Dwarka,28,99
+Ariyalur,20,48
+Anuppur,39,9
+Kanker,27,80
+Badgam,56,39
+Nilgiris,28,13
+Bongaigaon,100,46
+Kandhamal,22,14
+Alirajpur,62,89
+Latehar,54,61
+Koderma,9,48
+Dindori,39,47
+Arwal,38,81
+Dhemaji,88,39
+Sheopur,56,37
+Pauri Garhwal,65,0
+Rupnagar,29,29
+Jaisalmer,10,54
+Surajpur,53,29
+Hailakandi,46,64
+Koriya,45,10
+Sheohar,15,70
+Botad,60,53
+Subarnapur (Sonepur),7,63
+Umaria,44,71
+West Garo Hills,20,49
+South Goa,4,56
+Sheikhpura,45,97
+Almora,94,28
+Rajouri,83,50
+Faridkot,10,68
+Tehri Garhwal,49,25
+Kathua,34,92
+Shahid Bhagat Singh Nagar,13,21
+Malkangiri,17,77
+Nuapada,36,83
+Fatehgarh Sahib,68,66
+Simdega,32,80
+Barnala,49,26
+Narmada,65,29
+Porbandar,35,45
+Kabirdham (formerly Kawardha),77,45
+Jharsuguda,51,73
+Central Delhi,85,67
+Solan,84,97
+Gajapati,90,29
+Harda,37,25
+Pulwama,62,91
+Perambalur,4,15
+Panchkula,12,65
+Udhampur,41,5
+Kodagu,84,50
+Dantewada,22,52
+Khunti,35,83
+Sirmaur,72,58
+Una,56,39
+Chamba,90,62
+Imphal West,81,62
+Pithoragarh,51,10
+Sepahijala,5,2
+Chirang,65,43
+Poonch,38,72
+Lohardaga,25,80
+Hamirpur,11,6
+Imphal East,10,0
+Boudh (Bauda),33,17
+Kullu,7,41
+Gomati,28,89
+South Tripura,62,5
+Kulgam,25,25
+Surguja,45,88
+Thoubal,20,7
+North Tripura,71,94
+Tuensang,20,55
+Doda,45,61
+Aizawl,61,84
+Chamoli,0,11
+West Khasi Hills,17,29
+Bandipora,46,26
+Bilaspur,64,64
+Dimapur,53,86
+Dhalai,94,25
+Senapati,79,2
+Dadra and Nagar Haveli,88,55
+Uttarkashi,3,46
+Khowai,40,57
+Samba,34,47
+East Garo Hills,67,51
+Reasi,33,34
+Debagarh (Deogarh),19,71
+Ganderbal,88,36
+Ramban,73,79
+East Sikkim,36,83
+Unokoti,57,49
+Churachandpur,87,95
+West Jaintia Hills,12,47
+Kohima,8,3
+Shopian,81,39
+Bageshwar,74,38
+Mon,54,88
+Champawat,8,65
+Ri Bhoi,1,89
+Bijapur,20,19
+Sukma,68,61
+Bishnupur,23,3
+South Andaman,13,96
+Rudraprayag,24,77
+Kishtwar,50,1
+Dang,9,42
+Dima Hasao,64,1
+Karaikal,31,98
+Mokokchung,73,92
+Daman,74,80
+Ukhrul,13,20
+Papum Pare,6,6
+Wokha,98,80
+Peren,86,16
+Phek,94,8
+Lunglei,64,25
+Changlang,62,89
+Leh,78,82
+South Sikkim,1,76
+Lohit,80,41
+Chandel,48,17
+Kargil,55,49
+South Garo Hills,34,79
+Zunheboto,48,81
+Narayanpur,3,40
+Tamenglong,3,42
+West Sikkim,35,54
+New Delhi,10,54
+Champhai,27,68
+East Jaintia Hills,88,29
+North Garo Hills,6,4
+Lawngtlai,36,89
+West Siang,41,29
+Tirap,34,88
+South West Khasi Hills,51,37
+North and Middle Andaman,19,93
+East Siang,45,68
+Kurung Kumey,40,97
+West Kameng,71,59
+Mamit,49,56
+Kinnaur,18,42
+Upper Subansiri,17,53
+Kolasib,19,38
+Lower Subansiri,81,77
+East Kameng,65,81
+Kiphire,73,97
+Serchhip,62,66
+Lakshadweep,75,67
+Saiha,6,78
+Yanam,67,52
+Lower Dibang Valley,19,60
+Diu,0,13
+Longleng,96,34
+Tawang,41,74
+North Sikkim,51,4
+Mahe,75,78
+Nicobar,59,2
+Upper Siang,12,42
+Lahaul and Spiti,17,19
+Anjaw,28,69
+Dibang Valley,11,4
+Fazilka,28,72
+Shamli,95,88
+Balrampur,51,100
+Bemetara,92,6
+Palghar,25,46
+Longding,92,88
+Balod,45,39
+Baloda Bazar,2,12
+Gariaband,85,61
+Kondagaon,52,97
+Mungeli,91,26
+Shahdara,69,86
+South East Delhi,43,16
+Agar,1,7
+South West Garo Hills,84,52
+Amethi (Chhatrapati Shahuji Maharaj Nagar),76,70
