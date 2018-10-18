@@ -1,0 +1,2028 @@
+Thane,10.35,65,12,0.2
+Thane,1.14,68,16,0.7
+Thane,4.65,74,27,0.9
+North 24 Parganas,1.74,62,13,0.2
+North 24 Parganas,3.81,73,22,0.9
+North 24 Parganas,8.8,69,20,0.9
+Bangalore Urban,1.04,73,20,1.7
+Bangalore Urban,6.43,61,10,0.8
+Bangalore Urban,9.24,61,34,0.9
+Pune,9.36,66,21,0.8
+Pune,3.8,68,15,0.2
+Pune,9.41,60,11,0.1
+Mumbai suburban,1.87,63,27,0.6
+Mumbai suburban,0.98,69,10,1.5
+Mumbai suburban,6.33,70,39,1.5
+South 24 Parganas,9.7,62,26,1.3
+South 24 Parganas,10.72,75,25,1.1
+South 24 Parganas,8.26,70,20,1.5
+Bardhaman,9.82,68,33,0.0
+Bardhaman,3.8,62,35,1.3
+Bardhaman,6.76,71,15,0.8
+Ahmedabad,9.5,61,10,1.3
+Ahmedabad,7.19,63,36,1.3
+Ahmedabad,6.7,64,12,1.0
+Murshidabad,4.08,62,38,1.5
+Murshidabad,3.85,65,25,1.6
+Murshidabad,3.01,73,36,0.8
+Jaipur,1.78,62,18,1.9
+Jaipur,0.57,66,20,1.5
+Jaipur,1.12,62,19,0.7
+Nashik,8.07,61,32,1.6
+Nashik,2.12,63,34,1.2
+Nashik,2.19,74,37,0.6
+Allahabad,2.06,63,39,1.3
+Allahabad,3.09,66,17,0.6
+Allahabad,3.46,62,30,0.5
+Patna,0.18,66,24,1.1
+Patna,6.15,63,24,0.1
+Patna,9.61,71,33,0.3
+Hooghly,8.85,63,32,0.1
+Hooghly,6.8,71,19,1.0
+Hooghly,7.92,62,30,1.7
+Ranga Reddy,4.92,69,10,0.8
+Ranga Reddy,5.46,67,15,1.5
+Ranga Reddy,2.93,75,30,1.2
+Nadia,7.63,63,15,1.4
+Nadia,4.05,71,17,1.5
+Nadia,5.33,71,19,0.8
+East Godavari,3.22,73,19,0.1
+East Godavari,2.88,67,25,1.7
+East Godavari,9.05,73,10,0.7
+Paschim Medinipur,5.6,64,33,1.1
+Paschim Medinipur,6.0,68,11,1.3
+Paschim Medinipur,7.25,65,34,0.8
+East Champaran,10.84,69,27,1.7
+East Champaran,8.24,73,21,1.6
+East Champaran,8.93,73,25,1.6
+Surat,5.65,73,15,0.2
+Surat,2.91,60,11,0.8
+Surat,0.24,68,32,1.0
+Guntur,10.89,61,18,0.7
+Guntur,0.04,60,16,0.3
+Guntur,8.99,66,21,1.1
+Howrah,2.94,75,12,0.8
+Howrah,4.72,60,18,0.2
+Howrah,0.49,72,39,1.9
+Muzaffarpur,4.12,69,33,1.1
+Muzaffarpur,4.1,73,10,1.4
+Muzaffarpur,6.43,72,18,1.8
+Belgaum,8.94,60,21,1.4
+Belgaum,5.78,60,35,1.7
+Belgaum,4.64,67,25,1.5
+Moradabad,6.7,74,26,1.4
+Moradabad,7.46,64,21,0.1
+Moradabad,3.74,64,40,0.4
+Chennai,4.27,68,38,1.1
+Chennai,1.35,70,13,1.1
+Chennai,5.16,67,24,1.1
+Ghaziabad,8.35,68,37,0.9
+Ghaziabad,8.03,74,15,1.3
+Ghaziabad,1.93,64,39,0.5
+Nagpur,9.59,73,26,1.4
+Nagpur,5.94,72,30,1.3
+Nagpur,2.85,66,22,0.3
+Azamgarh,7.77,60,23,0.8
+Azamgarh,10.86,65,14,0.7
+Azamgarh,6.08,72,33,0.5
+Lucknow,8.81,64,21,0.1
+Lucknow,0.11,72,23,0.6
+Lucknow,2.75,68,24,1.2
+Kanpur Nagar,5.71,73,39,0.9
+Kanpur Nagar,4.24,74,24,1.7
+Kanpur Nagar,9.05,73,40,1.3
+Ahmednagar,7.69,61,29,1.1
+Ahmednagar,10.57,65,19,0.5
+Ahmednagar,6.31,71,37,1.1
+Krishna,9.28,67,38,0.3
+Krishna,1.09,66,22,1.8
+Krishna,8.5,68,19,1.5
+Kolkata,1.26,69,33,0.1
+Kolkata,4.67,61,31,0.9
+Kolkata,5.37,65,19,1.5
+Jaunpur district,10.24,64,26,1.7
+Jaunpur district,9.25,64,19,1.6
+Jaunpur district,10.84,60,34,1.7
+Madhubani,9.69,64,27,0.5
+Madhubani,9.34,73,34,1.3
+Madhubani,8.83,73,15,1.7
+Sitapur,8.08,65,16,1.8
+Sitapur,0.09,71,31,1.5
+Sitapur,2.39,68,12,1.3
+Bareilly,8.42,74,32,1.6
+Bareilly,7.1,63,23,0.7
+Bareilly,6.22,62,25,0.3
+Gorakhpur,9.87,69,15,0.4
+Gorakhpur,10.04,71,24,1.0
+Gorakhpur,6.94,74,27,0.2
+Purba Medinipur,9.81,65,10,1.9
+Purba Medinipur,4.52,64,21,0.2
+Purba Medinipur,8.11,73,39,1.2
+Agra,8.12,75,36,1.9
+Agra,5.7,64,39,0.8
+Agra,10.12,65,39,1.3
+Gaya,1.97,60,27,1.3
+Gaya,9.26,67,26,1.6
+Gaya,4.52,72,13,1.7
+Solapur,4.84,62,36,1.5
+Solapur,7.99,66,37,1.5
+Solapur,5.15,66,30,1.6
+Visakhapatnam,0.91,60,33,0.5
+Visakhapatnam,8.3,60,12,1.4
+Visakhapatnam,4.34,64,30,1.5
+Samastipur,2.73,61,33,1.3
+Samastipur,1.82,65,14,1.6
+Samastipur,3.09,66,22,1.4
+Jalgaon,1.59,73,15,0.5
+Jalgaon,8.03,64,38,1.6
+Jalgaon,7.31,71,38,0.3
+Chittoor,3.52,67,15,1.9
+Chittoor,8.27,60,26,0.6
+Chittoor,3.77,63,39,0.1
+Muzaffarnagar,9.26,65,17,0.8
+Muzaffarnagar,4.81,66,17,1.7
+Muzaffarnagar,0.57,63,12,0.0
+Malappuram,8.58,73,13,0.7
+Malappuram,9.08,61,13,1.8
+Malappuram,7.82,71,30,1.7
+Hardoi,3.37,61,38,0.3
+Hardoi,5.26,65,28,0.3
+Hardoi,8.37,61,33,1.1
+Anantapur,0.07,66,12,1.5
+Anantapur,9.12,71,21,0.6
+Anantapur,5.05,65,27,0.3
+Raipur,6.9,73,31,1.8
+Raipur,7.59,70,15,0.6
+Raipur,3.19,60,15,1.6
+Kurnool,0.18,64,19,1.8
+Kurnool,0.34,65,16,1.8
+Kurnool,1.8,70,25,0.7
+Mahbubnagar,9.08,61,38,0.4
+Mahbubnagar,6.29,62,12,0.7
+Mahbubnagar,8.43,68,11,0.5
+Lakhimpur Kheri,0.24,71,12,1.1
+Lakhimpur Kheri,4.42,65,16,1.6
+Lakhimpur Kheri,2.15,70,25,1.0
+Hyderabad,9.66,74,39,1.5
+Hyderabad,7.77,72,27,0.5
+Hyderabad,3.17,75,18,0.8
+Maldah,1.39,63,32,0.3
+Maldah,0.16,71,30,1.0
+Maldah,10.14,64,24,1.5
+Madurai,1.38,74,31,1.7
+Madurai,7.33,62,23,0.3
+Madurai,8.31,65,17,1.4
+Kanchipuram,2.93,64,32,0.0
+Kanchipuram,2.9,72,32,1.1
+Kanchipuram,2.21,62,12,0.8
+Saran,3.82,62,14,1.1
+Saran,6.99,68,24,1.6
+Saran,9.65,68,12,2.0
+West Champaran,4.58,74,32,1.4
+West Champaran,5.5,71,20,0.9
+West Champaran,3.38,73,15,1.7
+West Godavari,8.62,74,15,1.8
+West Godavari,3.79,71,36,1.5
+West Godavari,5.22,72,12,0.2
+Vellore,1.34,62,40,0.6
+Vellore,4.02,74,21,1.5
+Vellore,6.09,67,25,1.8
+Darbhanga,1.52,61,23,0.9
+Darbhanga,3.12,64,37,1.9
+Darbhanga,3.63,61,28,1.4
+Kolhapur,8.01,62,10,1.3
+Kolhapur,3.52,66,23,0.5
+Kolhapur,8.55,60,37,0.8
+Jalpaiguri,3.23,62,21,0.9
+Jalpaiguri,8.78,69,33,0.0
+Jalpaiguri,2.23,71,25,1.9
+Karimnagar,6.42,70,39,1.6
+Karimnagar,2.36,72,13,0.1
+Karimnagar,5.1,65,19,1.5
+Sultanpur,2.96,60,23,0.5
+Sultanpur,6.65,74,11,1.4
+Sultanpur,7.71,61,15,1.7
+Tiruvallur,10.84,63,13,0.7
+Tiruvallur,9.44,62,26,1.8
+Tiruvallur,6.77,70,19,1.4
+Budaun,3.67,75,24,1.9
+Budaun,6.87,74,25,0.3
+Budaun,6.86,67,25,0.3
+Aurangabad,9.03,67,19,1.4
+Aurangabad,5.71,72,38,1.7
+Aurangabad,7.54,60,24,0.6
+Jodhpur,8.53,63,23,0.3
+Jodhpur,8.64,69,10,1.2
+Jodhpur,4.5,68,34,1.2
+Bijnor,9.07,73,22,0.4
+Bijnor,2.72,68,29,0.6
+Bijnor,1.92,64,32,0.6
+Varanasi,0.36,67,35,0.5
+Varanasi,3.62,72,32,2.0
+Varanasi,2.58,61,39,0.3
+Aligarh,0.94,69,28,0.3
+Aligarh,10.09,63,33,0.4
+Aligarh,0.45,68,29,0.4
+Alwar,9.99,74,33,1.6
+Alwar,7.64,70,15,1.0
+Alwar,0.69,61,11,1.8
+North West Delhi,1.96,70,19,1.6
+North West Delhi,2.55,62,12,0.7
+North West Delhi,10.06,61,14,1.0
+Vadodara,10.32,67,33,0.7
+Vadodara,10.63,73,14,1.3
+Vadodara,8.15,72,18,1.9
+Ghazipur,9.13,74,13,0.7
+Ghazipur,7.97,69,13,1.1
+Ghazipur,8.91,68,11,0.2
+Bankura,2.74,68,30,0.0
+Bankura,5.75,68,31,0.5
+Bankura,10.48,73,19,0.1
+Kushinagar,7.7,74,40,0.2
+Kushinagar,6.39,73,23,0.8
+Kushinagar,10.03,65,10,0.2
+Warangal,10.48,70,19,1.7
+Warangal,1.95,60,16,1.3
+Warangal,5.82,64,11,1.1
+Ganjam,0.33,66,32,0.2
+Ganjam,7.08,60,21,0.1
+Ganjam,4.88,73,27,1.2
+Birbhum,7.87,63,12,0.6
+Birbhum,4.4,64,13,1.5
+Birbhum,10.47,69,16,1.3
+Bulandshahr,8.34,63,31,0.7
+Bulandshahr,5.46,62,33,1.6
+Bulandshahr,10.08,65,21,0.1
+Vaishali,2.76,73,37,1.1
+Vaishali,9.95,74,23,0.1
+Vaishali,9.77,73,27,1.1
+Ludhiana,1.91,69,19,0.7
+Ludhiana,9.95,66,15,0.2
+Ludhiana,0.47,70,29,0.0
+Nalgonda,1.32,60,19,1.2
+Nalgonda,4.24,63,27,1.6
+Nalgonda,1.26,68,23,1.7
+Salem,9.18,67,28,0.7
+Salem,3.22,66,24,1.5
+Salem,4.63,67,28,1.1
+Coimbatore,9.89,74,34,0.6
+Coimbatore,0.57,66,35,1.5
+Coimbatore,10.38,65,18,0.8
+Saharanpur,7.64,71,27,1.3
+Saharanpur,3.43,63,31,0.5
+Saharanpur,6.89,70,29,1.0
+Viluppuram,4.07,75,38,1.1
+Viluppuram,5.82,75,37,0.7
+Viluppuram,5.08,75,10,0.8
+Meerut,5.27,61,16,1.8
+Meerut,10.76,69,21,1.9
+Meerut,1.15,68,25,0.4
+Gonda,5.18,69,35,0.4
+Gonda,4.36,65,22,0.8
+Gonda,4.69,73,37,0.3
+Sitamarhi,0.76,71,14,1.2
+Sitamarhi,2.48,62,14,0.4
+Sitamarhi,1.39,70,20,0.4
+Raebareli,9.06,60,36,1.5
+Raebareli,10.44,74,30,0.2
+Raebareli,4.87,72,35,1.5
+Prakasam,7.24,60,27,1.6
+Prakasam,3.32,75,40,0.8
+Prakasam,9.44,73,39,1.3
+Nanded,10.54,70,27,0.8
+Nanded,2.9,74,26,1.0
+Nanded,0.09,62,35,1.5
+Durg,10.38,70,29,0.5
+Durg,6.45,61,17,0.3
+Durg,1.47,74,40,0.1
+Siwan,9.35,74,17,1.1
+Siwan,6.88,62,20,1.3
+Siwan,3.76,62,34,1.5
+Nagaur,6.47,73,11,0.7
+Nagaur,0.9,66,33,0.1
+Nagaur,5.02,64,40,1.3
+Thiruvananthapuram,5.41,67,16,0.6
+Thiruvananthapuram,2.55,64,17,1.8
+Thiruvananthapuram,6.81,62,13,0.3
+Ernakulam,5.58,74,16,0.1
+Ernakulam,2.46,60,17,1.7
+Ernakulam,7.07,66,24,0.3
+Purnia,8.11,60,29,1.5
+Purnia,6.08,68,33,0.2
+Purnia,7.71,63,17,1.7
+Indore,5.7,68,38,1.6
+Indore,5.04,75,17,0.8
+Indore,6.86,75,33,0.7
+Barabanki,10.41,65,31,1.2
+Barabanki,10.29,75,27,1.4
+Barabanki,5.59,65,14,1.4
+Ballia,1.16,69,15,1.1
+Ballia,8.36,63,28,0.9
+Ballia,7.85,68,16,1.5
+Pratapgarh,1.88,69,36,0.4
+Pratapgarh,8.86,70,35,1.1
+Pratapgarh,3.65,73,21,1.4
+Rajkot,1.93,67,39,0.3
+Rajkot,0.94,70,19,0.4
+Rajkot,6.02,67,17,0.5
+Mumbai City,7.69,72,28,1.8
+Mumbai City,0.42,73,38,1.4
+Mumbai City,8.92,71,15,1.8
+Banaskantha,7.73,73,15,0.8
+Banaskantha,9.35,73,23,2.0
+Banaskantha,6.98,62,19,0.6
+Unnao,6.3,74,33,1.6
+Unnao,1.73,66,20,1.8
+Unnao,7.03,63,12,1.5
+Thrissur,8.36,70,25,0.6
+Thrissur,7.16,74,20,1.9
+Thrissur,9.55,68,27,1.6
+Deoria,9.74,60,37,1.1
+Deoria,2.94,60,27,2.0
+Deoria,4.66,65,15,0.6
+Kozhikode,1.67,69,26,1.5
+Kozhikode,0.82,63,35,1.1
+Kozhikode,4.37,61,22,0.3
+Tirunelveli,8.14,73,40,0.9
+Tirunelveli,10.62,71,38,0.0
+Tirunelveli,4.73,74,10,0.9
+Katihar,7.27,70,20,0.2
+Katihar,2.67,72,21,0.3
+Katihar,5.78,63,18,0.2
+Udaipur,7.53,66,21,1.3
+Udaipur,4.03,67,34,1.5
+Udaipur,8.49,65,21,1.4
+Bhagalpur,10.88,61,12,2.0
+Bhagalpur,9.32,64,37,1.5
+Bhagalpur,6.14,65,15,0.4
+Medak,7.93,61,29,0.4
+Medak,5.84,62,11,0.4
+Medak,3.49,68,24,1.6
+Satara,4.74,64,27,1.4
+Satara,3.99,65,22,1.1
+Satara,7.97,67,36,1.1
+Shahjahanpur,9.98,68,32,1.3
+Shahjahanpur,0.32,75,18,0.5
+Shahjahanpur,1.57,62,32,2.0
+Uttar Dinajpur,3.93,61,23,1.1
+Uttar Dinajpur,1.42,69,29,1.3
+Uttar Dinajpur,3.14,72,27,1.9
+Mysore,3.2,63,33,1.6
+Mysore,0.43,61,40,1.9
+Mysore,4.59,64,38,0.1
+Sri Potti Sriramulu Nellore,3.62,68,35,1.4
+Sri Potti Sriramulu Nellore,6.58,71,32,0.1
+Sri Potti Sriramulu Nellore,9.07,74,35,1.0
+Rohtas,0.42,61,37,1.2
+Rohtas,5.32,60,29,1.6
+Rohtas,8.08,64,33,0.8
+Begusarai,3.19,61,21,1.3
+Begusarai,9.37,74,20,0.6
+Begusarai,10.56,62,15,0.2
+Purulia,8.81,72,13,1.6
+Purulia,8.04,64,34,0.5
+Purulia,9.28,62,29,0.5
+Ranchi,4.73,73,14,1.9
+Ranchi,4.81,72,32,1.2
+Ranchi,5.61,63,15,0.8
+Patiala,5.5,71,27,1.4
+Patiala,10.4,69,33,0.5
+Patiala,5.51,72,22,1.0
+Amravati,3.83,73,36,1.3
+Amravati,9.76,71,17,2.0
+Amravati,10.05,60,15,1.5
+Kadapa,8.93,63,27,1.9
+Kadapa,10.89,62,33,0.6
+Kadapa,0.81,68,25,1.1
+Bhavnagar,1.36,63,23,1.1
+Bhavnagar,10.66,61,28,0.1
+Bhavnagar,9.69,66,34,0.8
+Nalanda,7.19,62,19,0.8
+Nalanda,0.77,65,37,0.7
+Nalanda,4.09,71,34,1.4
+Kanyakumari,5.95,63,25,0.5
+Kanyakumari,2.22,71,11,1.1
+Kanyakumari,2.17,71,28,0.4
+Nagaon,6.49,71,38,0.3
+Nagaon,3.94,63,12,0.1
+Nagaon,3.03,75,19,0.2
+Cooch Behar,4.7,64,38,1.6
+Cooch Behar,9.27,60,23,1.2
+Cooch Behar,3.21,72,33,1.6
+Sangli,6.56,68,21,0.4
+Sangli,10.09,68,14,0.6
+Sangli,2.27,74,15,1.2
+Palakkad,5.84,72,38,0.5
+Palakkad,3.26,60,10,1.8
+Palakkad,4.34,69,10,1.9
+Araria,6.59,72,32,1.6
+Araria,5.09,71,23,1.8
+Araria,6.53,61,13,0.6
+Khammam,10.3,75,31,0.9
+Khammam,1.58,67,10,1.8
+Khammam,2.87,65,23,0.1
+Yavatmal,6.95,68,22,1.4
+Yavatmal,7.16,63,30,1.2
+Yavatmal,2.22,65,23,0.8
+Junagadh,10.67,64,30,1.9
+Junagadh,1.66,75,20,0.3
+Junagadh,0.92,60,19,0.3
+Adilabad,9.92,73,19,0.2
+Adilabad,2.81,68,37,0.1
+Adilabad,3.6,63,29,0.1
+South Delhi,6.78,66,21,1.2
+South Delhi,8.17,68,12,0.5
+South Delhi,0.1,71,19,1.0
+Bhojpur,4.26,74,20,0.1
+Bhojpur,0.54,66,35,1.3
+Bhojpur,6.22,70,24,0.9
+Tiruchirappalli,2.67,73,37,1.1
+Tiruchirappalli,5.14,73,33,0.1
+Tiruchirappalli,10.79,61,25,1.1
+Srikakulam,3.0,66,25,1.0
+Srikakulam,9.94,70,12,1.1
+Srikakulam,3.23,60,29,0.4
+Dhanbad,0.72,68,25,0.4
+Dhanbad,7.91,65,26,1.5
+Dhanbad,8.43,64,22,1.7
+Tumkur,1.86,60,12,0.8
+Tumkur,4.99,62,27,1.4
+Tumkur,6.08,61,24,1.6
+Sikar,9.83,72,24,0.2
+Sikar,0.15,61,37,0.8
+Sikar,6.48,71,31,1.1
+Maharajganj,10.49,65,25,1.0
+Maharajganj,0.17,67,18,1.3
+Maharajganj,8.83,63,29,1.6
+Bilaspur,6.4,68,25,1.8
+Bilaspur,2.18,68,38,1.6
+Bilaspur,1.67,73,15,0.7
+Raigad,6.1,73,22,1.5
+Raigad,1.56,75,38,1.5
+Raigad,4.6,60,18,0.1
+Fatehpur,10.4,60,27,0.7
+Fatehpur,3.36,73,16,1.8
+Fatehpur,3.08,61,31,0.8
+Kollam,7.27,70,27,0.1
+Kollam,0.94,65,27,1.1
+Kollam,10.04,64,28,1.2
+Cuttack,7.82,64,21,1.3
+Cuttack,9.03,61,33,0.8
+Cuttack,5.86,67,26,1.5
+Barmer,7.18,72,14,0.7
+Barmer,1.16,68,20,1.9
+Barmer,7.69,71,28,0.9
+Cuddalore,7.19,66,19,1.1
+Cuddalore,6.86,71,24,1.2
+Cuddalore,3.77,71,13,0.5
+Buldhana,9.81,67,15,0.2
+Buldhana,4.61,72,11,0.6
+Buldhana,6.4,63,36,0.9
+Beed,3.43,68,31,0.3
+Beed,10.07,67,35,0.8
+Beed,9.43,66,15,0.8
+Ajmer,10.85,74,12,1.5
+Ajmer,9.67,68,27,0.1
+Ajmer,2.64,70,31,0.9
+Gulbarga,6.31,74,39,0.3
+Gulbarga,6.87,73,19,0.6
+Gulbarga,8.34,72,31,0.9
+Gopalganj,9.99,66,18,0.4
+Gopalganj,6.7,72,12,0.8
+Gopalganj,1.6,63,35,0.8
+Siddharthnagar,7.07,69,28,1.4
+Siddharthnagar,3.58,72,15,0.2
+Siddharthnagar,0.07,63,12,1.7
+Nizamabad,10.86,74,17,1.8
+Nizamabad,4.97,61,24,1.9
+Nizamabad,3.18,75,12,0.3
+Bharatpur,8.51,65,24,0.5
+Bharatpur,3.96,66,31,1.5
+Bharatpur,6.37,69,24,0.3
+Mathura,1.12,64,39,0.0
+Mathura,0.65,70,32,0.2
+Mathura,8.16,60,13,0.8
+Bellary,2.66,69,25,0.2
+Bellary,9.99,68,23,1.4
+Bellary,6.66,74,34,0.1
+West Delhi,8.72,64,32,1.9
+West Delhi,2.7,65,34,0.4
+West Delhi,9.39,60,32,1.4
+Kannur,5.19,72,35,1.7
+Kannur,6.38,75,10,0.4
+Kannur,1.64,65,17,0.4
+Mayurbhanj,0.48,67,34,0.5
+Mayurbhanj,7.83,66,39,0.7
+Mayurbhanj,9.49,64,31,0.8
+Aurangabad,9.56,64,28,1.8
+Aurangabad,1.3,66,29,1.7
+Aurangabad,0.33,73,15,1.1
+Firozabad,3.19,67,12,1.6
+Firozabad,5.28,74,30,2.0
+Firozabad,9.46,68,20,1.9
+Mirzapur,10.62,69,29,0.1
+Mirzapur,9.86,61,38,0.3
+Mirzapur,0.71,68,38,1.9
+Amritsar,8.23,74,25,1.9
+Amritsar,10.48,72,18,1.2
+Amritsar,6.84,60,33,0.7
+Tirupur,3.95,71,16,0.6
+Tirupur,2.27,66,20,1.1
+Tirupur,3.9,65,16,0.9
+Tiruvannamalai,8.71,75,20,0.9
+Tiruvannamalai,2.71,75,15,0.0
+Tiruvannamalai,4.15,69,30,0.8
+Faizabad,2.92,61,24,1.9
+Faizabad,9.52,75,34,0.2
+Faizabad,8.14,70,27,1.4
+Basti,1.53,63,10,1.6
+Basti,0.7,63,10,1.0
+Basti,7.11,72,26,0.4
+Jabalpur,7.09,62,19,1.4
+Jabalpur,1.69,69,28,1.7
+Jabalpur,9.01,69,25,0.3
+Latur,6.05,66,17,0.6
+Latur,3.6,61,34,1.3
+Latur,0.0,72,12,1.8
+Giridih,10.09,75,35,0.7
+Giridih,10.89,68,21,1.8
+Giridih,10.2,75,35,1.6
+Sabarkantha,7.11,65,38,1.9
+Sabarkantha,9.96,70,21,0.0
+Sabarkantha,7.18,69,25,2.0
+Bhilwara,9.93,61,21,1.4
+Bhilwara,7.89,65,21,0.6
+Bhilwara,9.45,74,27,1.8
+Thanjavur,1.82,61,28,1.3
+Thanjavur,2.35,65,35,0.9
+Thanjavur,10.68,73,39,1.2
+Ambedkar Nagar,4.0,71,10,1.6
+Ambedkar Nagar,3.26,75,40,0.4
+Ambedkar Nagar,2.62,60,24,0.0
+Panchmahal,8.61,67,11,0.5
+Panchmahal,6.58,64,34,1.2
+Panchmahal,3.83,74,33,0.3
+Bahraich,1.97,68,26,1.1
+Bahraich,3.66,65,30,0.3
+Bahraich,5.58,72,28,1.5
+Sagar,0.39,70,40,2.0
+Sagar,5.62,68,20,1.1
+Sagar,5.44,72,22,1.2
+Bhopal,5.21,69,19,1.5
+Bhopal,7.22,66,16,0.2
+Bhopal,7.46,75,35,0.7
+Bikaner,4.08,61,17,1.7
+Bikaner,1.33,73,33,1.4
+Bikaner,5.53,62,38,1.7
+Rewa,9.25,62,17,1.0
+Rewa,3.75,64,12,0.1
+Rewa,7.5,62,20,0.9
+Vizianagaram,2.96,61,40,0.2
+Vizianagaram,2.31,66,34,0.1
+Vizianagaram,4.49,72,19,0.7
+Rampur,5.94,64,18,0.6
+Rampur,4.84,75,20,1.8
+Rampur,7.19,67,24,1.7
+Balasore,10.85,73,33,1.0
+Balasore,8.19,61,26,1.7
+Balasore,1.35,64,17,1.6
+Gurdaspur,6.04,67,32,0.8
+Gurdaspur,1.46,62,35,0.2
+Gurdaspur,8.75,65,18,2.0
+Kheda,6.28,64,14,1.1
+Kheda,8.38,70,32,1.2
+Kheda,7.28,75,12,0.4
+South West Delhi,10.09,61,40,1.7
+South West Delhi,7.42,75,35,1.8
+South West Delhi,6.86,66,13,0.5
+East Singhbhum,2.13,65,19,0.6
+East Singhbhum,1.33,62,34,2.0
+East Singhbhum,6.01,70,33,0.7
+Erode,1.48,72,40,1.8
+Erode,8.43,62,27,0.3
+Erode,7.56,69,25,1.6
+Khordha,10.53,69,15,1.3
+Khordha,9.81,72,39,1.7
+Khordha,7.56,61,32,0.6
+North East Delhi,2.02,64,17,0.1
+North East Delhi,9.85,64,11,2.0
+North East Delhi,4.37,67,32,1.3
+Satna,5.09,64,35,1.2
+Satna,2.92,66,27,1.5
+Satna,3.21,73,10,2.0
+Supaul,0.0,63,21,0.7
+Supaul,4.59,62,11,0.6
+Supaul,6.56,69,29,1.8
+Sambhal(Bheem Nagar),8.85,69,11,1.8
+Sambhal(Bheem Nagar),10.77,65,32,0.1
+Sambhal(Bheem Nagar),8.63,75,30,0.4
+Nawada,3.83,64,24,0.4
+Nawada,0.91,65,36,0.6
+Nawada,0.27,66,11,0.3
+Mau,1.49,60,33,0.3
+Mau,9.2,68,29,0.2
+Mau,7.36,61,15,1.6
+Chandrapur,2.79,61,28,0.3
+Chandrapur,0.97,72,25,0.0
+Chandrapur,3.15,65,14,0.6
+Dhar,9.13,66,30,0.9
+Dhar,0.43,61,40,1.7
+Dhar,5.6,69,32,0.2
+Jalandhar,9.98,71,30,1.5
+Jalandhar,9.4,65,16,0.5
+Jalandhar,4.44,60,39,1.2
+Vijayapura,1.18,61,23,1.2
+Vijayapura,5.36,65,24,1.7
+Vijayapura,6.2,71,23,1.3
+Dindigul,7.68,61,37,1.8
+Dindigul,4.71,72,15,1.2
+Dindigul,3.68,75,12,0.5
+Jamnagar,7.44,71,29,0.5
+Jamnagar,6.01,69,14,1.4
+Jamnagar,3.76,61,22,1.8
+Balrampur,5.62,66,19,1.7
+Balrampur,6.21,61,29,1.7
+Balrampur,0.7,70,26,1.5
+Jhunjhunu,7.46,74,27,1.6
+Jhunjhunu,10.15,65,21,1.7
+Jhunjhunu,8.09,62,17,1.7
+Dahod,2.74,71,24,1.7
+Dahod,9.85,63,20,1.8
+Dahod,6.75,70,39,1.8
+Alappuzha,4.05,69,35,0.9
+Alappuzha,9.46,71,24,1.2
+Alappuzha,4.76,61,35,1.6
+Kutch,6.89,68,28,0.5
+Kutch,2.33,66,26,1.9
+Kutch,0.34,60,27,0.8
+Chhindwara,10.67,61,38,0.6
+Chhindwara,7.85,67,10,0.9
+Chhindwara,4.74,75,31,2.0
+Anand,10.02,75,24,1.5
+Anand,9.0,60,21,1.6
+Anand,7.19,74,38,1.8
+Dakshina Kannada,4.54,69,22,0.0
+Dakshina Kannada,6.01,69,36,1.5
+Dakshina Kannada,7.91,61,15,1.6
+Sundargarh,5.47,68,28,1.2
+Sundargarh,10.26,72,16,0.8
+Sundargarh,9.65,64,34,1.4
+Bokaro,7.76,74,20,0.4
+Bokaro,4.17,70,23,0.6
+Bokaro,3.94,62,37,0.8
+Dhule,10.79,74,15,0.5
+Dhule,3.47,67,40,0.6
+Dhule,4.33,74,15,1.7
+Churu,3.29,71,34,1.4
+Churu,2.03,65,37,1.7
+Churu,10.15,70,21,1.5
+Pali,8.27,71,20,1.9
+Pali,10.27,69,38,0.7
+Pali,0.08,65,31,0.7
+Pilibhit,7.63,73,11,0.8
+Pilibhit,2.4,65,28,1.8
+Pilibhit,1.91,61,33,1.7
+Gwalior,3.68,63,11,0.5
+Gwalior,4.51,61,12,1.4
+Gwalior,5.49,68,11,1.6
+Banka,7.59,75,31,1.0
+Banka,9.62,61,20,1.3
+Banka,4.0,64,14,0.9
+Mehsana,0.89,74,22,0.1
+Mehsana,0.62,64,12,1.2
+Mehsana,8.58,61,16,1.8
+Firozpur,2.36,64,15,1.8
+Firozpur,2.62,67,17,0.5
+Firozpur,8.62,71,23,1.8
+Jhansi,6.58,66,24,0.5
+Jhansi,0.82,73,11,1.8
+Jhansi,1.54,69,11,0.9
+Pathankot,2.52,71,20,0.3
+Pathankot,6.7,74,19,0.3
+Pathankot,4.85,74,31,1.5
+Madhepura,9.65,62,10,0.0
+Madhepura,1.47,63,40,0.8
+Madhepura,4.68,71,18,1.1
+Ujjain,2.39,71,39,1.7
+Ujjain,0.94,73,20,2.0
+Ujjain,6.4,65,12,0.4
+Kottayam,9.35,61,24,1.9
+Kottayam,3.73,60,37,1.7
+Kottayam,5.07,66,34,1.1
+Ganganagar,10.86,67,24,2.0
+Ganganagar,5.25,61,36,0.3
+Ganganagar,8.04,71,36,1.3
+Morena,5.93,70,12,1.4
+Morena,4.66,74,34,0.5
+Morena,4.83,74,18,1.7
+Jalna,2.34,62,12,1.5
+Jalna,0.03,62,22,1.5
+Jalna,4.89,70,11,1.4
+Chandauli,8.28,60,13,0.9
+Chandauli,10.74,64,33,0.5
+Chandauli,4.29,60,25,0.8
+Kota,1.75,62,31,0.5
+Kota,2.51,70,28,1.7
+Kota,6.22,64,26,0.8
+Dhubri,2.29,68,28,1.7
+Dhubri,9.68,68,18,1.5
+Dhubri,6.29,67,21,1.8
+Davanagere,10.05,62,12,0.8
+Davanagere,10.75,62,10,1.6
+Davanagere,3.28,68,16,0.4
+Virudhunagar,9.89,69,15,1.3
+Virudhunagar,1.48,62,36,0.4
+Virudhunagar,3.42,68,19,0.8
+Palamu,10.37,62,17,1.7
+Palamu,1.52,61,36,1.3
+Palamu,6.99,64,39,1.2
+Haridwar,0.89,65,10,1.4
+Haridwar,8.51,66,11,0.2
+Haridwar,6.8,68,18,0.0
+Sonitpur,9.58,61,29,0.3
+Sonitpur,8.5,61,11,0.2
+Sonitpur,3.19,63,11,0.1
+Raichur,0.9,71,32,1.4
+Raichur,1.98,72,38,1.0
+Raichur,0.62,67,16,1.6
+Pudukkottai,8.8,62,32,0.5
+Pudukkottai,2.04,61,15,1.3
+Pudukkottai,0.9,70,16,0.2
+Saharsa,10.75,75,12,0.8
+Saharsa,8.09,71,31,1.3
+Saharsa,1.01,66,28,1.3
+Bagalkot,4.83,67,20,0.1
+Bagalkot,6.27,65,36,1.8
+Bagalkot,5.44,62,32,0.3
+Farrukhabad,3.93,70,34,0.6
+Farrukhabad,6.52,63,23,0.4
+Farrukhabad,3.95,73,25,0.1
+Krishnagiri,7.32,61,10,1.2
+Krishnagiri,8.85,62,22,0.3
+Krishnagiri,5.16,70,24,2.0
+Khargone (West Nimar),7.71,66,40,0.8
+Khargone (West Nimar),5.36,69,23,0.1
+Khargone (West Nimar),3.79,74,29,0.6
+Sonbhadra,10.46,71,38,1.7
+Sonbhadra,2.03,60,23,1.5
+Sonbhadra,1.2,74,16,0.1
+Mainpuri,7.53,67,21,1.3
+Mainpuri,5.44,65,32,1.2
+Mainpuri,2.71,63,39,1.9
+Dharwad,4.78,62,29,1.6
+Dharwad,7.33,62,29,2.0
+Dharwad,6.72,68,10,0.9
+Darjeeling,6.63,72,38,1.6
+Darjeeling,3.35,74,17,0.4
+Darjeeling,5.25,64,13,1.6
+Jyotiba Phule Nagar,8.08,67,13,0.6
+Jyotiba Phule Nagar,3.58,68,40,1.6
+Jyotiba Phule Nagar,9.8,68,24,0.0
+Parbhani,6.86,67,15,1.9
+Parbhani,8.71,63,20,0.1
+Parbhani,8.27,64,35,1.5
+Jalore,5.92,68,22,0.6
+Jalore,9.21,60,36,1.0
+Jalore,10.81,75,25,1.5
+Jajpur,10.49,75,25,1.2
+Jajpur,0.54,72,22,2.0
+Jajpur,5.95,63,19,1.1
+Akola,9.01,72,14,0.2
+Akola,6.72,66,11,2.0
+Akola,6.75,68,22,1.4
+Mandya,10.78,61,11,0.8
+Mandya,1.15,62,20,0.1
+Mandya,2.22,67,26,1.8
+Kendujhar (Keonjhar),6.44,65,20,1.9
+Kendujhar (Keonjhar),2.99,61,17,1.7
+Kendujhar (Keonjhar),3.05,70,39,0.5
+Banda,4.42,75,30,1.2
+Banda,9.73,63,36,1.7
+Banda,9.55,69,34,1.0
+Faridabad,5.18,70,32,0.2
+Faridabad,8.07,65,25,1.9
+Faridabad,8.76,73,35,1.3
+Banswara,6.16,65,14,0.6
+Banswara,10.72,62,35,1.5
+Banswara,6.82,60,35,0.8
+Kanpur Dehat (Ramabai Nagar),10.71,75,35,1.1
+Kanpur Dehat (Ramabai Nagar),3.66,74,30,1.3
+Kanpur Dehat (Ramabai Nagar),4.8,75,39,0.3
+Hanumangarh,0.15,75,14,1.8
+Hanumangarh,7.36,69,10,1.1
+Hanumangarh,8.2,62,28,0.3
+Hassan,6.67,62,11,0.8
+Hassan,7.32,73,36,0.3
+Hassan,4.16,62,29,1.8
+Chhatarpur,2.3,63,40,1.9
+Chhatarpur,6.51,69,35,0.1
+Chhatarpur,8.4,67,12,0.4
+Etah,2.91,63,13,0.3
+Etah,1.34,67,26,1.4
+Etah,8.45,67,34,0.2
+Jamui,2.37,72,31,0.7
+Jamui,4.83,65,22,1.5
+Jamui,5.13,68,33,0.1
+Surendranagar,7.95,71,31,0.7
+Surendranagar,3.69,61,19,0.8
+Surendranagar,4.73,74,31,0.4
+Shimoga,9.13,68,30,0.7
+Shimoga,4.99,61,18,1.8
+Shimoga,8.56,73,13,1.5
+Hissar,5.21,65,37,0.7
+Hissar,6.95,73,28,0.6
+Hissar,4.94,71,14,1.3
+Thoothukudi,1.04,71,28,0.9
+Thoothukudi,7.26,68,33,1.8
+Thoothukudi,8.01,67,34,1.2
+Cachar,0.3,75,28,0.2
+Cachar,2.19,64,33,1.5
+Cachar,0.67,67,29,1.3
+Hazaribag,3.62,61,21,0.0
+Hazaribag,4.27,65,13,2.0
+Hazaribag,7.03,72,22,0.4
+Shivpuri,8.36,65,29,1.4
+Shivpuri,8.65,64,32,1.8
+Shivpuri,6.66,68,33,0.6
+Namakkal,7.47,70,38,1.1
+Namakkal,0.5,67,16,0.6
+Namakkal,8.06,75,14,1.7
+Sant Kabir Nagar,6.96,60,34,1.0
+Sant Kabir Nagar,2.73,72,11,1.7
+Sant Kabir Nagar,2.03,75,28,1.6
+East Delhi,3.53,63,30,1.2
+East Delhi,5.03,62,29,0.6
+East Delhi,2.99,63,18,0.1
+Buxar,1.82,69,15,1.1
+Buxar,6.95,73,33,0.8
+Buxar,9.36,63,14,1.8
+Bhind,3.35,69,11,0.0
+Bhind,8.51,66,31,1.0
+Bhind,6.9,63,26,0.3
+Valsad,5.48,74,13,1.5
+Valsad,0.05,72,36,0.1
+Valsad,1.7,63,38,0.5
+Balaghat,0.36,61,15,0.7
+Balaghat,8.0,72,15,0.8
+Balaghat,5.16,73,12,1.6
+Bidar,10.84,74,13,1.2
+Bidar,1.87,68,25,0.4
+Bidar,3.25,67,10,0.5
+Alipurduar,9.02,69,29,0.3
+Alipurduar,4.17,73,39,0.7
+Alipurduar,3.62,69,25,1.5
+Dehradun,2.02,74,26,0.0
+Dehradun,2.46,60,14,0.3
+Dehradun,10.43,69,38,1.0
+Puri,0.26,60,32,0.9
+Puri,0.26,63,14,0.7
+Puri,1.71,61,13,1.9
+Barpeta,9.09,75,35,1.1
+Barpeta,2.71,71,33,1.8
+Barpeta,8.57,70,25,1.1
+Kishanganj,7.72,70,32,1.4
+Kishanganj,0.98,74,33,1.6
+Kishanganj,10.37,71,24,1.3
+Gautam Buddh Nagar,4.13,60,36,0.8
+Gautam Buddh Nagar,9.49,64,21,1.0
+Gautam Buddh Nagar,7.32,74,28,0.4
+Dakshin Dinajpur,6.3,69,40,1.8
+Dakshin Dinajpur,5.12,69,14,1.5
+Dakshin Dinajpur,10.38,71,25,0.6
+Jalaun,4.3,64,18,1.8
+Jalaun,0.68,71,19,0.8
+Jalaun,2.78,69,29,1.9
+Chitradurga,9.26,75,36,1.5
+Chitradurga,7.45,65,32,1.9
+Chitradurga,6.19,67,37,1.1
+Osmanabad,7.75,66,30,1.6
+Osmanabad,10.08,73,25,0.1
+Osmanabad,5.58,72,11,1.0
+Kannauj,6.94,65,37,0.8
+Kannauj,3.82,74,34,0.3
+Kannauj,0.55,66,30,0.4
+Khagaria,9.67,67,25,1.8
+Khagaria,2.0,72,36,0.6
+Khagaria,4.13,66,36,1.5
+Sangrur,10.1,71,30,1.1
+Sangrur,4.8,72,18,0.9
+Sangrur,5.34,75,16,1.1
+Balangir,4.62,63,22,1.0
+Balangir,10.12,61,28,0.8
+Balangir,0.46,73,13,1.2
+Udham Singh Nagar,9.02,73,22,1.5
+Udham Singh Nagar,3.48,63,40,1.8
+Udham Singh Nagar,8.05,60,39,1.2
+Nandurbar,4.43,65,11,1.7
+Nandurbar,1.16,66,34,1.8
+Nandurbar,9.89,72,13,1.7
+Dausa,5.01,75,32,1.7
+Dausa,3.97,63,24,1.7
+Dausa,6.46,62,10,0.7
+Bhiwani,4.01,70,27,0.3
+Bhiwani,3.49,72,34,0.5
+Bhiwani,3.89,68,15,0.2
+Kaimur,8.87,72,17,0.3
+Kaimur,1.62,74,29,2.0
+Kaimur,7.29,74,21,1.0
+Janjgir-Champa,8.91,64,17,1.2
+Janjgir-Champa,2.46,73,19,2.0
+Janjgir-Champa,0.14,70,18,0.7
+Nagapattinam,10.72,61,10,1.8
+Nagapattinam,3.91,72,37,1.9
+Nagapattinam,9.43,68,24,1.5
+Ratnagiri,3.23,65,34,1.4
+Ratnagiri,8.51,67,30,0.1
+Ratnagiri,8.14,69,37,1.9
+Haveri district,8.68,63,20,1.1
+Haveri district,3.2,69,33,1.3
+Haveri district,1.95,62,38,1.9
+Kaushambi,8.22,69,28,0.6
+Kaushambi,7.79,67,25,0.7
+Kaushambi,7.99,61,34,0.1
+Hoshiarpur,5.67,75,36,1.6
+Hoshiarpur,4.21,67,12,1.1
+Hoshiarpur,5.44,66,26,1.7
+Etawah,7.8,75,15,2.0
+Etawah,8.96,65,13,1.5
+Etawah,3.3,65,20,1.0
+Betul,5.75,75,33,1.8
+Betul,2.59,71,38,0.7
+Betul,5.7,74,25,1.9
+Kalahandi,8.95,73,40,0.7
+Kalahandi,7.12,73,35,0.0
+Kalahandi,2.53,62,30,0.7
+Hathras (Mahamaya Nagar),8.78,61,24,1.9
+Hathras (Mahamaya Nagar),5.87,69,19,1.2
+Hathras (Mahamaya Nagar),9.19,64,35,1.6
+Dewas,4.18,72,13,1.1
+Dewas,0.94,69,28,0.2
+Dewas,4.62,60,18,1.4
+Sant Ravidas Nagar,5.07,67,20,1.0
+Sant Ravidas Nagar,8.7,68,30,1.5
+Sant Ravidas Nagar,6.68,67,14,1.6
+Bharuch,8.89,69,38,0.8
+Bharuch,0.02,63,17,1.3
+Bharuch,9.12,68,11,0.5
+Rajgarh,10.51,75,32,0.6
+Rajgarh,6.95,63,38,1.8
+Rajgarh,2.01,68,34,0.5
+Chittorgarh,5.74,74,36,0.7
+Chittorgarh,0.64,68,13,1.5
+Chittorgarh,2.39,71,24,1.1
+Kolar,0.3,75,21,0.2
+Kolar,10.31,65,37,1.8
+Kolar,3.64,60,34,0.6
+Rajnandgaon,1.96,68,33,1.8
+Rajnandgaon,10.23,71,24,1.4
+Rajnandgaon,2.2,74,36,0.0
+Jammu,9.62,73,38,0.7
+Jammu,9.7,71,10,0.2
+Jammu,4.41,70,25,1.4
+Kamrup,5.52,72,28,1.8
+Kamrup,10.99,65,17,0.4
+Kamrup,3.55,72,27,0.0
+Gurgaon,0.62,65,40,1.1
+Gurgaon,4.19,69,26,0.8
+Gurgaon,2.91,63,26,1.2
+Amreli district,9.87,60,11,1.4
+Amreli district,2.98,65,35,1.5
+Amreli district,8.54,72,11,1.0
+Shajapur,1.65,66,32,0.5
+Shajapur,0.37,68,29,0.4
+Shajapur,5.96,61,40,0.6
+Kangra,5.59,61,20,2.0
+Kangra,9.9,60,21,0.2
+Kangra,2.7,64,22,1.9
+Bhadrak,7.76,65,14,1.3
+Bhadrak,10.51,75,40,1.6
+Bhadrak,9.2,69,38,0.2
+Karnal,2.75,60,15,0.9
+Karnal,8.82,75,11,1.3
+Karnal,6.11,70,12,1.1
+Dharmapuri,5.33,60,29,2.0
+Dharmapuri,2.51,70,16,0.2
+Dharmapuri,5.69,70,24,0.5
+West Singhbhum,4.04,74,17,1.7
+West Singhbhum,3.71,72,23,0.3
+West Singhbhum,3.36,60,16,0.7
+Raigarh,6.54,69,16,1.7
+Raigarh,10.87,71,28,2.0
+Raigarh,9.64,75,31,0.7
+Deoghar,7.19,75,17,1.9
+Deoghar,8.09,65,19,1.2
+Deoghar,10.68,66,29,1.4
+Sonipat,8.92,70,30,0.6
+Sonipat,2.03,72,23,0.2
+Sonipat,10.1,61,24,2.0
+Bargarh (Baragarh),7.8,60,20,1.0
+Bargarh (Baragarh),3.44,67,24,0.5
+Bargarh (Baragarh),2.7,69,12,0.6
+Karauli,2.49,75,23,1.2
+Karauli,4.35,63,27,1.3
+Karauli,9.36,64,28,1.7
+Vidisha,7.81,74,24,1.5
+Vidisha,1.67,75,24,1.4
+Vidisha,8.85,75,28,0.9
+Ratlam,4.3,74,14,1.4
+Ratlam,6.88,60,13,1.5
+Ratlam,3.68,64,17,1.2
+Hapur (Panchsheel Nagar),4.94,61,25,1.0
+Hapur (Panchsheel Nagar),2.04,64,34,1.0
+Hapur (Panchsheel Nagar),7.72,71,11,1.8
+Tikamgarh,1.82,63,28,1.5
+Tikamgarh,3.44,71,36,0.3
+Tikamgarh,4.53,74,21,1.6
+Kendrapara,3.42,75,29,1.1
+Kendrapara,0.57,75,34,0.5
+Kendrapara,0.25,74,14,1.5
+Kanshi Ram Nagar,9.63,69,19,1.5
+Kanshi Ram Nagar,6.38,65,27,0.4
+Kanshi Ram Nagar,3.51,64,30,1.8
+Tonk,3.91,75,36,0.3
+Tonk,0.07,65,16,1.2
+Tonk,1.38,65,37,1.3
+Bastar,9.94,75,21,0.2
+Bastar,8.87,73,35,1.9
+Bastar,8.94,60,37,0.5
+Jhalawar,0.77,65,23,1.4
+Jhalawar,9.92,66,11,0.4
+Jhalawar,3.42,71,24,0.2
+Koppal,6.13,64,12,1.9
+Koppal,4.91,72,27,0.7
+Koppal,7.84,62,14,1.6
+Dungapur,1.04,66,24,1.9
+Dungapur,5.46,65,40,0.3
+Dungapur,2.44,72,21,1.7
+Bathinda,0.51,62,35,0.2
+Bathinda,1.01,71,40,1.5
+Bathinda,8.39,74,14,1.2
+Gandhinagar,8.49,72,19,1.2
+Gandhinagar,4.33,64,20,1.7
+Gandhinagar,4.73,62,27,1.4
+Barwani,3.92,73,13,1.0
+Barwani,2.61,60,21,1.2
+Barwani,3.95,63,17,1.9
+Seoni,10.11,66,27,2.0
+Seoni,1.72,73,29,0.4
+Seoni,0.49,75,15,0.8
+Koraput,1.04,60,40,0.8
+Koraput,7.38,68,29,1.8
+Koraput,7.29,66,31,1.9
+Auraiya,0.15,64,28,0.8
+Auraiya,9.55,65,16,1.8
+Auraiya,7.12,62,27,0.1
+Munger,10.0,72,38,1.3
+Munger,0.04,72,31,0.5
+Munger,5.05,65,27,1.7
+Uttara Kannada,2.24,60,13,0.0
+Uttara Kannada,8.6,72,19,0.7
+Uttara Kannada,1.06,71,24,1.6
+Patan,1.84,73,38,0.8
+Patan,6.71,66,40,0.8
+Patan,5.0,69,13,1.2
+Sivaganga,6.75,71,16,0.5
+Sivaganga,0.17,70,20,0.4
+Sivaganga,2.98,73,25,0.3
+Mandsaur,5.34,60,10,1.5
+Mandsaur,6.93,60,33,1.6
+Mandsaur,7.81,71,36,1.1
+Sawai Madhopur,2.7,66,31,0.6
+Sawai Madhopur,1.52,63,34,1.4
+Sawai Madhopur,2.04,75,22,0.4
+Ramanathapuram,6.31,69,14,1.2
+Ramanathapuram,7.93,62,25,0.1
+Ramanathapuram,8.66,66,36,1.8
+Jind,2.47,70,15,1.7
+Jind,10.97,62,19,1.3
+Jind,4.28,63,32,1.5
+Raisen,0.5,73,15,1.5
+Raisen,2.5,60,26,1.8
+Raisen,5.11,74,36,1.0
+Navsari,0.74,63,33,1.1
+Navsari,7.27,72,20,0.2
+Navsari,3.3,65,28,1.4
+Dibrugarh,5.31,73,35,0.8
+Dibrugarh,4.51,65,12,1.9
+Dibrugarh,0.95,67,28,2.0
+Garhwa,0.07,63,17,1.8
+Garhwa,6.38,72,34,1.9
+Garhwa,7.24,75,15,0.4
+Gondia,1.9,73,18,1.9
+Gondia,2.4,62,12,0.1
+Gondia,1.01,68,20,1.4
+Dumka,2.01,66,35,1.3
+Dumka,1.81,72,28,1.1
+Dumka,0.03,73,13,2.0
+Tinsukia,8.97,64,23,1.9
+Tinsukia,10.75,73,28,0.6
+Tinsukia,9.56,71,27,1.5
+Godda,10.88,63,11,0.1
+Godda,1.62,67,34,0.1
+Godda,1.1,68,21,1.2
+Sehore,8.14,70,11,1.9
+Sehore,9.64,72,26,1.8
+Sehore,1.94,74,28,0.1
+Khandwa (East Nimar),4.59,61,30,1.8
+Khandwa (East Nimar),3.07,72,37,0.1
+Khandwa (East Nimar),10.58,61,26,1.5
+Kasaragod,1.02,73,32,1.5
+Kasaragod,5.85,63,34,0.8
+Kasaragod,5.85,60,13,1.2
+Bagpat,10.29,61,31,1.2
+Bagpat,7.59,72,38,1.2
+Bagpat,2.62,73,37,1.9
+Wardha,2.43,62,13,1.6
+Wardha,8.77,75,29,2.0
+Wardha,6.65,67,20,1.2
+Sirsa,8.72,72,24,1.9
+Sirsa,2.73,71,14,1.2
+Sirsa,5.56,68,25,0.7
+Katni,7.52,74,29,1.8
+Katni,8.24,65,24,0.2
+Katni,4.06,67,31,0.5
+Angul,9.55,64,26,1.5
+Angul,3.34,65,16,0.6
+Angul,5.07,72,33,1.2
+Srinagar,1.6,71,38,0.3
+Srinagar,0.32,74,22,0.4
+Srinagar,10.13,61,18,1.1
+Tiruvarur,6.58,63,31,1.9
+Tiruvarur,3.83,72,39,1.7
+Tiruvarur,1.21,71,19,0.9
+Damoh,7.16,68,21,1.0
+Damoh,9.11,67,27,1.1
+Damoh,2.79,66,21,1.2
+Kamrup Metropolitan,4.85,69,32,0.2
+Kamrup Metropolitan,0.41,61,37,1.9
+Kamrup Metropolitan,10.11,68,32,1.9
+Chikkaballapur,6.59,65,19,0.3
+Chikkaballapur,8.58,60,34,1.8
+Chikkaballapur,10.72,60,22,1.4
+Theni,8.01,65,29,0.8
+Theni,9.16,74,19,0.1
+Theni,4.16,67,36,0.2
+Hoshangabad,8.76,63,34,0.4
+Hoshangabad,9.64,63,18,0.7
+Hoshangabad,9.54,72,21,0.5
+Guna,3.63,62,31,1.9
+Guna,7.61,66,24,1.0
+Guna,8.11,75,35,0.7
+Baran,6.78,75,36,2.0
+Baran,9.03,66,27,0.8
+Baran,5.12,71,19,1.7
+Nabarangpur,2.02,61,19,0.5
+Nabarangpur,2.63,66,28,1.4
+Nabarangpur,0.02,73,30,0.7
+Lalitpur,9.43,75,20,0.3
+Lalitpur,5.38,62,25,1.3
+Lalitpur,7.47,66,14,0.2
+Gir Somnath,6.41,61,22,0.7
+Gir Somnath,0.55,60,39,0.2
+Gir Somnath,6.94,61,22,1.0
+Karimganj,2.8,60,13,1.2
+Karimganj,5.27,65,39,1.4
+Karimganj,9.13,72,33,1.3
+Yamuna Nagar,4.04,66,15,2.0
+Yamuna Nagar,10.39,68,20,1.2
+Yamuna Nagar,9.58,73,12,0.5
+Dholpur,10.71,63,23,0.4
+Dholpur,0.38,73,22,0.7
+Dholpur,8.1,74,31,1.1
+Korba,1.68,69,37,0.1
+Korba,8.62,66,14,0.4
+Korba,2.2,68,10,1.8
+Panipat,6.2,72,24,1.2
+Panipat,9.39,65,12,1.7
+Panipat,2.54,72,28,0.4
+Bhandara,6.5,64,23,1.8
+Bhandara,3.15,75,29,0.2
+Bhandara,0.63,60,37,0.2
+Washim,5.07,68,11,1.0
+Washim,3.19,65,22,1.9
+Washim,9.45,65,10,1.6
+Pathanamthitta,5.29,66,32,0.4
+Pathanamthitta,4.41,73,15,0.8
+Pathanamthitta,10.81,65,39,0.7
+Dhenkanal,10.06,62,20,1.4
+Dhenkanal,9.76,72,23,0.3
+Dhenkanal,2.38,64,34,1.9
+Hingoli,10.32,62,30,1.7
+Hingoli,7.17,71,30,1.0
+Hingoli,3.62,64,25,0.9
+Singrauli,8.74,61,12,0.3
+Singrauli,10.33,71,16,1.8
+Singrauli,1.98,68,28,1.2
+Udupi,5.42,62,14,1.4
+Udupi,2.04,74,32,1.8
+Udupi,3.81,66,25,0.4
+Yadgir,3.23,63,12,1.4
+Yadgir,2.08,64,30,1.2
+Yadgir,6.67,62,15,2.0
+Rajsamand,0.0,71,40,0.1
+Rajsamand,5.93,69,13,1.9
+Rajsamand,9.81,64,33,1.4
+Sivasagar,3.03,75,28,0.3
+Sivasagar,1.06,65,13,1.9
+Sivasagar,2.76,64,30,1.2
+Sahibganj,1.19,60,24,1.9
+Sahibganj,8.56,65,35,0.4
+Sahibganj,6.66,61,25,1.4
+Chikkamagaluru,10.01,70,15,1.1
+Chikkamagaluru,8.39,64,13,0.7
+Chikkamagaluru,4.96,62,25,1.8
+Ambala,6.05,72,32,1.6
+Ambala,6.21,66,30,0.4
+Ambala,7.55,75,16,0.3
+Jagatsinghpur,5.67,71,26,0.4
+Jagatsinghpur,5.06,70,12,1.3
+Jagatsinghpur,8.82,75,39,1.9
+Sidhi,1.63,66,15,1.4
+Sidhi,8.92,66,39,0.1
+Sidhi,8.23,71,32,0.6
+Jehanabad,9.56,70,10,1.6
+Jehanabad,2.16,71,31,0.5
+Jehanabad,4.58,64,29,1.7
+Tarn Taran,4.5,72,13,0.3
+Tarn Taran,8.94,63,39,0.0
+Tarn Taran,5.32,67,32,0.4
+Shravasti,8.9,73,11,1.6
+Shravasti,1.44,71,19,0.3
+Shravasti,2.08,60,31,1.9
+Bundi,3.45,75,14,0.2
+Bundi,2.51,75,12,1.7
+Bundi,6.06,73,12,0.5
+Idukki,2.11,63,14,1.5
+Idukki,10.53,61,23,0.3
+Idukki,8.77,73,12,1.3
+Hamirpur,4.77,60,21,0.8
+Hamirpur,0.99,60,34,0.6
+Hamirpur,0.18,67,14,0.9
+Narsinghpur,8.83,73,36,1.2
+Narsinghpur,1.24,61,13,1.2
+Narsinghpur,2.62,63,22,1.5
+Jorhat,10.9,75,18,0.4
+Jorhat,8.04,73,36,1.4
+Jorhat,9.9,69,29,0.1
+Mewat,8.83,61,29,0.1
+Mewat,10.49,67,37,1.9
+Mewat,5.24,70,23,1.2
+Ramanagara,5.64,66,22,0.9
+Ramanagara,2.9,67,38,1.6
+Ramanagara,7.28,63,40,0.3
+Karur,2.56,65,16,1.7
+Karur,5.58,69,38,0.9
+Karur,10.17,63,35,0.1
+Kaithal,10.36,68,37,1.2
+Kaithal,7.02,75,18,0.6
+Kaithal,7.64,73,19,0.8
+Chhota Udaipur,7.11,72,23,1.1
+Chhota Udaipur,3.59,63,13,1.7
+Chhota Udaipur,0.45,60,34,1.3
+Gadchiroli,6.04,71,40,0.6
+Gadchiroli,0.41,60,30,0.8
+Gadchiroli,1.42,70,22,0.1
+Anantnag,8.14,69,27,1.4
+Anantnag,2.17,69,11,1.5
+Anantnag,7.78,70,18,0.4
+Gadag,8.28,65,32,0.1
+Gadag,9.94,61,18,0.2
+Gadag,1.52,64,28,1.5
+Shahdol,2.04,60,16,1.4
+Shahdol,8.63,65,28,1.9
+Shahdol,9.27,71,14,0.4
+Seraikela Kharsawan,9.69,71,10,1.0
+Seraikela Kharsawan,0.95,73,29,0.5
+Seraikela Kharsawan,4.85,68,28,0.3
+Rohtak,6.01,75,40,2.0
+Rohtak,8.49,73,17,1.2
+Rohtak,4.44,63,39,1.8
+Golaghat,8.81,75,33,1.2
+Golaghat,2.12,68,19,0.4
+Golaghat,7.13,62,11,1.8
+Chandigarh,1.96,72,27,1.2
+Chandigarh,10.3,61,37,1.9
+Chandigarh,0.9,62,36,0.2
+Mandla,2.18,70,32,1.0
+Mandla,5.27,62,23,0.4
+Mandla,7.99,65,31,0.6
+Aravalli,2.34,73,17,1.9
+Aravalli,5.58,70,35,0.4
+Aravalli,7.05,60,10,1.8
+Sambalpur,0.36,69,31,0.9
+Sambalpur,3.77,74,24,0.3
+Sambalpur,4.46,74,18,0.4
+Chatra,2.01,66,40,0.3
+Chatra,0.96,68,21,1.6
+Chatra,7.86,72,27,1.7
+Lakhimpur,2.33,62,23,1.9
+Lakhimpur,6.3,63,36,0.3
+Lakhimpur,3.69,64,39,1.5
+Palwal,2.22,70,25,2.0
+Palwal,6.02,61,25,0.7
+Palwal,0.22,73,29,1.0
+Sirohi,5.3,72,31,1.7
+Sirohi,0.82,63,32,0.8
+Sirohi,6.12,64,23,0.5
+Mahasamund,7.56,72,38,1.4
+Mahasamund,8.09,73,37,1.2
+Mahasamund,0.22,71,19,1.9
+Gumla,7.82,75,14,0.3
+Gumla,4.5,68,16,0.0
+Gumla,2.47,70,30,1.4
+Jhabua,9.24,72,25,0.6
+Jhabua,7.79,61,29,0.2
+Jhabua,9.29,75,18,1.5
+Chamarajnagar,3.77,71,29,0.3
+Chamarajnagar,2.5,66,25,1.0
+Chamarajnagar,5.61,72,17,0.4
+Panna,0.49,66,27,0.2
+Panna,3.64,66,22,1.9
+Panna,10.56,69,31,1.0
+Baramulla,2.91,72,30,2.0
+Baramulla,6.97,62,26,1.5
+Baramulla,1.16,73,18,0.8
+Goalpara,2.31,72,13,0.4
+Goalpara,6.69,75,27,0.3
+Goalpara,0.02,64,29,1.8
+Lakhisarai,10.62,60,28,0.4
+Lakhisarai,7.0,73,20,0.0
+Lakhisarai,3.01,70,13,1.7
+Mandi,2.27,75,23,0.9
+Mandi,1.91,66,14,1.6
+Mandi,7.91,75,10,1.4
+Mahisagar,9.09,74,30,0.2
+Mahisagar,8.97,61,34,0.7
+Mahisagar,0.15,61,37,1.7
+Moga,7.78,63,10,1.7
+Moga,6.07,62,17,1.0
+Moga,6.27,64,37,1.1
+Chitrakoot,7.0,69,33,0.5
+Chitrakoot,6.24,75,26,1.2
+Chitrakoot,2.94,62,16,0.7
+Bangalore Rural,4.16,60,14,0.8
+Bangalore Rural,9.76,73,31,1.7
+Bangalore Rural,4.07,72,23,0.8
+Sahibzada Ajit Singh Nagar,10.45,67,14,1.9
+Sahibzada Ajit Singh Nagar,6.94,66,10,1.1
+Sahibzada Ajit Singh Nagar,4.81,69,14,1.7
+Karbi Anglong,3.54,64,31,0.7
+Karbi Anglong,7.21,68,28,1.8
+Karbi Anglong,4.88,65,25,0.3
+Kurukshetra,5.96,73,20,0.4
+Kurukshetra,3.68,67,28,1.4
+Kurukshetra,7.83,69,12,1.9
+Nayagarh,0.29,75,18,1.4
+Nayagarh,3.43,62,27,1.1
+Nayagarh,8.92,60,11,1.9
+Rayagada,1.82,70,31,1.2
+Rayagada,2.87,70,30,0.4
+Rayagada,0.52,71,24,1.7
+Morbi,4.31,71,29,1.5
+Morbi,0.75,69,27,0.4
+Morbi,5.3,74,26,0.8
+Morigaon,3.67,74,31,0.1
+Morigaon,4.17,70,40,0.4
+Morigaon,3.82,60,20,0.2
+Jhajjar,5.19,72,12,1.9
+Jhajjar,5.93,61,16,0.9
+Jhajjar,9.95,68,11,1.7
+Nainital,4.23,61,32,0.5
+Nainital,10.01,60,32,0.9
+Nainital,4.12,60,20,1.5
+Baksa,0.37,71,30,1.0
+Baksa,6.99,61,22,1.6
+Baksa,5.54,75,21,0.5
+Ramgarh,6.46,64,19,1.3
+Ramgarh,4.43,74,31,0.3
+Ramgarh,5.66,62,39,1.2
+Pondicherry,7.44,67,25,0.4
+Pondicherry,7.03,63,14,0.2
+Pondicherry,0.97,70,29,0.9
+Fatehabad,9.88,64,34,0.2
+Fatehabad,1.63,61,30,1.5
+Fatehabad,5.17,64,26,1.3
+Mahendragarh,3.48,74,24,0.9
+Mahendragarh,6.3,66,29,0.8
+Mahendragarh,4.59,74,36,1.2
+West Tripura,2.76,68,31,1.8
+West Tripura,3.48,74,36,0.7
+West Tripura,6.85,73,36,0.4
+Darrang,10.02,75,21,1.8
+Darrang,3.73,74,37,0.2
+Darrang,7.39,75,36,0.1
+Sri Muktsar Sahib,2.34,73,20,0.7
+Sri Muktsar Sahib,7.51,68,25,0.9
+Sri Muktsar Sahib,0.24,73,39,0.5
+Pakur,8.81,75,12,1.5
+Pakur,7.75,62,35,1.3
+Pakur,10.52,69,10,1.6
+Rewari,10.63,65,39,1.5
+Rewari,7.64,66,40,1.3
+Rewari,10.92,75,20,0.5
+Kokrajhar,1.94,71,10,0.5
+Kokrajhar,3.15,60,25,0.5
+Kokrajhar,5.37,73,19,0.8
+North Delhi,4.1,73,26,1.1
+North Delhi,7.63,66,10,1.6
+North Delhi,5.92,65,10,1.2
+Mahoba,9.66,65,29,0.2
+Mahoba,7.38,66,24,1.0
+Mahoba,2.77,68,19,1.0
+Kupwara,3.69,69,36,1.5
+Kupwara,5.53,72,34,1.3
+Kupwara,0.91,68,26,1.5
+Pratapgarh,0.51,62,24,1.0
+Pratapgarh,6.9,66,29,1.2
+Pratapgarh,8.22,63,13,1.9
+Jashpur,6.47,72,12,1.3
+Jashpur,3.14,71,25,0.7
+Jashpur,6.3,65,16,1.3
+Sindhudurg,7.61,64,16,1.5
+Sindhudurg,6.02,64,30,1.6
+Sindhudurg,7.42,74,40,0.2
+Ashok Nagar,5.85,61,35,1.9
+Ashok Nagar,4.76,72,39,0.5
+Ashok Nagar,3.43,64,39,1.6
+Udalguri,10.9,67,39,0.1
+Udalguri,5.08,66,18,0.9
+Udalguri,10.84,71,29,1.2
+Neemuch,10.97,63,19,0.1
+Neemuch,0.34,70,11,0.7
+Neemuch,5.1,69,19,0.4
+East Khasi Hills,8.79,73,29,1.8
+East Khasi Hills,1.74,61,17,0.2
+East Khasi Hills,7.83,75,26,1.5
+North Goa,6.47,70,31,0.1
+North Goa,3.46,71,20,0.6
+North Goa,0.72,69,11,0.6
+Kapurthala,3.52,66,25,1.7
+Kapurthala,5.58,60,18,1.2
+Kapurthala,8.14,66,35,0.3
+Wayanad,7.4,64,37,1.4
+Wayanad,5.97,74,38,0.3
+Wayanad,2.32,73,37,1.9
+Shimla,4.57,73,30,2.0
+Shimla,6.37,75,36,1.7
+Shimla,9.71,62,23,0.1
+Tapi,0.47,71,32,1.1
+Tapi,9.23,72,14,1.1
+Tapi,3.13,68,10,0.5
+Dhamtari,8.6,65,21,1.7
+Dhamtari,6.65,65,22,1.6
+Dhamtari,4.85,73,26,0.4
+Jamtara,8.36,72,13,1.2
+Jamtara,9.34,68,30,0.1
+Jamtara,7.12,66,26,1.8
+Datia,8.83,64,23,0.6
+Datia,5.16,72,30,0.5
+Datia,9.32,75,11,0.3
+Nalbari,2.16,61,10,0.8
+Nalbari,6.25,71,20,1.7
+Nalbari,1.59,64,12,1.2
+Mansa,4.37,72,24,1.3
+Mansa,6.31,71,28,1.8
+Mansa,2.78,64,32,1.5
+Burhanpur,5.25,72,30,0.5
+Burhanpur,4.41,67,14,0.9
+Burhanpur,7.84,64,24,1.3
+Devbhoomi Dwarka,2.73,69,36,0.7
+Devbhoomi Dwarka,3.6,68,17,0.6
+Devbhoomi Dwarka,8.86,71,34,1.5
+Ariyalur,5.3,68,23,1.7
+Ariyalur,7.02,65,18,1.0
+Ariyalur,7.53,71,19,0.1
+Anuppur,9.84,66,35,1.5
+Anuppur,4.15,61,19,0.9
+Anuppur,10.77,69,12,1.6
+Kanker,0.48,70,39,1.5
+Kanker,7.01,73,35,0.5
+Kanker,1.18,68,35,1.0
+Badgam,8.21,68,12,0.9
+Badgam,5.1,62,26,0.6
+Badgam,6.23,73,14,1.1
+Nilgiris,3.05,72,23,1.3
+Nilgiris,3.26,74,22,0.6
+Nilgiris,1.88,74,29,1.6
+Bongaigaon,5.18,61,21,0.4
+Bongaigaon,2.95,71,36,0.5
+Bongaigaon,5.75,75,16,0.0
+Kandhamal,6.33,64,28,0.7
+Kandhamal,5.73,61,14,1.2
+Kandhamal,10.16,70,11,0.5
+Alirajpur,9.92,62,31,0.2
+Alirajpur,4.45,66,23,2.0
+Alirajpur,7.2,69,36,0.3
+Latehar,0.45,66,11,1.0
+Latehar,9.01,60,29,1.8
+Latehar,1.56,60,33,1.8
+Koderma,5.01,66,36,0.5
+Koderma,2.83,61,16,0.2
+Koderma,2.55,71,11,1.3
+Dindori,7.07,70,16,0.5
+Dindori,1.74,63,22,1.1
+Dindori,8.29,62,26,1.1
+Arwal,10.78,60,16,0.6
+Arwal,3.19,67,34,1.9
+Arwal,0.06,74,13,0.7
+Dhemaji,10.24,62,32,0.6
+Dhemaji,1.99,68,17,0.0
+Dhemaji,2.62,64,35,1.9
+Sheopur,9.73,68,15,1.6
+Sheopur,7.07,61,24,1.5
+Sheopur,6.1,71,23,1.5
+Pauri Garhwal,3.3,74,26,0.2
+Pauri Garhwal,2.65,72,14,1.0
+Pauri Garhwal,3.36,69,11,1.1
+Rupnagar,10.59,60,13,0.1
+Rupnagar,9.08,63,22,0.8
+Rupnagar,5.5,63,37,0.5
+Jaisalmer,3.67,65,32,1.4
+Jaisalmer,8.16,67,17,0.8
+Jaisalmer,1.24,60,24,1.6
+Surajpur,6.08,73,28,0.2
+Surajpur,9.76,66,39,1.9
+Surajpur,7.3,60,36,1.5
+Hailakandi,9.58,69,34,1.1
+Hailakandi,0.43,61,16,1.6
+Hailakandi,0.84,74,22,0.6
+Koriya,5.99,75,38,1.2
+Koriya,0.24,67,34,1.1
+Koriya,6.79,61,32,1.6
+Sheohar,8.54,73,27,1.7
+Sheohar,5.23,75,36,0.9
+Sheohar,2.52,70,17,1.7
+Botad,4.1,70,37,1.3
+Botad,4.41,61,24,1.2
+Botad,9.06,67,36,1.2
+Subarnapur (Sonepur),3.87,72,25,0.1
+Subarnapur (Sonepur),6.41,60,17,0.7
+Subarnapur (Sonepur),7.59,61,24,1.3
+Umaria,2.93,74,28,0.8
+Umaria,8.81,62,25,0.6
+Umaria,0.28,74,29,0.6
+West Garo Hills,6.85,68,30,1.7
+West Garo Hills,9.8,74,15,1.3
+West Garo Hills,7.83,62,25,0.4
+South Goa,7.35,75,17,0.4
+South Goa,6.15,62,15,1.5
+South Goa,10.8,63,22,1.4
+Sheikhpura,2.59,75,26,1.8
+Sheikhpura,5.44,66,18,1.0
+Sheikhpura,9.46,69,26,2.0
+Almora,4.6,60,39,1.2
+Almora,10.22,65,39,0.7
+Almora,8.64,60,40,0.1
+Rajouri,7.2,69,15,0.9
+Rajouri,10.98,63,25,0.6
+Rajouri,8.14,62,25,1.9
+Faridkot,7.47,60,24,0.2
+Faridkot,6.67,71,29,1.4
+Faridkot,7.7,72,12,0.4
+Tehri Garhwal,4.58,73,38,1.1
+Tehri Garhwal,4.54,61,17,1.3
+Tehri Garhwal,7.74,73,27,0.3
+Kathua,10.65,65,20,1.2
+Kathua,5.12,74,12,1.4
+Kathua,3.53,70,28,0.4
+Shahid Bhagat Singh Nagar,0.75,72,13,1.9
+Shahid Bhagat Singh Nagar,5.47,69,32,0.7
+Shahid Bhagat Singh Nagar,0.13,63,20,0.4
+Malkangiri,3.88,62,14,1.5
+Malkangiri,6.11,67,39,0.5
+Malkangiri,10.61,66,25,0.6
+Nuapada,3.24,71,35,1.2
+Nuapada,2.33,69,10,0.4
+Nuapada,5.82,70,37,1.1
+Fatehgarh Sahib,3.45,66,17,0.7
+Fatehgarh Sahib,7.09,66,22,0.2
+Fatehgarh Sahib,6.79,71,29,0.3
+Simdega,8.36,66,22,1.4
+Simdega,3.08,69,40,1.9
+Simdega,5.99,72,26,1.5
+Barnala,4.78,71,20,1.9
+Barnala,4.31,75,20,0.5
+Barnala,5.08,63,26,0.2
+Narmada,1.87,75,14,0.1
+Narmada,9.18,74,30,1.5
+Narmada,3.01,68,34,0.3
+Porbandar,4.07,60,24,1.9
+Porbandar,6.35,67,24,0.4
+Porbandar,0.66,60,18,1.6
+Kabirdham (formerly Kawardha),6.54,67,33,1.2
+Kabirdham (formerly Kawardha),8.3,72,23,1.6
+Kabirdham (formerly Kawardha),7.12,74,15,1.1
+Jharsuguda,3.17,75,28,1.3
+Jharsuguda,5.13,64,40,1.5
+Jharsuguda,7.63,69,25,0.3
+Central Delhi,1.79,68,32,0.5
+Central Delhi,8.06,75,20,1.5
+Central Delhi,4.06,73,10,1.3
+Solan,4.63,67,15,1.1
+Solan,0.47,67,37,0.5
+Solan,7.9,65,33,0.6
+Gajapati,0.65,67,20,0.4
+Gajapati,1.82,75,15,0.5
+Gajapati,1.81,75,34,0.3
+Harda,6.77,67,12,1.8
+Harda,8.79,71,18,1.9
+Harda,1.74,64,25,1.8
+Pulwama,1.3,72,18,1.6
+Pulwama,4.66,74,33,1.8
+Pulwama,8.31,60,25,0.7
+Perambalur,2.37,71,22,0.3
+Perambalur,7.01,67,18,0.3
+Perambalur,3.77,69,33,1.0
+Panchkula,8.75,65,20,0.6
+Panchkula,5.97,70,18,0.4
+Panchkula,9.29,70,14,1.4
+Udhampur,1.6,65,23,0.5
+Udhampur,7.86,62,22,0.2
+Udhampur,4.97,72,18,1.5
+Kodagu,7.09,67,38,0.8
+Kodagu,3.8,60,10,0.2
+Kodagu,5.54,69,38,2.0
+Dantewada,2.42,62,21,1.9
+Dantewada,9.37,61,17,0.7
+Dantewada,3.65,66,40,0.8
+Khunti,1.49,73,20,1.9
+Khunti,4.23,61,20,0.3
+Khunti,1.17,64,21,1.6
+Sirmaur,7.93,66,28,0.4
+Sirmaur,4.96,67,23,1.5
+Sirmaur,2.79,61,31,2.0
+Una,10.31,67,11,0.0
+Una,5.39,70,12,0.4
+Una,4.86,71,22,0.4
+Chamba,0.21,69,11,0.7
+Chamba,2.25,69,13,0.8
+Chamba,6.35,67,16,0.9
+Imphal West,6.19,65,29,0.9
+Imphal West,7.27,72,11,1.3
+Imphal West,4.22,60,32,0.4
+Pithoragarh,10.2,66,37,0.2
+Pithoragarh,2.29,73,28,0.1
+Pithoragarh,6.94,72,21,0.4
+Sepahijala,4.36,74,28,2.0
+Sepahijala,6.31,60,18,0.8
+Sepahijala,6.93,64,22,1.1
+Chirang,10.52,71,12,0.5
+Chirang,1.46,74,13,0.4
+Chirang,5.66,64,16,0.4
+Poonch,2.02,64,24,0.8
+Poonch,0.99,62,30,0.2
+Poonch,9.07,65,16,0.7
+Lohardaga,7.07,61,11,1.0
+Lohardaga,4.64,70,21,1.5
+Lohardaga,10.09,74,21,1.4
+Hamirpur,9.86,66,13,1.4
+Hamirpur,9.01,64,13,0.1
+Hamirpur,4.89,73,19,0.6
+Imphal East,0.05,68,10,1.6
+Imphal East,4.97,71,38,0.8
+Imphal East,9.82,62,19,1.4
+Boudh (Bauda),2.63,65,14,1.7
+Boudh (Bauda),4.21,74,33,1.4
+Boudh (Bauda),10.07,75,28,1.1
+Kullu,3.25,67,39,1.1
+Kullu,6.38,71,35,0.2
+Kullu,4.41,73,20,0.7
+Gomati,10.02,60,31,0.2
+Gomati,4.86,66,24,1.3
+Gomati,0.71,74,18,1.6
+South Tripura,10.94,65,23,1.5
+South Tripura,1.89,60,40,1.0
+South Tripura,7.0,73,32,0.8
+Kulgam,2.76,73,27,0.6
+Kulgam,9.86,64,32,1.5
+Kulgam,6.81,68,15,0.5
+Surguja,7.19,69,40,0.1
+Surguja,10.04,70,12,1.1
+Surguja,1.08,73,13,0.1
+Thoubal,2.73,74,39,1.7
+Thoubal,10.03,60,15,0.5
+Thoubal,4.46,69,38,1.3
+North Tripura,3.05,63,11,1.3
+North Tripura,9.95,74,19,1.7
+North Tripura,9.08,61,19,1.8
+Tuensang,3.94,61,11,1.5
+Tuensang,1.6,62,10,1.0
+Tuensang,0.93,60,24,0.0
+Doda,5.46,60,40,1.1
+Doda,1.73,69,24,0.3
+Doda,0.31,60,17,1.2
+Aizawl,8.57,69,22,1.9
+Aizawl,0.65,62,16,0.8
+Aizawl,1.89,74,23,1.6
+Chamoli,2.86,75,38,0.7
+Chamoli,5.08,61,40,1.9
+Chamoli,4.46,61,34,0.9
+West Khasi Hills,7.04,60,18,0.7
+West Khasi Hills,10.4,62,11,0.9
+West Khasi Hills,1.74,63,29,1.0
+Bandipora,3.98,63,34,0.6
+Bandipora,10.14,74,38,1.1
+Bandipora,0.21,72,36,0.5
+Bilaspur,4.42,74,12,0.4
+Bilaspur,7.57,74,33,0.0
+Bilaspur,4.46,68,19,1.0
+Dimapur,7.94,61,38,1.6
+Dimapur,8.45,65,35,0.0
+Dimapur,7.37,70,18,1.4
+Dhalai,9.64,71,18,1.3
+Dhalai,5.9,74,36,0.6
+Dhalai,7.16,66,15,1.9
+Senapati,2.69,65,18,1.5
+Senapati,4.31,63,23,1.4
+Senapati,3.51,73,26,0.3
+Dadra and Nagar Haveli,0.31,74,23,0.5
+Dadra and Nagar Haveli,7.94,75,38,1.5
+Dadra and Nagar Haveli,9.55,64,17,0.2
+Uttarkashi,8.69,72,19,0.1
+Uttarkashi,6.86,74,29,0.4
+Uttarkashi,3.89,72,15,1.5
+Khowai,2.5,61,24,1.0
+Khowai,7.35,71,27,0.3
+Khowai,0.8,72,18,0.7
+Samba,8.57,68,36,0.4
+Samba,1.52,69,23,0.6
+Samba,3.8,65,13,1.2
+East Garo Hills,6.95,62,33,1.7
+East Garo Hills,2.2,69,14,1.9
+East Garo Hills,10.41,73,11,1.1
+Reasi,7.96,60,12,0.1
+Reasi,10.35,74,15,0.1
+Reasi,2.71,75,23,0.8
+Debagarh (Deogarh),6.78,69,33,1.7
+Debagarh (Deogarh),1.96,62,30,1.6
+Debagarh (Deogarh),1.24,63,35,1.9
+Ganderbal,9.91,63,23,1.8
+Ganderbal,6.28,73,34,0.3
+Ganderbal,10.65,73,12,1.7
+Ramban,4.41,66,28,0.6
+Ramban,5.75,63,23,1.0
+Ramban,2.01,71,26,2.0
+East Sikkim,9.05,63,33,1.0
+East Sikkim,1.69,72,17,1.7
+East Sikkim,4.69,72,30,1.5
+Unokoti,0.27,65,18,0.4
+Unokoti,2.91,65,29,0.2
+Unokoti,9.28,63,22,1.3
+Churachandpur,6.19,65,11,0.3
+Churachandpur,2.6,72,40,0.9
+Churachandpur,6.03,60,25,1.1
+West Jaintia Hills,3.38,72,17,0.4
+West Jaintia Hills,0.09,66,11,1.4
+West Jaintia Hills,10.3,65,22,1.7
+Kohima,8.74,73,19,0.3
+Kohima,3.0,64,10,0.6
+Kohima,10.88,62,29,0.8
+Shopian,2.22,62,10,0.3
+Shopian,1.36,63,23,0.2
+Shopian,7.01,64,27,1.5
+Bageshwar,0.6,68,27,1.6
+Bageshwar,7.32,64,15,0.4
+Bageshwar,0.39,67,11,1.4
+Mon,4.53,61,37,1.6
+Mon,2.22,72,35,1.0
+Mon,2.83,64,35,1.1
+Champawat,2.16,66,33,0.2
+Champawat,7.82,61,11,1.6
+Champawat,4.23,68,31,1.2
+Ri Bhoi,3.37,71,33,0.9
+Ri Bhoi,5.23,63,16,1.4
+Ri Bhoi,10.77,72,23,1.0
+Bijapur,8.88,69,13,1.1
+Bijapur,10.03,68,30,0.5
+Bijapur,1.16,67,17,1.1
+Sukma,0.78,61,32,1.5
+Sukma,5.77,75,23,0.9
+Sukma,4.5,67,38,0.4
+Bishnupur,5.07,69,16,0.6
+Bishnupur,1.33,67,31,0.8
+Bishnupur,1.34,60,20,1.4
+South Andaman,3.78,64,14,1.1
+South Andaman,4.74,75,10,1.8
+South Andaman,2.2,75,31,0.6
+Rudraprayag,0.96,65,17,1.0
+Rudraprayag,6.0,66,25,1.8
+Rudraprayag,4.81,73,26,0.4
+Kishtwar,6.08,69,13,1.2
+Kishtwar,3.1,65,18,2.0
+Kishtwar,10.95,66,29,0.8
+Dang,7.43,63,32,1.8
+Dang,5.43,62,38,0.4
+Dang,10.13,67,22,0.7
+Dima Hasao,10.72,62,11,1.1
+Dima Hasao,6.75,74,26,1.9
+Dima Hasao,3.01,66,38,1.6
+Karaikal,10.39,64,25,0.8
+Karaikal,4.29,66,33,0.5
+Karaikal,2.28,69,23,0.7
+Mokokchung,1.02,63,12,0.2
+Mokokchung,5.95,70,29,0.5
+Mokokchung,3.33,64,27,1.8
+Daman,5.47,74,17,0.7
+Daman,9.75,70,18,1.5
+Daman,1.52,67,31,1.7
+Ukhrul,8.03,72,36,1.0
+Ukhrul,0.12,68,22,1.6
+Ukhrul,1.79,62,13,1.4
+Papum Pare,5.42,74,38,0.0
+Papum Pare,8.54,65,40,1.2
+Papum Pare,3.04,73,14,1.8
+Wokha,5.21,70,13,1.4
+Wokha,4.6,67,11,0.6
+Wokha,9.13,67,38,2.0
+Peren,3.52,73,23,0.9
+Peren,8.52,75,36,1.1
+Peren,6.97,70,31,1.8
+Phek,10.68,72,17,1.9
+Phek,8.9,72,25,0.8
+Phek,2.61,74,37,1.2
+Lunglei,10.14,75,22,1.5
+Lunglei,8.33,64,14,1.3
+Lunglei,0.18,66,21,0.7
+Changlang,10.88,73,37,0.4
+Changlang,1.13,70,32,0.7
+Changlang,9.88,62,18,0.5
+Leh,0.37,72,36,1.3
+Leh,5.25,64,37,1.0
+Leh,9.91,73,14,1.8
+South Sikkim,4.12,69,10,1.3
+South Sikkim,4.28,69,15,1.4
+South Sikkim,9.41,63,12,0.9
+Lohit,3.97,73,11,1.0
+Lohit,1.55,75,15,0.3
+Lohit,6.91,72,25,1.6
+Chandel,1.49,64,26,0.4
+Chandel,0.81,72,14,0.6
+Chandel,8.78,66,30,0.1
+Kargil,5.91,73,10,1.2
+Kargil,6.92,75,10,0.0
+Kargil,9.34,68,27,0.2
+South Garo Hills,1.51,70,15,0.1
+South Garo Hills,6.35,69,34,0.9
+South Garo Hills,7.85,64,38,1.2
+Zunheboto,7.72,75,34,1.2
+Zunheboto,1.46,62,18,1.3
+Zunheboto,3.57,75,26,0.8
+Narayanpur,2.47,73,24,0.7
+Narayanpur,2.64,60,16,1.9
+Narayanpur,5.8,65,27,0.3
+Tamenglong,1.89,67,14,2.0
+Tamenglong,3.93,73,36,1.8
+Tamenglong,2.9,62,23,1.0
+West Sikkim,7.35,60,25,0.8
+West Sikkim,0.37,69,32,1.3
+West Sikkim,7.05,68,10,1.4
+New Delhi,4.39,73,32,1.0
+New Delhi,2.61,74,10,1.1
+New Delhi,5.12,72,34,1.0
+Champhai,0.75,70,30,0.9
+Champhai,4.31,61,30,0.6
+Champhai,7.27,70,24,0.2
+East Jaintia Hills,4.38,73,38,1.7
+East Jaintia Hills,4.47,64,13,0.1
+East Jaintia Hills,8.25,60,39,1.4
+North Garo Hills,6.96,71,11,1.2
+North Garo Hills,8.8,68,33,0.1
+North Garo Hills,7.05,63,36,1.3
+Lawngtlai,6.87,64,20,0.5
+Lawngtlai,9.92,74,30,0.8
+Lawngtlai,6.57,71,20,1.6
+West Siang,6.93,63,14,1.5
+West Siang,8.71,67,22,1.8
+West Siang,7.88,75,18,1.9
+Tirap,4.01,71,40,0.4
+Tirap,2.96,73,20,1.5
+Tirap,9.02,68,20,1.6
+South West Khasi Hills,0.94,70,28,1.5
+South West Khasi Hills,3.74,60,15,0.7
+South West Khasi Hills,2.41,62,32,0.5
+North and Middle Andaman,1.99,72,39,1.2
+North and Middle Andaman,3.6,70,10,0.4
+North and Middle Andaman,6.11,69,20,0.7
+East Siang,3.06,67,19,1.5
+East Siang,1.98,73,35,0.8
+East Siang,5.3,74,30,1.5
+Kurung Kumey,7.45,71,17,1.9
+Kurung Kumey,9.07,63,24,1.2
+Kurung Kumey,6.84,64,35,1.9
+West Kameng,0.86,70,22,0.3
+West Kameng,0.63,61,19,1.0
+West Kameng,3.04,66,14,1.2
+Mamit,0.44,66,16,0.7
+Mamit,6.07,69,12,1.0
+Mamit,3.86,68,35,0.5
+Kinnaur,8.19,75,26,1.5
+Kinnaur,0.28,69,19,1.1
+Kinnaur,8.96,61,36,1.4
+Upper Subansiri,2.34,72,25,0.1
+Upper Subansiri,10.93,74,26,0.6
+Upper Subansiri,0.66,68,20,1.4
+Kolasib,1.4,74,35,0.3
+Kolasib,10.98,62,34,0.7
+Kolasib,1.02,67,18,1.6
+Lower Subansiri,6.89,64,19,0.4
+Lower Subansiri,4.33,68,22,0.2
+Lower Subansiri,1.18,66,33,0.9
+East Kameng,6.7,66,35,0.8
+East Kameng,2.21,64,31,0.4
+East Kameng,3.24,75,32,1.2
+Kiphire,6.16,67,22,0.7
+Kiphire,3.47,68,28,1.1
+Kiphire,3.15,61,14,1.8
+Serchhip,5.97,63,18,0.7
+Serchhip,3.62,72,24,0.0
+Serchhip,6.76,61,19,0.2
+Lakshadweep,10.36,69,33,0.1
+Lakshadweep,5.7,63,15,1.8
+Lakshadweep,5.68,63,15,1.8
+Saiha,6.71,75,40,0.7
+Saiha,10.56,61,22,0.6
+Saiha,4.6,66,36,0.9
+Yanam,6.97,62,40,1.0
+Yanam,9.88,74,37,0.1
+Yanam,0.93,68,18,0.8
+Lower Dibang Valley,4.44,70,21,0.9
+Lower Dibang Valley,6.4,71,40,2.0
+Lower Dibang Valley,7.0,75,19,1.6
+Diu,3.9,60,15,0.1
+Diu,0.75,62,36,0.9
+Diu,7.19,71,37,1.8
+Longleng,0.97,64,30,0.8
+Longleng,7.51,70,39,0.1
+Longleng,4.73,66,14,1.5
+Tawang,4.77,62,31,1.4
+Tawang,9.69,67,18,1.2
+Tawang,3.45,74,11,0.4
+North Sikkim,2.91,75,35,1.0
+North Sikkim,7.24,61,17,0.0
+North Sikkim,5.1,74,14,1.3
+Mahe,2.96,61,31,0.5
+Mahe,0.24,75,32,0.3
+Mahe,7.75,73,33,1.3
+Nicobar,5.88,61,35,1.6
+Nicobar,1.71,71,40,1.4
+Nicobar,3.49,68,39,1.7
+Upper Siang,4.93,72,36,1.4
+Upper Siang,4.83,73,16,1.5
+Upper Siang,9.23,67,21,1.0
+Lahaul and Spiti,1.55,62,30,1.5
+Lahaul and Spiti,10.46,75,10,0.8
+Lahaul and Spiti,2.37,74,12,0.4
+Anjaw,9.29,63,33,1.1
+Anjaw,7.95,66,31,1.3
+Anjaw,0.72,71,27,0.3
+Dibang Valley,1.52,66,16,1.1
+Dibang Valley,1.29,75,20,0.6
+Dibang Valley,8.14,62,21,1.6
+Fazilka,9.75,67,29,1.4
+Fazilka,10.33,64,38,1.8
+Fazilka,9.27,72,11,0.8
+Shamli,0.77,70,12,1.2
+Shamli,5.18,70,30,0.6
+Shamli,7.68,62,40,1.7
+Balrampur,5.03,65,19,1.1
+Balrampur,2.0,69,16,2.0
+Balrampur,0.01,71,29,0.4
+Bemetara,4.01,67,30,1.9
+Bemetara,1.36,74,15,2.0
+Bemetara,7.84,63,38,1.2
+Palghar,3.57,64,34,2.0
+Palghar,2.04,67,17,0.9
+Palghar,2.75,70,12,0.5
+Longding,6.0,61,11,0.3
+Longding,10.89,71,30,0.6
+Longding,0.46,66,24,0.7
+Balod,7.68,65,21,1.1
+Balod,10.17,64,12,0.7
+Balod,1.58,68,23,1.4
+Baloda Bazar,10.95,66,21,0.3
+Baloda Bazar,6.89,74,23,1.5
+Baloda Bazar,7.9,68,25,1.0
+Gariaband,10.66,68,40,1.8
+Gariaband,9.59,71,20,1.4
+Gariaband,8.31,64,25,1.8
+Kondagaon,6.07,68,29,1.6
+Kondagaon,3.64,64,18,0.2
+Kondagaon,10.52,66,37,0.7
+Mungeli,8.41,72,39,1.8
+Mungeli,2.31,65,15,0.6
+Mungeli,10.86,72,23,0.8
+Shahdara,4.97,74,17,1.2
+Shahdara,0.56,61,24,1.0
+Shahdara,5.06,65,27,0.1
+South East Delhi,3.56,64,12,1.7
+South East Delhi,8.1,61,21,1.1
+South East Delhi,0.44,72,24,0.1
+Agar,1.07,69,40,1.9
+Agar,8.05,70,35,1.9
+Agar,1.49,73,24,1.3
+South West Garo Hills,6.78,71,28,1.5
+South West Garo Hills,2.29,60,11,0.5
+South West Garo Hills,6.94,60,14,0.5
+Amethi (Chhatrapati Shahuji Maharaj Nagar),1.31,63,35,1.1
+Amethi (Chhatrapati Shahuji Maharaj Nagar),9.69,73,35,1.6
+Amethi (Chhatrapati Shahuji Maharaj Nagar),0.36,60,26,0.7
